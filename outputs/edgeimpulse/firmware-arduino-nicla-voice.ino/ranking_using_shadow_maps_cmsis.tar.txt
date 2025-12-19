@@ -1,0 +1,2608 @@
+Rank #1: (score 0.008831521739130434, normalized score 1.0)
+	tmp/svds/cmsis/Nordic/nrf52805.svd
+1 devices with rank #1
+Rank #2: (score 0.008739348918505571, normalized score 0.989563200618477)
+	tmp/svds/cmsis/Nordic/nrf52810.svd
+1 devices with rank #2
+Rank #3: (score 0.00856898029134533, normalized score 0.9702722299123329)
+	tmp/svds/cmsis/Nordic/nrf52811.svd
+1 devices with rank #3
+Rank #4: (score 0.00853450377956596, normalized score 0.966368427963161)
+	tmp/svds/cmsis/Nordic/nrf51.svd
+1 devices with rank #4
+Rank #5: (score 0.007899534130038485, normalized score 0.8944703261089731)
+	tmp/svds/cmsis/Nordic/nrf52820.svd
+1 devices with rank #5
+Rank #6: (score 0.007744616547034379, normalized score 0.8769288890180467)
+	tmp/svds/cmsis/Nordic/nrf52.svd
+1 devices with rank #6
+Rank #7: (score 0.0068815038603558245, normalized score 0.7791979755725981)
+	tmp/svds/cmsis/Nordic/nrf52840.svd
+1 devices with rank #7
+Rank #8: (score 0.006765899864682003, normalized score 0.7661080462163007)
+	tmp/svds/cmsis/Nordic/nrf52833.svd
+1 devices with rank #8
+Rank #9: (score 0.004464285714285714, normalized score 0.5054945054945055)
+	tmp/svds/cmsis/STMicro/STM32G473xx.svd
+	tmp/svds/cmsis/STMicro/STM32G483xx.svd
+2 devices with rank #9
+Rank #10: (score 0.0041981528127623844, normalized score 0.47536007233740235)
+	tmp/svds/cmsis/STMicro/STM32G474xx.svd
+1 devices with rank #10
+Rank #11: (score 0.004165972337943676, normalized score 0.4717162524194686)
+	tmp/svds/cmsis/STMicro/STM32G484xx.svd
+1 devices with rank #11
+Rank #12: (score 0.004147738494963461, normalized score 0.46965162035278574)
+	tmp/svds/cmsis/STMicro/STM32GBK1CBT6.svd
+1 devices with rank #12
+Rank #13: (score 0.004129793510324484, normalized score 0.46761969593828)
+	tmp/svds/cmsis/STMicro/STM32G431xx.svd
+	tmp/svds/cmsis/STMicro/STM32G441xx.svd
+2 devices with rank #13
+Rank #14: (score 0.00410958904109589, normalized score 0.465331928345627)
+	tmp/svds/cmsis/STMicro/STM32G491xx.svd
+1 devices with rank #14
+Rank #15: (score 0.004072924747866563, normalized score 0.4611804022199678)
+	tmp/svds/cmsis/STMicro/STM32G4A1xx.svd
+1 devices with rank #15
+Rank #16: (score 0.003958529688972668, normalized score 0.4482273617052129)
+	tmp/svds/cmsis/STMicro/STM32G471xx.svd
+1 devices with rank #16
+Rank #17: (score 0.0026923939869867622, normalized score 0.3048618422188088)
+	tmp/svds/cmsis/STMicro/STM32F401.svd
+1 devices with rank #17
+Rank #18: (score 0.0026827632461435278, normalized score 0.30377134602486716)
+	tmp/svds/cmsis/STMicro/STM32F411.svd
+1 devices with rank #18
+Rank #19: (score 0.0026254375729288216, normalized score 0.2972803159500943)
+	tmp/svds/cmsis/Freescale/SKEAZN84.svd
+1 devices with rank #19
+Rank #20: (score 0.002598152424942263, normalized score 0.2941907976550009)
+	tmp/svds/cmsis/Freescale/MKE02Z2.svd
+	tmp/svds/cmsis/Freescale/MKE02Z4.svd
+	tmp/svds/cmsis/Freescale/SKEAZN642.svd
+3 devices with rank #20
+Rank #21: (score 0.002563372258615779, normalized score 0.290252612667879)
+	tmp/svds/cmsis/Freescale/MKE04Z1284.svd
+1 devices with rank #21
+Rank #22: (score 0.0025498377375985167, normalized score 0.28872008844192437)
+	tmp/svds/cmsis/TexasInstruments/MSP432P4011.svd
+	tmp/svds/cmsis/TexasInstruments/MSP432P401V.svd
+	tmp/svds/cmsis/TexasInstruments/MSP432P401Y.svd
+3 devices with rank #22
+Rank #23: (score 0.0025492468134414832, normalized score 0.2886531776450664)
+	tmp/svds/cmsis/TexasInstruments/MSP432P401M.svd
+	tmp/svds/cmsis/TexasInstruments/MSP432P401R.svd
+2 devices with rank #23
+Rank #24: (score 0.002540220152413209, normalized score 0.28763108187324954)
+	tmp/svds/cmsis/Freescale/MKE06Z4.svd
+	tmp/svds/cmsis/Freescale/SKEAZ1284.svd
+2 devices with rank #24
+Rank #25: (score 0.0025157232704402514, normalized score 0.2848572810836962)
+	tmp/svds/cmsis/Freescale/MKE14D7.svd
+1 devices with rank #25
+Rank #26: (score 0.002511989038593286, normalized score 0.28443445113917826)
+	tmp/svds/cmsis/ArteryTek/AT32F425xx_v2.svd
+1 devices with rank #26
+Rank #27: (score 0.0025073129962390303, normalized score 0.28390497926645025)
+	tmp/svds/cmsis/Freescale/MKE15D7.svd
+1 devices with rank #27
+Rank #28: (score 0.0024904214559386974, normalized score 0.281992337164751)
+	tmp/svds/cmsis/STMicro/STM32F412.svd
+1 devices with rank #28
+Rank #29: (score 0.002480829950383401, normalized score 0.2809062836126436)
+	tmp/svds/cmsis/TexasInstruments/MSP432P4111.svd
+	tmp/svds/cmsis/TexasInstruments/MSP432P411V.svd
+	tmp/svds/cmsis/TexasInstruments/MSP432P411Y.svd
+3 devices with rank #29
+Rank #30: (score 0.0024762690879075525, normalized score 0.2803898536461475)
+	tmp/svds/cmsis/STMicro/STM32F302.svd
+1 devices with rank #30
+Rank #31: (score 0.002470152326060107, normalized score 0.27969724799695983)
+	tmp/svds/cmsis/STMicro/STM32F303.svd
+1 devices with rank #31
+Rank #32: (score 0.0024429967426710096, normalized score 0.276622400400902)
+	tmp/svds/cmsis/Freescale/MKL04Z4.svd
+1 devices with rank #32
+Rank #33: (score 0.002434570906877663, normalized score 0.27566833653260925)
+	tmp/svds/cmsis/NXP/MK22F25612.svd
+1 devices with rank #33
+Rank #34: (score 0.002429805615550756, normalized score 0.27512875893005484)
+	tmp/svds/cmsis/Holtek/ht32f125x.svd
+1 devices with rank #34
+Rank #35: (score 0.00242450958783337, normalized score 0.27452908563774775)
+	tmp/svds/cmsis/Atmel/ATSAML11D14A.svd
+	tmp/svds/cmsis/Atmel/ATSAML11D15A.svd
+	tmp/svds/cmsis/Atmel/ATSAML11D16A.svd
+3 devices with rank #35
+Rank #36: (score 0.002416806097787693, normalized score 0.2736568135341142)
+	tmp/svds/cmsis/Atmel/ATSAMS70J21.svd
+1 devices with rank #36
+Rank #37: (score 0.0024138687733157777, normalized score 0.2733242180246789)
+	tmp/svds/cmsis/Atmel/ATSAML11E14A.svd
+	tmp/svds/cmsis/Atmel/ATSAML11E15A.svd
+	tmp/svds/cmsis/Atmel/ATSAML11E16A.svd
+3 devices with rank #37
+Rank #38: (score 0.0024105321713332097, normalized score 0.2729464120155758)
+	tmp/svds/cmsis/Atmel/ATSAMS70J21B.svd
+1 devices with rank #38
+Rank #39: (score 0.002368265245707519, normalized score 0.2681604955139591)
+	tmp/svds/cmsis/NXP/MK22F51212.svd
+1 devices with rank #39
+Rank #40: (score 0.002360717658168083, normalized score 0.2673058763710322)
+	tmp/svds/cmsis/ArteryTek/AT32WB415xx_v2.svd
+1 devices with rank #40
+Rank #41: (score 0.0023446658851113715, normalized score 0.265488321760303)
+	tmp/svds/cmsis/Freescale/MK50D7.svd
+1 devices with rank #41
+Rank #42: (score 0.00234009360374415, normalized score 0.26497059882395296)
+	tmp/svds/cmsis/Freescale/MK51D7.svd
+1 devices with rank #42
+Rank #43: (score 0.002335609054976644, normalized score 0.26446280991735543)
+	tmp/svds/cmsis/STMicro/STM32F446.svd
+1 devices with rank #43
+Rank #44: (score 0.002325195150307258, normalized score 0.2632836354809449)
+	tmp/svds/cmsis/Atmel/ATSAMS70N21.svd
+1 devices with rank #44
+Rank #45: (score 0.0023245002324500234, normalized score 0.26320494939741806)
+	tmp/svds/cmsis/Freescale/MK10D5.svd
+1 devices with rank #45
+Rank #46: (score 0.002317880794701987, normalized score 0.2624554253693327)
+	tmp/svds/cmsis/Atmel/ATSAMS70N21B.svd
+1 devices with rank #46
+Rank #47: (score 0.00231000231000231, normalized score 0.26156333848641544)
+	tmp/svds/cmsis/ArteryTek/AT32F415xx_v2.svd
+1 devices with rank #47
+Rank #48: (score 0.0023094688221709007, normalized score 0.2615029312488897)
+	tmp/svds/cmsis/STMicro/STM32G07x.svd
+1 devices with rank #48
+Rank #49: (score 0.0023047375160051217, normalized score 0.2609672018122723)
+	tmp/svds/cmsis/STMicro/STM32L0x1.svd
+1 devices with rank #49
+Rank #50: (score 0.0023045899750336087, normalized score 0.2609504956345748)
+	tmp/svds/cmsis/Freescale/MK10D7.svd
+1 devices with rank #50
+Rank #51: (score 0.0023001725129384704, normalized score 0.26045030300349453)
+	tmp/svds/cmsis/Freescale/MK30D7.svd
+1 devices with rank #51
+Rank #52: (score 0.002277904328018223, normalized score 0.2579288592956019)
+	tmp/svds/cmsis/STMicro/STM32F413.svd
+1 devices with rank #52
+Rank #53: (score 0.0022727272727272726, normalized score 0.2573426573426574)
+	tmp/svds/cmsis/Atmel/ATSAMS70Q21.svd
+1 devices with rank #53
+Rank #54: (score 0.002266639192252215, normalized score 0.2566532993073278)
+	tmp/svds/cmsis/ArteryTek/AT32F402xx_v2.svd
+1 devices with rank #54
+Rank #55: (score 0.002263906856403622, normalized score 0.25634391481739477)
+	tmp/svds/cmsis/Atmel/ATSAMS70Q21B.svd
+1 devices with rank #55
+Rank #56: (score 0.0022628700735432775, normalized score 0.25622651909659266)
+	tmp/svds/cmsis/Freescale/MK20D7.svd
+1 devices with rank #56
+Rank #57: (score 0.002258610954263128, normalized score 0.25574425574425574)
+	tmp/svds/cmsis/Freescale/MK40D7.svd
+1 devices with rank #57
+Rank #58: (score 0.002256552681826072, normalized score 0.2555111959729214)
+	tmp/svds/cmsis/Atmel/ATSAME70J21.svd
+1 devices with rank #58
+Rank #59: (score 0.0022506925207756235, normalized score 0.25484764542936295)
+	tmp/svds/cmsis/STMicro/STM32F730.svd
+	tmp/svds/cmsis/STMicro/STM32F7x2.svd
+	tmp/svds/cmsis/STMicro/STM32F7x3.svd
+3 devices with rank #59
+Rank #60: (score 0.0022398345968297727, normalized score 0.25361819434872507)
+	tmp/svds/cmsis/Atmel/ATSAME70J21B.svd
+1 devices with rank #60
+Rank #61: (score 0.0022349143282840824, normalized score 0.2530610685564746)
+	tmp/svds/cmsis/STMicro/STM32L0x2.svd
+1 devices with rank #61
+Rank #62: (score 0.002230897936419409, normalized score 0.2526062894161054)
+	tmp/svds/cmsis/Freescale/MK50DZ10.svd
+1 devices with rank #62
+Rank #63: (score 0.002222771054581378, normalized score 0.2516860763341376)
+	tmp/svds/cmsis/STMicro/STM32L0x3.svd
+1 devices with rank #63
+Rank #64: (score 0.0022195663308861194, normalized score 0.25132320300495137)
+	tmp/svds/cmsis/Atmel/ATSAMV71J21B.svd
+1 devices with rank #64
+Rank #65: (score 0.0022123893805309734, normalized score 0.25051055139550715)
+	tmp/svds/cmsis/STMicro/STM32F105xx.svd
+1 devices with rank #65
+Rank #66: (score 0.002211166390270868, normalized score 0.25037207126759364)
+	tmp/svds/cmsis/Freescale/MK51DZ10.svd
+1 devices with rank #66
+Rank #67: (score 0.0022037218413320275, normalized score 0.24952911926467267)
+	tmp/svds/cmsis/STMicro/STM32F301.svd
+1 devices with rank #67
+Rank #68: (score 0.0021991203518592563, normalized score 0.2490080890720635)
+	tmp/svds/cmsis/ArteryTek/AT32F423xx_v2.svd
+1 devices with rank #68
+Rank #69: (score 0.0021983390327308255, normalized score 0.24891961970613657)
+	tmp/svds/cmsis/NXP/MKL26Z4.svd
+1 devices with rank #69
+Rank #70: (score 0.0021929824561403508, normalized score 0.2483130904183536)
+	tmp/svds/cmsis/STMicro/STM32F410.svd
+1 devices with rank #70
+Rank #71: (score 0.0021885521885521885, normalized score 0.24781144781144782)
+	tmp/svds/cmsis/STMicro/STM32F405.svd
+	tmp/svds/cmsis/STMicro/STM32F407.svd
+2 devices with rank #71
+Rank #72: (score 0.0021878418502891076, normalized score 0.24773101566350514)
+	tmp/svds/cmsis/Atmel/ATSAMV71J21.svd
+1 devices with rank #72
+Rank #73: (score 0.0021766733176129148, normalized score 0.24646639411740082)
+	tmp/svds/cmsis/Freescale/MK24F12.svd
+1 devices with rank #73
+Rank #74: (score 0.002173913043478261, normalized score 0.24615384615384617)
+	tmp/svds/cmsis/STMicro/STM32F373.svd
+1 devices with rank #74
+Rank #75: (score 0.002170374389582203, normalized score 0.24575316165115407)
+	tmp/svds/cmsis/Nuvoton/M051_Series.svd
+1 devices with rank #75
+Rank #76: (score 0.002168726957276079, normalized score 0.24556662162387602)
+	tmp/svds/cmsis/STMicro/STM32F107xx.svd
+1 devices with rank #76
+Rank #77: (score 0.0021663056157307115, normalized score 0.24529245125812366)
+	tmp/svds/cmsis/STMicro/STM32F427.svd
+1 devices with rank #77
+Rank #78: (score 0.002163421534365119, normalized score 0.2449658845065735)
+	tmp/svds/cmsis/STMicro/STM32F429.svd
+1 devices with rank #78
+Rank #79: (score 0.002160160469063416, normalized score 0.2445966315739499)
+	tmp/svds/cmsis/Atmel/ATSAME70N21.svd
+1 devices with rank #79
+Rank #80: (score 0.002151694459386767, normalized score 0.2436380187859478)
+	tmp/svds/cmsis/STMicro/STM32F031x.svd
+1 devices with rank #80
+Rank #81: (score 0.0021429664778815248, normalized score 0.2426497427262773)
+	tmp/svds/cmsis/Atmel/ATSAME70N21B.svd
+1 devices with rank #81
+Rank #82: (score 0.002142857142857143, normalized score 0.24263736263736266)
+	tmp/svds/cmsis/Freescale/MK52DZ10.svd
+1 devices with rank #82
+Rank #83: (score 0.0021313698895562877, normalized score 0.24133665210975813)
+	tmp/svds/cmsis/Atmel/ATSAMD51G18A.svd
+	tmp/svds/cmsis/Atmel/ATSAMD51G19A.svd
+2 devices with rank #83
+Rank #84: (score 0.0021286660359508044, normalized score 0.24103049268612187)
+	tmp/svds/cmsis/Holtek/ht32f175x.svd
+1 devices with rank #84
+Rank #85: (score 0.002128630074502053, normalized score 0.24102642074361708)
+	tmp/svds/cmsis/Atmel/ATSAMV71N21.svd
+1 devices with rank #85
+Rank #86: (score 0.002128162686214235, normalized score 0.240973498008258)
+	tmp/svds/cmsis/Freescale/MKM34Z7.svd
+1 devices with rank #86
+Rank #87: (score 0.0021257212268448226, normalized score 0.24069704968581376)
+	tmp/svds/cmsis/Atmel/ATSAMV71N21B.svd
+1 devices with rank #87
+Rank #88: (score 0.0021238938053097347, normalized score 0.2404901293396869)
+	tmp/svds/cmsis/Freescale/MK53DZ10.svd
+1 devices with rank #88
+Rank #89: (score 0.0021231422505307855, normalized score 0.24040503021394743)
+	tmp/svds/cmsis/STMicro/STM32F030.svd
+1 devices with rank #89
+Rank #90: (score 0.0021193924408336277, normalized score 0.23998043637746924)
+	tmp/svds/cmsis/Freescale/MK64F12.svd
+	tmp/svds/cmsis/NXP/MK64F12.svd
+2 devices with rank #90
+Rank #91: (score 0.00211864406779661, normalized score 0.2398956975228162)
+	tmp/svds/cmsis/Freescale/MK10DZ10.svd
+1 devices with rank #91
+Rank #92: (score 0.0021148036253776435, normalized score 0.23946084127353012)
+	tmp/svds/cmsis/Atmel/ATSAME70Q21.svd
+1 devices with rank #92
+Rank #93: (score 0.0021130480718436345, normalized score 0.23926205859644847)
+	tmp/svds/cmsis/Infineon/TLE984x.svd
+1 devices with rank #93
+Rank #94: (score 0.0021106941838649157, normalized score 0.2389955260499351)
+	tmp/svds/cmsis/Holtek/ht32f275x.svd
+1 devices with rank #94
+Rank #95: (score 0.002109704641350211, normalized score 0.2388834793898085)
+	tmp/svds/cmsis/STMicro/STM32F469.svd
+1 devices with rank #95
+Rank #96: (score 0.002105263157894737, normalized score 0.23838056680161945)
+	tmp/svds/cmsis/ArteryTek/AT32F421xx_v2.svd
+1 devices with rank #96
+Rank #97: (score 0.0021008403361344537, normalized score 0.237879767291532)
+	tmp/svds/cmsis/Freescale/MK30DZ10.svd
+1 devices with rank #97
+Rank #98: (score 0.002096750037441965, normalized score 0.2374166196241979)
+	tmp/svds/cmsis/Atmel/ATSAME70Q21B.svd
+1 devices with rank #98
+Rank #99: (score 0.002092448164352292, normalized score 0.23692951522512107)
+	tmp/svds/cmsis/ArteryTek/AT32F405xx_v2.svd
+1 devices with rank #99
+Rank #100: (score 0.0020915032679738564, normalized score 0.23682252388134745)
+	tmp/svds/cmsis/Infineon/TLE9868.svd
+1 devices with rank #100
+Rank #101: (score 0.0020851433536055604, normalized score 0.23610238588518348)
+	tmp/svds/cmsis/Freescale/MK20DZ10.svd
+1 devices with rank #101
+Rank #102: (score 0.0020802377414561664, normalized score 0.2355469196479598)
+	tmp/svds/cmsis/Atmel/ATSAMV71Q21B.svd
+1 devices with rank #102
+Rank #103: (score 0.002079002079002079, normalized score 0.2354070046377739)
+	tmp/svds/cmsis/Atmel/ATSAMV71Q21.svd
+1 devices with rank #103
+Rank #104: (score 0.002073613271124935, normalized score 0.23479682577660807)
+	tmp/svds/cmsis/STMicro/STM32L4x6.svd
+1 devices with rank #104
+Rank #105: (score 0.002069857697283312, normalized score 0.23437157926161808)
+	tmp/svds/cmsis/STMicro/STM32F0xx.svd
+1 devices with rank #105
+Rank #106: (score 0.002067895915905566, normalized score 0.23414944524715334)
+	tmp/svds/cmsis/Freescale/MK40DZ10.svd
+1 devices with rank #106
+Rank #107: (score 0.0020630157539384846, normalized score 0.23359686075364997)
+	tmp/svds/cmsis/Atmel/ATSAME51G18A.svd
+	tmp/svds/cmsis/Atmel/ATSAME51G19A.svd
+2 devices with rank #107
+Rank #108: (score 0.002059202059202059, normalized score 0.23316503316503318)
+	tmp/svds/cmsis/Infineon/TLE986x.svd
+1 devices with rank #108
+Rank #109: (score 0.0020572283523471106, normalized score 0.23294154881961132)
+	tmp/svds/cmsis/Atmel/ATSAMD51J18A.svd
+	tmp/svds/cmsis/Atmel/ATSAMD51J19A.svd
+	tmp/svds/cmsis/Atmel/ATSAMD51J20A.svd
+3 devices with rank #109
+Rank #110: (score 0.002056962025316456, normalized score 0.2329113924050633)
+	tmp/svds/cmsis/STMicro/STM32F7x5.svd
+1 devices with rank #110
+Rank #111: (score 0.0020549704597996403, normalized score 0.23268588590962083)
+	tmp/svds/cmsis/Infineon/TLE987x.svd
+1 devices with rank #111
+Rank #112: (score 0.0020537124802527647, normalized score 0.23254344391785153)
+	tmp/svds/cmsis/STMicro/STM32F745.svd
+	tmp/svds/cmsis/STMicro/STM32F750.svd
+	tmp/svds/cmsis/STMicro/STM32F7x6.svd
+3 devices with rank #112
+Rank #113: (score 0.0020457504184489494, normalized score 0.23164189353514258)
+	tmp/svds/cmsis/Atmel/ATSAMS70J20.svd
+1 devices with rank #113
+Rank #114: (score 0.0020404377666481174, normalized score 0.23104033788507916)
+	tmp/svds/cmsis/Atmel/ATSAMS70J20B.svd
+1 devices with rank #114
+Rank #115: (score 0.0020333468889792597, normalized score 0.2302374323521131)
+	tmp/svds/cmsis/STMicro/STM32F3x8.svd
+1 devices with rank #115
+Rank #116: (score 0.0020191822311963654, normalized score 0.22863355725546539)
+	tmp/svds/cmsis/STMicro/STM32F042x.svd
+1 devices with rank #116
+Rank #117: (score 0.00201663725737333, normalized score 0.22834538791181092)
+	tmp/svds/cmsis/Infineon/TLE985x.svd
+1 devices with rank #117
+Rank #118: (score 0.002010233918128655, normalized score 0.2276203328834908)
+	tmp/svds/cmsis/STMicro/STM32F20x.svd
+1 devices with rank #118
+Rank #119: (score 0.002008032128514056, normalized score 0.22737102255174543)
+	tmp/svds/cmsis/Freescale/MK60DZ10.svd
+1 devices with rank #119
+Rank #120: (score 0.002000363702491362, normalized score 0.22650272077440656)
+	tmp/svds/cmsis/Atmel/ATSAME53J18A.svd
+	tmp/svds/cmsis/Atmel/ATSAME53J19A.svd
+	tmp/svds/cmsis/Atmel/ATSAME53J20A.svd
+3 devices with rank #120
+Rank #121: (score 0.0019967326193501543, normalized score 0.22609157043718672)
+	tmp/svds/cmsis/Atmel/ATSAME51J18A.svd
+	tmp/svds/cmsis/Atmel/ATSAME51J19A.svd
+	tmp/svds/cmsis/Atmel/ATSAME51J20A.svd
+3 devices with rank #121
+Rank #122: (score 0.001993686658913441, normalized score 0.22574667399389117)
+	tmp/svds/cmsis/Atmel/ATSAMS70N20.svd
+1 devices with rank #122
+Rank #123: (score 0.0019898697539797393, normalized score 0.22531448291216744)
+	tmp/svds/cmsis/Atmel/ATSAMV70J20B.svd
+1 devices with rank #123
+Rank #124: (score 0.0019884309472161968, normalized score 0.22515156571555706)
+	tmp/svds/cmsis/Atmel/ATSAMD51N19A.svd
+	tmp/svds/cmsis/Atmel/ATSAMD51N20A.svd
+2 devices with rank #124
+Rank #125: (score 0.001987413050679033, normalized score 0.22503630850765668)
+	tmp/svds/cmsis/Atmel/ATSAMS70N20B.svd
+1 devices with rank #125
+Rank #126: (score 0.0019792182088075212, normalized score 0.2241084002588209)
+	tmp/svds/cmsis/Atmel/ATSAMV70J20.svd
+1 devices with rank #126
+Rank #127: (score 0.0019723865877712033, normalized score 0.2233348505537855)
+	tmp/svds/cmsis/Atmel/ATSAMD51P19A.svd
+	tmp/svds/cmsis/Atmel/ATSAMD51P20A.svd
+2 devices with rank #127
+Rank #128: (score 0.001961133891959351, normalized score 0.22206069915108959)
+	tmp/svds/cmsis/STMicro/STM32F21x.svd
+1 devices with rank #128
+Rank #129: (score 0.001959503592423253, normalized score 0.22187609908054065)
+	tmp/svds/cmsis/STMicro/STM32L4x3.svd
+1 devices with rank #129
+Rank #130: (score 0.001950743721043648, normalized score 0.2208842121058654)
+	tmp/svds/cmsis/Infineon/XMC1100.svd
+1 devices with rank #130
+Rank #131: (score 0.0019496632399858206, normalized score 0.2207618684045483)
+	tmp/svds/cmsis/Atmel/ATSAME51N19A.svd
+	tmp/svds/cmsis/Atmel/ATSAME51N20A.svd
+2 devices with rank #131
+Rank #132: (score 0.001948684637869438, normalized score 0.22065106053413946)
+	tmp/svds/cmsis/Atmel/ATSAMS70Q20.svd
+1 devices with rank #132
+Rank #133: (score 0.001948368241597662, normalized score 0.22061523474090453)
+	tmp/svds/cmsis/STMicro/STM32F101xx.svd
+1 devices with rank #133
+Rank #134: (score 0.0019474196689386564, normalized score 0.22050782712905403)
+	tmp/svds/cmsis/Freescale/MKL28Z7.svd
+1 devices with rank #134
+Rank #135: (score 0.0019411193788417987, normalized score 0.21979444043500984)
+	tmp/svds/cmsis/Atmel/ATSAMS70Q20B.svd
+1 devices with rank #135
+Rank #136: (score 0.0019393939393939393, normalized score 0.2195990675990676)
+	tmp/svds/cmsis/STMicro/STM32F072x.svd
+1 devices with rank #136
+Rank #137: (score 0.0019352568613652356, normalized score 0.21913062307150977)
+	tmp/svds/cmsis/Atmel/ATSAME53N19A.svd
+	tmp/svds/cmsis/Atmel/ATSAME53N20A.svd
+2 devices with rank #137
+Rank #138: (score 0.001931434089811685, normalized score 0.21869776770790775)
+	tmp/svds/cmsis/STMicro/STM32F100xx.svd
+1 devices with rank #138
+Rank #139: (score 0.0019206145966709346, normalized score 0.21747266817689354)
+	tmp/svds/cmsis/Atmel/ATSAMV70N20.svd
+1 devices with rank #139
+Rank #140: (score 0.001917852005753556, normalized score 0.21715985788224884)
+	tmp/svds/cmsis/Atmel/ATSAMV70N20B.svd
+1 devices with rank #140
+Rank #141: (score 0.0019115890083632018, normalized score 0.21645069387004873)
+	tmp/svds/cmsis/STMicro/STM32F091x.svd
+1 devices with rank #141
+Rank #142: (score 0.0019100538287897205, normalized score 0.21627686430603607)
+	tmp/svds/cmsis/Atmel/ATSAME70J20.svd
+1 devices with rank #142
+Rank #143: (score 0.0019055684946008892, normalized score 0.21576898646557763)
+	tmp/svds/cmsis/STMicro/STM32F3x4.svd
+1 devices with rank #143
+Rank #144: (score 0.001896633475580844, normalized score 0.21475726738884635)
+	tmp/svds/cmsis/Nuvoton/NUC100_Series.svd
+1 devices with rank #144
+Rank #145: (score 0.0018960341286143152, normalized score 0.21468940287079016)
+	tmp/svds/cmsis/Freescale/MK10F12.svd
+1 devices with rank #145
+Rank #146: (score 0.0018958979662185454, normalized score 0.21467398509797686)
+	tmp/svds/cmsis/Atmel/ATSAME70J20B.svd
+1 devices with rank #146
+Rank #147: (score 0.0018934271030565323, normalized score 0.21439420736147813)
+	tmp/svds/cmsis/STMicro/STM32F102xx.svd
+1 devices with rank #147
+Rank #148: (score 0.0018867924528301887, normalized score 0.21364296081277215)
+	tmp/svds/cmsis/Freescale/MKV56F24.svd
+1 devices with rank #148
+Rank #149: (score 0.001881628463906945, normalized score 0.2130582383746941)
+	tmp/svds/cmsis/Atmel/ATSAME54N19A.svd
+	tmp/svds/cmsis/Atmel/ATSAME54N20A.svd
+2 devices with rank #149
+Rank #150: (score 0.0018788163457022077, normalized score 0.21273982006720385)
+	tmp/svds/cmsis/Atmel/ATSAMV70Q20.svd
+1 devices with rank #150
+Rank #151: (score 0.001878736122971819, normalized score 0.21273073638573212)
+	tmp/svds/cmsis/Atmel/ATSAMV71J20B.svd
+1 devices with rank #151
+Rank #152: (score 0.0018758793184305144, normalized score 0.21240725820997827)
+	tmp/svds/cmsis/Atmel/ATSAMV71J20.svd
+1 devices with rank #152
+Rank #153: (score 0.0018747070770192159, normalized score 0.21227452441325276)
+	tmp/svds/cmsis/Atmel/ATSAMV70Q20B.svd
+1 devices with rank #153
+Rank #154: (score 0.001867255134951621, normalized score 0.21143073528067588)
+	tmp/svds/cmsis/Atmel/ATSAME54P19A.svd
+	tmp/svds/cmsis/Atmel/ATSAME54P20A.svd
+2 devices with rank #154
+Rank #155: (score 0.0018604651162790699, normalized score 0.21066189624329162)
+	tmp/svds/cmsis/Atmel/ATSAMS70J19.svd
+1 devices with rank #155
+Rank #156: (score 0.0018552875695732839, normalized score 0.21007563864706724)
+	tmp/svds/cmsis/Atmel/ATSAMS70J19B.svd
+1 devices with rank #156
+Rank #157: (score 0.0018521376755672172, normalized score 0.20971897372576492)
+	tmp/svds/cmsis/Atmel/ATSAME70N20.svd
+1 devices with rank #157
+Rank #158: (score 0.001849983181971073, normalized score 0.20947501875857072)
+	tmp/svds/cmsis/ArteryTek/AT32F435xx_v2.svd
+1 devices with rank #158
+Rank #159: (score 0.0018472906403940886, normalized score 0.20917014020462296)
+	tmp/svds/cmsis/Freescale/MK20F12.svd
+1 devices with rank #159
+Rank #160: (score 0.001841903300076746, normalized score 0.20856012751638234)
+	tmp/svds/cmsis/NXP/MK65F18.svd
+	tmp/svds/cmsis/NXP/MK66F18.svd
+2 devices with rank #160
+Rank #161: (score 0.0018373909049150207, normalized score 0.20804918554114699)
+	tmp/svds/cmsis/Atmel/ATSAME70N20B.svd
+1 devices with rank #161
+Rank #162: (score 0.001834862385321101, normalized score 0.2077628793225124)
+	tmp/svds/cmsis/STMicro/STM32L4x1.svd
+	tmp/svds/cmsis/STMicro/STM32L4x2.svd
+2 devices with rank #162
+Rank #163: (score 0.0018278497839813892, normalized score 0.20696883707850808)
+	tmp/svds/cmsis/Atmel/ATSAMS70N19.svd
+1 devices with rank #163
+Rank #164: (score 0.0018250950570342205, normalized score 0.20665691722725946)
+	tmp/svds/cmsis/Atmel/ATSAMV71N20.svd
+1 devices with rank #164
+Rank #165: (score 0.0018226002430133657, normalized score 0.20637442751659035)
+	tmp/svds/cmsis/Atmel/ATSAMV71N20B.svd
+1 devices with rank #165
+Rank #166: (score 0.0018220970680801723, normalized score 0.20631745263184723)
+	tmp/svds/cmsis/Atmel/ATSAMS70N19B.svd
+1 devices with rank #166
+Rank #167: (score 0.0018208905810296308, normalized score 0.20618084117504745)
+	tmp/svds/cmsis/ArteryTek/AT32F437xx_v2.svd
+1 devices with rank #167
+Rank #168: (score 0.001813236627379873, normalized score 0.20531417811562871)
+	tmp/svds/cmsis/Atmel/ATSAME70Q20.svd
+1 devices with rank #168
+Rank #169: (score 0.0018095453517303778, normalized score 0.20489621213439355)
+	tmp/svds/cmsis/STMicro/STM32F103xx.svd
+1 devices with rank #169
+Rank #170: (score 0.0018092998009770218, normalized score 0.20486840823370586)
+	tmp/svds/cmsis/Atmel/ATSAMV70J19B.svd
+1 devices with rank #170
+Rank #171: (score 0.0017977528089887641, normalized score 0.20356093344857393)
+	tmp/svds/cmsis/Atmel/ATSAME70Q20B.svd
+1 devices with rank #171
+Rank #172: (score 0.0017921146953405018, normalized score 0.2029225255031707)
+	tmp/svds/cmsis/STMicro/STM32L100.svd
+1 devices with rank #172
+Rank #173: (score 0.0017909475740801042, normalized score 0.20279037146507028)
+	tmp/svds/cmsis/Atmel/ATSAMV70J19.svd
+1 devices with rank #173
+Rank #174: (score 0.0017905102954341987, normalized score 0.2027408580676262)
+	tmp/svds/cmsis/Freescale/MKV58F24.svd
+1 devices with rank #174
+Rank #175: (score 0.0017886421225219854, normalized score 0.2025293234117202)
+	tmp/svds/cmsis/Freescale/MK60F15.svd
+1 devices with rank #175
+Rank #176: (score 0.0017865843755075525, normalized score 0.20229632313439366)
+	tmp/svds/cmsis/Atmel/ATSAMS70Q19.svd
+1 devices with rank #176
+Rank #177: (score 0.0017836873682503648, normalized score 0.20196829277419517)
+	tmp/svds/cmsis/Atmel/ATSAMV70N19.svd
+1 devices with rank #177
+Rank #178: (score 0.0017835909631391202, normalized score 0.20195737674929115)
+	tmp/svds/cmsis/Atmel/ATSAMV71Q20B.svd
+1 devices with rank #178
+Rank #179: (score 0.0017825311942959, normalized score 0.20183737830796655)
+	tmp/svds/cmsis/Atmel/ATSAMV71Q20.svd
+1 devices with rank #179
+Rank #180: (score 0.0017796473062611229, normalized score 0.2015108334474133)
+	tmp/svds/cmsis/Atmel/ATSAMS70Q19B.svd
+1 devices with rank #180
+Rank #181: (score 0.0017591556053094515, normalized score 0.1991905423858087)
+	tmp/svds/cmsis/STMicro/STM32F7x.svd
+1 devices with rank #181
+Rank #182: (score 0.001758312020460358, normalized score 0.1990950226244344)
+	tmp/svds/cmsis/Atmel/ATSAMV70N19B.svd
+1 devices with rank #182
+Rank #183: (score 0.0017574692442882249, normalized score 0.1989995944301744)
+	tmp/svds/cmsis/ArteryTek/AT32F403xx_v2.svd
+1 devices with rank #183
+Rank #184: (score 0.0017543859649122807, normalized score 0.1986504723346829)
+	tmp/svds/cmsis/Freescale/MK61F15.svd
+1 devices with rank #184
+Rank #185: (score 0.0017540440459949329, normalized score 0.19861175659265703)
+	tmp/svds/cmsis/RaspberryPi/rp2040.svd
+1 devices with rank #185
+Rank #186: (score 0.0017370158068438423, normalized score 0.19668363597493355)
+	tmp/svds/cmsis/Atmel/ATSAME70J19.svd
+1 devices with rank #186
+Rank #187: (score 0.0017331022530329288, normalized score 0.1962405012664978)
+	tmp/svds/cmsis/STMicro/STM32L15xxxA.svd
+1 devices with rank #187
+Rank #188: (score 0.0017247987734764277, normalized score 0.1953002918890232)
+	tmp/svds/cmsis/STMicro/STM32L4x5.svd
+1 devices with rank #188
+Rank #189: (score 0.0017238407171177384, normalized score 0.19519181043056238)
+	tmp/svds/cmsis/Atmel/ATSAME70J19B.svd
+1 devices with rank #189
+Rank #190: (score 0.001723327588908037, normalized score 0.19513370852866388)
+	tmp/svds/cmsis/Atmel/ATSAMV71J19.svd
+1 devices with rank #190
+Rank #191: (score 0.0017225180081428123, normalized score 0.19504203907586307)
+	tmp/svds/cmsis/Atmel/ATSAMV70Q19.svd
+1 devices with rank #191
+Rank #192: (score 0.00171875, normalized score 0.19461538461538463)
+	tmp/svds/cmsis/Atmel/ATSAMV70Q19B.svd
+1 devices with rank #192
+Rank #193: (score 0.0017134289997858213, normalized score 0.19401288366805608)
+	tmp/svds/cmsis/Infineon/XMC1200.svd
+1 devices with rank #193
+Rank #194: (score 0.0017082336863682953, normalized score 0.19342461433339467)
+	tmp/svds/cmsis/Atmel/ATSAMV71J19B.svd
+1 devices with rank #194
+Rank #195: (score 0.0017045454545454545, normalized score 0.193006993006993)
+	tmp/svds/cmsis/STMicro/STM32W108.svd
+1 devices with rank #195
+Rank #196: (score 0.0016980549552330967, normalized score 0.19227206877716296)
+	tmp/svds/cmsis/Atmel/ATSAME70N19.svd
+1 devices with rank #196
+Rank #197: (score 0.0016852749104697704, normalized score 0.19082497447780786)
+	tmp/svds/cmsis/ArteryTek/AT32A403Axx_v2.svd
+1 devices with rank #197
+Rank #198: (score 0.0016845329249617152, normalized score 0.19074095888797268)
+	tmp/svds/cmsis/Atmel/ATSAME70N19B.svd
+1 devices with rank #198
+Rank #199: (score 0.0016838560303094085, normalized score 0.1906643135858038)
+	tmp/svds/cmsis/ArteryTek/AT32F403Axx_v2.svd
+1 devices with rank #199
+Rank #200: (score 0.0016722408026755853, normalized score 0.18934911242603553)
+	tmp/svds/cmsis/STMicro/STM32L15xC.svd
+1 devices with rank #200
+Rank #201: (score 0.0016710432084029601, normalized score 0.1892135079053198)
+	tmp/svds/cmsis/STMicro/STM32L1xx.svd
+1 devices with rank #201
+Rank #202: (score 0.0016709706820598512, normalized score 0.18920529569170008)
+	tmp/svds/cmsis/Atmel/ATSAMV71N19B.svd
+1 devices with rank #202
+Rank #203: (score 0.001669955973887961, normalized score 0.1890903995048522)
+	tmp/svds/cmsis/Atmel/ATSAMV71N19.svd
+1 devices with rank #203
+Rank #204: (score 0.001668436220233581, normalized score 0.1889183166295255)
+	tmp/svds/cmsis/Atmel/ATSAME70Q19.svd
+1 devices with rank #204
+Rank #205: (score 0.0016518004625041295, normalized score 0.187034636985083)
+	tmp/svds/cmsis/NXP/MKW41Z4.svd
+1 devices with rank #205
+Rank #206: (score 0.0016508460586050352, normalized score 0.1869265690974317)
+	tmp/svds/cmsis/ArteryTek/AT32F407xx_v2.svd
+1 devices with rank #206
+Rank #207: (score 0.001648186994306263, normalized score 0.18662548120144765)
+	tmp/svds/cmsis/Atmel/ATSAME70Q19B.svd
+1 devices with rank #207
+Rank #208: (score 0.0016426585797321203, normalized score 0.18599949456659087)
+	tmp/svds/cmsis/STMicro/STM32F7x9.svd
+1 devices with rank #208
+Rank #209: (score 0.0016416214168455613, normalized score 0.18588205581512818)
+	tmp/svds/cmsis/STMicro/STM32F7x7.svd
+	tmp/svds/cmsis/STMicro/STM32F7x8.svd
+2 devices with rank #209
+Rank #210: (score 0.0016409997475385005, normalized score 0.18581166372128252)
+	tmp/svds/cmsis/STMicro/STM32F765.svd
+1 devices with rank #210
+Rank #211: (score 0.0016352014270848818, normalized score 0.18515511543607277)
+	tmp/svds/cmsis/Atmel/ATSAMV71Q19B.svd
+1 devices with rank #211
+Rank #212: (score 0.0016342296835537068, normalized score 0.18504508416854282)
+	tmp/svds/cmsis/Atmel/ATSAMV71Q19.svd
+1 devices with rank #212
+Rank #213: (score 0.0015996800639872025, normalized score 0.1811330041683971)
+	tmp/svds/cmsis/Infineon/XMC1300.svd
+1 devices with rank #213
+Rank #214: (score 0.001589464123524069, normalized score 0.17997624537134077)
+	tmp/svds/cmsis/ArteryTek/AT32F413xx_v2.svd
+1 devices with rank #214
+Rank #215: (score 0.0015775981068822718, normalized score 0.17863264717928495)
+	tmp/svds/cmsis/Renesas/R7FA4E10D.svd
+1 devices with rank #215
+Rank #216: (score 0.0015430397883831148, normalized score 0.17471958219230346)
+	tmp/svds/cmsis/RaspberryPi/rp2350.svd
+1 devices with rank #216
+Rank #217: (score 0.001490035388340473, normalized score 0.16871785320285973)
+	tmp/svds/cmsis/Infineon/IMC300A.svd
+1 devices with rank #217
+Rank #218: (score 0.0014349775784753362, normalized score 0.16248361503966885)
+	tmp/svds/cmsis/Renesas/R7FA4M2AD.svd
+1 devices with rank #218
+Rank #219: (score 0.0014347202295552368, normalized score 0.1624544752234853)
+	tmp/svds/cmsis/Renesas/R7FA6E10F.svd
+1 devices with rank #219
+Rank #220: (score 0.0014285714285714286, normalized score 0.16175824175824177)
+	tmp/svds/cmsis/NXP/MIMXRT1011.svd
+1 devices with rank #220
+Rank #221: (score 0.001419782300047326, normalized score 0.16076304197458954)
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B110F2048GM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B110F2048GQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B110F2048IM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B110F2048IQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B120F2048GM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B120F2048GQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B120F2048IM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B120F2048IQ64.svd
+8 devices with rank #221
+Rank #222: (score 0.0014071294559099437, normalized score 0.1593303506999567)
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B310F2048GL112.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B310F2048GQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B320F2048GL112.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B320F2048GQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B510F2048GL120.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B510F2048GM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B510F2048GQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B510F2048GQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B510F2048IL120.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B510F2048IM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B510F2048IQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B510F2048IQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B520F2048GL120.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B520F2048GM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B520F2048GQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B520F2048GQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B520F2048IL120.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B520F2048IM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B520F2048IQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B520F2048IQ64.svd
+20 devices with rank #222
+Rank #223: (score 0.001339200306102927, normalized score 0.15163868081411608)
+	tmp/svds/cmsis/Renesas/R7FA4M1AB.svd
+1 devices with rank #223
+Rank #224: (score 0.0013280212483399733, normalized score 0.15037286750434162)
+	tmp/svds/cmsis/Renesas/R7FA4M3AF.svd
+1 devices with rank #224
+Rank #225: (score 0.001269726101940867, normalized score 0.1437720632351505)
+	tmp/svds/cmsis/Renesas/R7FA4W1AD.svd
+1 devices with rank #225
+Rank #226: (score 0.0012594458438287153, normalized score 0.1426080217012207)
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B420F2048GL112.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B420F2048GL120.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B420F2048GM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B420F2048GQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B420F2048GQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B420F2048IL112.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B420F2048IL120.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B420F2048IM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B420F2048IQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B420F2048IQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B820F2048GL120.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B820F2048GL152.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B820F2048GL192.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B820F2048GM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B820F2048GQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B820F2048GQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B820F2048IL120.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B820F2048IL152.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B820F2048IM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B820F2048IQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B820F2048IQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B840F1024GL120.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B840F1024GL152.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B840F1024GL192.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B840F1024GM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B840F1024GQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B840F1024GQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B840F1024IL120.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B840F1024IL152.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B840F1024IM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B840F1024IQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG11B/EFM32GG11B840F1024IQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/WGM160/WGM160P022KGA2.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/WGM160/WGM160P022KGA3.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/WGM160/WGM160P022KGN2.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/WGM160/WGM160P022KGN3.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/WGM160/WGM160PX22KGA2.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/WGM160/WGM160PX22KGA3.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/WGM160/WGM160PX22KGN2.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/WGM160/WGM160PX22KGN3.svd
+40 devices with rank #226
+Rank #227: (score 0.0012298232129131438, normalized score 0.13925382841601136)
+	tmp/svds/cmsis/Renesas/R7FA6M4AF.svd
+1 devices with rank #227
+Rank #228: (score 0.0012183235867446393, normalized score 0.13795171689908534)
+	tmp/svds/cmsis/Renesas/R7FA2E2A7.svd
+1 devices with rank #228
+Rank #229: (score 0.0012166683564838285, normalized score 0.13776429390339967)
+	tmp/svds/cmsis/STMicro/STM32L4R5.svd
+	tmp/svds/cmsis/STMicro/STM32L4R7.svd
+	tmp/svds/cmsis/STMicro/STM32L4R9.svd
+	tmp/svds/cmsis/STMicro/STM32L4S5.svd
+	tmp/svds/cmsis/STMicro/STM32L4S7.svd
+	tmp/svds/cmsis/STMicro/STM32L4S9.svd
+6 devices with rank #229
+Rank #230: (score 0.0012087722327749958, normalized score 0.13687020974190722)
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B110F1024GM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B110F1024GQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B110F1024IM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B110F1024IQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B130F512GM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B130F512GQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B130F512IM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B130F512IQ64.svd
+8 devices with rank #230
+Rank #231: (score 0.0012046741356463078, normalized score 0.13640617905164348)
+	tmp/svds/cmsis/STMicro/STM32H750x.svd
+1 devices with rank #231
+Rank #232: (score 0.0012039489525644113, normalized score 0.1363240660134472)
+	tmp/svds/cmsis/STMicro/STM32H742x.svd
+	tmp/svds/cmsis/STMicro/STM32H743x.svd
+2 devices with rank #232
+Rank #233: (score 0.0012017425266636623, normalized score 0.1360742307114547)
+	tmp/svds/cmsis/Infineon/IMM100A.svd
+1 devices with rank #233
+Rank #234: (score 0.0011997600479904018, normalized score 0.13584975312629782)
+	tmp/svds/cmsis/STMicro/STM32H7A3x.svd
+1 devices with rank #234
+Rank #235: (score 0.0011969904240766074, normalized score 0.13553614648005893)
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B310F1024GL112.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B310F1024GQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B330F512GL112.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B330F512GQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B510F1024GL112.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B510F1024GL120.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B510F1024GM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B510F1024GQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B510F1024GQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B510F1024IL112.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B510F1024IL120.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B510F1024IM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B510F1024IQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B510F1024IQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B530F512GL112.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B530F512GL120.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B530F512GM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B530F512GQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B530F512GQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B530F512IL112.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B530F512IL120.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B530F512IM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B530F512IQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B530F512IQ64.svd
+24 devices with rank #235
+Rank #236: (score 0.0011933174224343676, normalized score 0.13512024967872224)
+	tmp/svds/cmsis/STMicro/STM32H7x7_CM7.svd
+1 devices with rank #236
+Rank #237: (score 0.0011876484560570072, normalized score 0.13447834825507035)
+	tmp/svds/cmsis/Infineon/XMC4100.svd
+	tmp/svds/cmsis/Infineon/XMC4200.svd
+2 devices with rank #237
+Rank #238: (score 0.0011800404585300068, normalized score 0.1336168888427823)
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B390F1024GL112.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B390F512GL112.svd
+2 devices with rank #238
+Rank #239: (score 0.00117813383600377, normalized score 0.1334010005075038)
+	tmp/svds/cmsis/Renesas/R7FA2E1A9.svd
+1 devices with rank #239
+Rank #240: (score 0.0011779950524207798, normalized score 0.13338528593564522)
+	tmp/svds/cmsis/STMicro/STM32H753x.svd
+	tmp/svds/cmsis/STMicro/STM32H7x3.svd
+2 devices with rank #240
+Rank #241: (score 0.001177682908876785, normalized score 0.13334994168204828)
+	tmp/svds/cmsis/Infineon/XMC1400.svd
+1 devices with rank #241
+Rank #242: (score 0.0011631964638827497, normalized score 0.13170963037195443)
+	tmp/svds/cmsis/STMicro/STM32H7x5_CM4.svd
+	tmp/svds/cmsis/STMicro/STM32H7x5_CM7.svd
+2 devices with rank #242
+Rank #243: (score 0.0011609008590666356, normalized score 0.13144969727277597)
+	tmp/svds/cmsis/STMicro/STM32H7B3x.svd
+1 devices with rank #243
+Rank #244: (score 0.0011064666830587658, normalized score 0.12528607365096178)
+	tmp/svds/cmsis/Infineon/XMC4300.svd
+1 devices with rank #244
+Rank #245: (score 0.0010982114841543772, normalized score 0.12435133112886487)
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B410F1024GL112.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B410F1024GL120.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B410F1024GM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B410F1024GQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B410F1024GQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B410F1024IL112.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B410F1024IL120.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B410F1024IM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B410F1024IQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B410F1024IQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B430F512GL112.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B430F512GL120.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B430F512GM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B430F512GQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B430F512GQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B430F512IL112.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B430F512IL120.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B430F512IM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B430F512IQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B430F512IQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B810F1024GL112.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B810F1024GL120.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B810F1024GM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B810F1024GQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B810F1024GQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B810F1024IL112.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B810F1024IL120.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B810F1024IM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B810F1024IQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B810F1024IQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B830F512GL112.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B830F512GL120.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B830F512GM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B830F512GQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B830F512GQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B830F512IL112.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B830F512IL120.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B830F512IM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B830F512IQ100.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32GG12B/EFM32GG12B830F512IQ64.svd
+40 devices with rank #245
+Rank #246: (score 0.001083658430862592, normalized score 0.12270347770997966)
+	tmp/svds/cmsis/Renesas/R7FA2A1AB.svd
+1 devices with rank #246
+Rank #247: (score 0.001043187982474442, normalized score 0.11812097770787529)
+	tmp/svds/cmsis/Renesas/R7FA2L1AB.svd
+1 devices with rank #247
+Rank #248: (score 0.0009856100926473486, normalized score 0.11160138895206902)
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B120F128GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B120F128GM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B120F128GQ48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B120F128GQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B120F128IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B120F128IM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B120F128IQ48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B120F128IQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B140F64GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B140F64GM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B140F64GQ48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B140F64GQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B140F64IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B140F64IM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B140F64IQ48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B140F64IQ64.svd
+16 devices with rank #248
+Rank #249: (score 0.0009746588693957114, normalized score 0.11036137351926825)
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B320F128GM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B320F128GQ48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B320F128GQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B320F128IM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B320F128IQ48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B320F128IQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B340F64GM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B340F64GQ48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B340F64GQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B340F64IM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B340F64IQ48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B340F64IQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B520F128GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B520F128GM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B520F128GM80.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B520F128GQ48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B520F128GQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B520F128GQ80.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B520F128IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B520F128IM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B520F128IM80.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B520F128IQ48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B520F128IQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B520F128IQ80.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B540F64GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B540F64GM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B540F64GM80.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B540F64GQ48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B540F64GQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B540F64GQ80.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B540F64IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B540F64IM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B540F64IM80.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B540F64IQ48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B540F64IQ64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32TG11B/EFM32TG11B540F64IQ80.svd
+36 devices with rank #249
+Rank #250: (score 0.0009710309111506716, normalized score 0.10995057701644528)
+	tmp/svds/cmsis/Renesas/R7FA4E2B9.svd
+1 devices with rank #250
+Rank #251: (score 0.0009652509652509653, normalized score 0.1092961092961093)
+	tmp/svds/cmsis/NXP/MIMXRT1021.svd
+1 devices with rank #251
+Rank #252: (score 0.0009627727856225931, normalized score 0.10901550311049671)
+	tmp/svds/cmsis/Infineon/XMC4400.svd
+1 devices with rank #252
+Rank #253: (score 0.0009570522789807393, normalized score 0.10836776574304988)
+	tmp/svds/cmsis/STMicro/STM32H7x7_CM4.svd
+1 devices with rank #253
+Rank #254: (score 0.0009555661729574773, normalized score 0.10819949281487744)
+	tmp/svds/cmsis/Renesas/R7FA4T1BB.svd
+1 devices with rank #254
+Rank #255: (score 0.000947268708556994, normalized score 0.10725996453814579)
+	tmp/svds/cmsis/Renesas/R7FA6T3BB.svd
+1 devices with rank #255
+Rank #256: (score 0.0009398496240601503, normalized score 0.10641989589358011)
+	tmp/svds/cmsis/Renesas/R7FA6E2BB.svd
+1 devices with rank #256
+Rank #257: (score 0.0009293680297397769, normalized score 0.10523305690591936)
+	tmp/svds/cmsis/Infineon/XMC4500.svd
+1 devices with rank #257
+Rank #258: (score 0.0008985735145456587, normalized score 0.10174617026240075)
+	tmp/svds/cmsis/Renesas/R7FA6M5BH.svd
+1 devices with rank #258
+Rank #259: (score 0.0008774128854349461, normalized score 0.09935013595078775)
+	tmp/svds/cmsis/STMicro/STM32L552.svd
+1 devices with rank #259
+Rank #260: (score 0.0008605851979345956, normalized score 0.09744472395074806)
+	tmp/svds/cmsis/STMicro/STM32L562.svd
+1 devices with rank #260
+Rank #261: (score 0.0008454673555659935, normalized score 0.09573291903024173)
+	tmp/svds/cmsis/NXP/MIMXRT1052.svd
+1 devices with rank #261
+Rank #262: (score 0.0008174386920980927, normalized score 0.09255921190526097)
+	tmp/svds/cmsis/NXP/LPC18xx.svd
+1 devices with rank #262
+Rank #263: (score 0.0007923232678933005, normalized score 0.08971537310299527)
+	tmp/svds/cmsis/NXP/MIMXRT1064.svd
+1 devices with rank #263
+Rank #264: (score 0.000787746170678337, normalized score 0.08919710486450093)
+	tmp/svds/cmsis/NXP/MIMXRT1062.svd
+1 devices with rank #264
+Rank #265: (score 0.0007734949078251901, normalized score 0.08758342340912922)
+	tmp/svds/cmsis/NXP/LPC43xx_43Sxx.svd
+1 devices with rank #265
+Rank #266: (score 0.0007396449704142012, normalized score 0.08375056895766955)
+	tmp/svds/cmsis/Renesas/R7FA6T2BD.svd
+1 devices with rank #266
+Rank #267: (score 0.0006908197727970525, normalized score 0.07822205427363549)
+	tmp/svds/cmsis/Infineon/XMC4700.svd
+1 devices with rank #267
+Rank #268: (score 0.000678119349005425, normalized score 0.07678397551815273)
+	tmp/svds/cmsis/Infineon/XMC4800.svd
+1 devices with rank #268
+Rank #269: (score 0.0006634232640424591, normalized score 0.07511992651311537)
+	tmp/svds/cmsis/Freescale/MKW21D5.svd
+1 devices with rank #269
+Rank #270: (score 0.000658906215681968, normalized score 0.07460845765260438)
+	tmp/svds/cmsis/Freescale/MK11D5.svd
+1 devices with rank #270
+Rank #271: (score 0.0006581834137779728, normalized score 0.07452661423701354)
+	tmp/svds/cmsis/Freescale/MK12D5.svd
+1 devices with rank #271
+Rank #272: (score 0.000658080285794867, normalized score 0.07451493697615724)
+	tmp/svds/cmsis/AlifSemi/AE101F4071542LH_HE.svd
+1 devices with rank #272
+Rank #273: (score 0.0006561679790026247, normalized score 0.07429840500706643)
+	tmp/svds/cmsis/Freescale/MK11DA5.svd
+1 devices with rank #273
+Rank #274: (score 0.0006503360069369175, normalized score 0.07363804632393404)
+	tmp/svds/cmsis/Freescale/MKW22D5.svd
+	tmp/svds/cmsis/Freescale/MKW24D5.svd
+2 devices with rank #274
+Rank #275: (score 0.0006475285991797971, normalized score 0.07332016138405088)
+	tmp/svds/cmsis/Freescale/MK11D5WS.svd
+1 devices with rank #275
+Rank #276: (score 0.0006473888649115235, normalized score 0.07330433916536636)
+	tmp/svds/cmsis/Freescale/MKV31F25612.svd
+1 devices with rank #276
+Rank #277: (score 0.0006455777921239509, normalized score 0.0730992700004966)
+	tmp/svds/cmsis/Freescale/MK21D5.svd
+1 devices with rank #277
+Rank #278: (score 0.0006451612903225806, normalized score 0.07305210918114144)
+	tmp/svds/cmsis/GigaDevice/GD32VF103.svd
+1 devices with rank #278
+Rank #279: (score 0.0006448839208942391, normalized score 0.07302070242740923)
+	tmp/svds/cmsis/Freescale/MK22D5.svd
+1 devices with rank #279
+Rank #280: (score 0.0006429489927132448, normalized score 0.07280160902106896)
+	tmp/svds/cmsis/Freescale/MK21DA5.svd
+1 devices with rank #280
+Rank #281: (score 0.0006368074718743367, normalized score 0.07210619989223259)
+	tmp/svds/cmsis/Freescale/MKV44F15.svd
+1 devices with rank #281
+Rank #282: (score 0.0006346519991537973, normalized score 0.07186213405802998)
+	tmp/svds/cmsis/Freescale/MK21D5WS.svd
+1 devices with rank #282
+Rank #283: (score 0.0006286672254819782, normalized score 0.07118447353149784)
+	tmp/svds/cmsis/Freescale/MKV31F51212.svd
+1 devices with rank #283
+Rank #284: (score 0.0006145022531749283, normalized score 0.06958056282103804)
+	tmp/svds/cmsis/Freescale/MKV43F15.svd
+1 devices with rank #284
+Rank #285: (score 0.0006087662337662338, normalized score 0.06893106893106893)
+	tmp/svds/cmsis/Freescale/MKV40F15.svd
+1 devices with rank #285
+Rank #286: (score 0.0006083958629081322, normalized score 0.06888913155390543)
+	tmp/svds/cmsis/Freescale/MKV44F16.svd
+1 devices with rank #286
+Rank #287: (score 0.0006080083384000695, normalized score 0.06884525185576172)
+	tmp/svds/cmsis/AlifSemi/AE302F40C1537LE_HE.svd
+	tmp/svds/cmsis/AlifSemi/AE302F80C1557LE_HE.svd
+	tmp/svds/cmsis/AlifSemi/AE302F80F5582AE_HE.svd
+	tmp/svds/cmsis/AlifSemi/AE302F80F5582LE_HE.svd
+	tmp/svds/cmsis/AlifSemi/AE302F80F55D5AE_HE.svd
+	tmp/svds/cmsis/AlifSemi/AE302F80F55D5LE_HE.svd
+6 devices with rank #287
+Rank #288: (score 0.0006074806907923284, normalized score 0.06878550591125442)
+	tmp/svds/cmsis/AlifSemi/AE302F40C1537LE_HP.svd
+	tmp/svds/cmsis/AlifSemi/AE302F80C1557LE_HP.svd
+	tmp/svds/cmsis/AlifSemi/AE302F80F5582AE_HP.svd
+	tmp/svds/cmsis/AlifSemi/AE302F80F5582LE_HP.svd
+	tmp/svds/cmsis/AlifSemi/AE302F80F55D5AE_HP.svd
+	tmp/svds/cmsis/AlifSemi/AE302F80F55D5LE_HP.svd
+6 devices with rank #288
+Rank #289: (score 0.0006049606775559589, normalized score 0.06850016287402859)
+	tmp/svds/cmsis/Freescale/MKV42F16.svd
+1 devices with rank #289
+Rank #290: (score 0.0006032575909913533, normalized score 0.06830732107225171)
+	tmp/svds/cmsis/Freescale/MK24F25612.svd
+1 devices with rank #290
+Rank #291: (score 0.0005992637616642411, normalized score 0.06785509670536638)
+	tmp/svds/cmsis/AlifSemi/AE512F80F5582AS_HE.svd
+	tmp/svds/cmsis/AlifSemi/AE512F80F5582LS_HE.svd
+	tmp/svds/cmsis/AlifSemi/AE512F80F55D5AS_HE.svd
+	tmp/svds/cmsis/AlifSemi/AE512F80F55D5LS_HE.svd
+	tmp/svds/cmsis/AlifSemi/AE722F80F55D5AS_HE.svd
+	tmp/svds/cmsis/AlifSemi/AE722F80F55D5LS_HE.svd
+6 devices with rank #291
+Rank #292: (score 0.0005987511761183816, normalized score 0.06779705624971213)
+	tmp/svds/cmsis/AlifSemi/AE512F80F5582AS_HP.svd
+	tmp/svds/cmsis/AlifSemi/AE512F80F5582LS_HP.svd
+	tmp/svds/cmsis/AlifSemi/AE512F80F55D5AS_HP.svd
+	tmp/svds/cmsis/AlifSemi/AE512F80F55D5LS_HP.svd
+	tmp/svds/cmsis/AlifSemi/AE722F80F55D5AS_HP.svd
+	tmp/svds/cmsis/AlifSemi/AE722F80F55D5LS_HP.svd
+6 devices with rank #292
+Rank #293: (score 0.000589159465828751, normalized score 0.06671097951537858)
+	tmp/svds/cmsis/Freescale/MKV45F15.svd
+1 devices with rank #293
+Rank #294: (score 0.0005870841487279843, normalized score 0.066475989763661)
+	tmp/svds/cmsis/Freescale/MKV46F15.svd
+1 devices with rank #294
+Rank #295: (score 0.000583544057576347, normalized score 0.06607514251941406)
+	tmp/svds/cmsis/Freescale/MKV46F16.svd
+1 devices with rank #295
+Rank #296: (score 0.0005720823798627002, normalized score 0.06477732793522267)
+	tmp/svds/cmsis/Freescale/MK50D10.svd
+1 devices with rank #296
+Rank #297: (score 0.0005709935287400076, normalized score 0.06465403648502241)
+	tmp/svds/cmsis/Freescale/MKS22F12.svd
+1 devices with rank #297
+Rank #298: (score 0.0005668934240362812, normalized score 0.06418977847549277)
+	tmp/svds/cmsis/Freescale/MK51D10.svd
+1 devices with rank #298
+Rank #299: (score 0.0005558643690939411, normalized score 0.06294095010048317)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32ZG/EFM32ZG110F16.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32ZG/EFM32ZG110F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32ZG/EFM32ZG110F4.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32ZG/EFM32ZG110F8.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32ZG/EFM32ZG210F16.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32ZG/EFM32ZG210F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32ZG/EFM32ZG210F4.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32ZG/EFM32ZG210F8.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32ZG/EFM32ZG222F16.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32ZG/EFM32ZG222F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32ZG/EFM32ZG222F4.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32ZG/EFM32ZG222F8.svd
+12 devices with rank #299
+Rank #300: (score 0.0005525879535826119, normalized score 0.06256995905181574)
+	tmp/svds/cmsis/Freescale/MK22F12.svd
+1 devices with rank #300
+Rank #301: (score 0.0005524861878453039, normalized score 0.06255843603909904)
+	tmp/svds/cmsis/Freescale/MK22FA12.svd
+1 devices with rank #301
+Rank #302: (score 0.0005510653930933138, normalized score 0.06239755835641215)
+	tmp/svds/cmsis/Freescale/MK21F12.svd
+1 devices with rank #302
+Rank #303: (score 0.0005509641873278236, normalized score 0.062386098749735115)
+	tmp/svds/cmsis/Freescale/MK21FA12.svd
+1 devices with rank #303
+Rank #304: (score 0.0005493499359091741, normalized score 0.06220331581986957)
+	tmp/svds/cmsis/Freescale/MK52D10.svd
+1 devices with rank #304
+Rank #305: (score 0.0005477451159393829, normalized score 0.0620216008202132)
+	tmp/svds/cmsis/Freescale/MKE14F16.svd
+1 devices with rank #305
+Rank #306: (score 0.0005473453749315818, normalized score 0.06197633783840681)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G200F16.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G200F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G200F64.svd
+3 devices with rank #306
+Rank #307: (score 0.0005443658138268917, normalized score 0.06163895984255267)
+	tmp/svds/cmsis/Freescale/MK53D10.svd
+1 devices with rank #307
+Rank #308: (score 0.0005438723712835388, normalized score 0.06158308696379763)
+	tmp/svds/cmsis/Freescale/MK10D10.svd
+1 devices with rank #308
+Rank #309: (score 0.0005434782608695652, normalized score 0.06153846153846154)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G210F128.svd
+1 devices with rank #309
+Rank #310: (score 0.0005429864253393666, normalized score 0.061482770623042124)
+	tmp/svds/cmsis/Freescale/MK63F12.svd
+1 devices with rank #310
+Rank #311: (score 0.0005391804457225018, normalized score 0.061051816623347896)
+	tmp/svds/cmsis/Freescale/MK30D10.svd
+1 devices with rank #311
+Rank #312: (score 0.0005390835579514825, normalized score 0.061040845946506335)
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG220F32R55.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG220F32R60.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG220F32R61.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG220F32R63.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG220F32R67.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG220F32R68.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG220F32R69.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG220F64R55.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG220F64R60.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG220F64R61.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG220F64R63.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG220F64R67.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG220F64R68.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG220F64R69.svd
+14 devices with rank #312
+Rank #313: (score 0.0005376344086021505, normalized score 0.060876757650951206)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32HG/EFM32HG110F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32HG/EFM32HG110F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32HG/EFM32HG210F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32HG/EFM32HG210F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32HG/EFM32HG222F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32HG/EFM32HG222F64.svd
+6 devices with rank #313
+Rank #314: (score 0.0005346164127238706, normalized score 0.060535027656118276)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G222F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G222F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G222F64.svd
+3 devices with rank #314
+Rank #315: (score 0.0005345687811831789, normalized score 0.06052963430012611)
+	tmp/svds/cmsis/Freescale/MK20D10.svd
+1 devices with rank #315
+Rank #316: (score 0.0005300353356890459, normalized score 0.060016308779559664)
+	tmp/svds/cmsis/Freescale/MK40D10.svd
+1 devices with rank #316
+Rank #317: (score 0.0005263157894736842, normalized score 0.05959514170040486)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G230F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G230F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G230F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G232F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G232F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G232F64.svd
+6 devices with rank #317
+Rank #318: (score 0.0005238344683080147, normalized score 0.059314179796107515)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32HG/EFM32HG321F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32HG/EFM32HG321F64.svd
+2 devices with rank #318
+Rank #319: (score 0.0005227391531625719, normalized score 0.05919015641963891)
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG320F32R55.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG320F32R60.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG320F32R61.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG320F32R63.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG320F32R67.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG320F32R68.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG320F32R69.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG320F64R55.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG320F64R60.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG320F64R61.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG320F64R63.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG320F64R67.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG320F64R68.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32HG/EZR32HG320F64R69.svd
+14 devices with rank #319
+Rank #320: (score 0.0005216484089723526, normalized score 0.05906665061594639)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G280F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G280F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G280F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G290F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G290F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G290F64.svd
+6 devices with rank #320
+Rank #321: (score 0.0005213764337851929, normalized score 0.059035854656292616)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32HG/EFM32HG309F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32HG/EFM32HG309F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32HG/EFM32HG310F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32HG/EFM32HG310F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32HG/EFM32HG322F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32HG/EFM32HG322F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32HG/EFM32HG350F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32HG/EFM32HG350F64.svd
+8 devices with rank #321
+Rank #322: (score 0.0005212405525149857, normalized score 0.05902046871554299)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G840F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G840F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G840F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G842F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G842F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G842F64.svd
+6 devices with rank #322
+Rank #323: (score 0.0005166623611469904, normalized score 0.05850207658525923)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G800F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G880F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G880F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G880F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G890F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G890F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32G/EFM32G890F64.svd
+7 devices with rank #323
+Rank #324: (score 0.000514668039114771, normalized score 0.058276257967457154)
+	tmp/svds/cmsis/Freescale/MK60D10.svd
+1 devices with rank #324
+Rank #325: (score 0.0005102040816326531, normalized score 0.05777080062794349)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG110F16.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG110F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG110F4.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG110F8.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG210F16.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG210F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG210F8.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG222F16.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG222F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG222F8.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG225F16.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG225F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG225F8.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG230F16.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG230F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG230F8.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG232F16.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG232F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG232F8.svd
+19 devices with rank #325
+Rank #326: (score 0.0005054334091483447, normalized score 0.05723061371279718)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG822F16.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG822F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG822F8.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG825F16.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG825F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG825F8.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG840F16.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG840F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG840F8.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG842F16.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG842F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG842F8.svd
+12 devices with rank #326
+Rank #327: (score 0.0004927726675427069, normalized score 0.055797028201758817)
+	tmp/svds/cmsis/Freescale/MKE16F16.svd
+1 devices with rank #327
+Rank #328: (score 0.0004893964110929853, normalized score 0.05541473208683649)
+	tmp/svds/cmsis/Freescale/MK80F25615.svd
+1 devices with rank #328
+Rank #329: (score 0.00048433968356474005, normalized score 0.05484215493902288)
+	tmp/svds/cmsis/Freescale/MKV56F20.svd
+	tmp/svds/cmsis/Freescale/MKV56F22.svd
+2 devices with rank #329
+Rank #330: (score 0.00048161823727725157, normalized score 0.05453400348247033)
+	tmp/svds/cmsis/Freescale/MK26F18.svd
+1 devices with rank #330
+Rank #331: (score 0.0004702194357366771, normalized score 0.05324330841572222)
+	tmp/svds/cmsis/Freescale/MK65F18.svd
+	tmp/svds/cmsis/Freescale/MK66F18.svd
+2 devices with rank #331
+Rank #332: (score 0.00045927740355174526, normalized score 0.05200433369447455)
+	tmp/svds/cmsis/Freescale/MKV58F20.svd
+	tmp/svds/cmsis/Freescale/MKV58F22.svd
+2 devices with rank #332
+Rank #333: (score 0.0004572473708276177, normalized score 0.05177447152755795)
+	tmp/svds/cmsis/Renesas/R7FA6T1AD.svd
+1 devices with rank #333
+Rank #334: (score 0.0004502729779929082, normalized score 0.050984755661966225)
+	tmp/svds/cmsis/Renesas/R7FA6M1AD.svd
+1 devices with rank #334
+Rank #335: (score 0.0004478280340349306, normalized score 0.0507079127768783)
+	tmp/svds/cmsis/Freescale/MKE18F16.svd
+1 devices with rank #335
+Rank #336: (score 0.00044296788482834997, normalized score 0.05015759434364086)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG230F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG230F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG230F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG232F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG232F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG232F64.svd
+6 devices with rank #336
+Rank #337: (score 0.00044277175116227583, normalized score 0.05013538597775924)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG230F1024.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG230F512.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG232F1024.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG232F512.svd
+4 devices with rank #337
+Rank #338: (score 0.0004424778761061947, normalized score 0.050102110279101435)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG230F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG230F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG230F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG232F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG232F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG232F64.svd
+6 devices with rank #338
+Rank #339: (score 0.0004422169811320755, normalized score 0.05007256894049347)
+	tmp/svds/cmsis/Freescale/MK61F15WS.svd
+1 devices with rank #339
+Rank #340: (score 0.000441306266548985, normalized score 0.04996944802770046)
+	tmp/svds/cmsis/Freescale/MK82F25615.svd
+1 devices with rank #340
+Rank #341: (score 0.0004405286343612335, normalized score 0.04988139613690275)
+	tmp/svds/cmsis/Freescale/MK70F12.svd
+	tmp/svds/cmsis/Freescale/MK70F15.svd
+2 devices with rank #341
+Rank #342: (score 0.0004386606228980845, normalized score 0.0496698797619985)
+	tmp/svds/cmsis/Freescale/MK70F15WS.svd
+1 devices with rank #342
+Rank #343: (score 0.0004379242391066346, normalized score 0.049586498458843546)
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG230F128R55.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG230F128R60.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG230F128R61.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG230F128R63.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG230F128R67.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG230F128R68.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG230F128R69.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG230F256R55.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG230F256R60.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG230F256R61.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG230F256R63.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG230F256R67.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG230F256R68.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG230F256R69.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG230F64R55.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG230F64R60.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG230F64R61.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG230F64R63.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG230F64R67.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG230F64R68.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG230F64R69.svd
+21 devices with rank #343
+Rank #344: (score 0.00043782837127845885, normalized score 0.04957564327091473)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG840F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG840F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG840F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG842F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG842F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG842F64.svd
+6 devices with rank #344
+Rank #345: (score 0.000437636761487965, normalized score 0.049553947146944964)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG840F1024.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG840F512.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG842F1024.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG842F512.svd
+4 devices with rank #345
+Rank #346: (score 0.0004374453193350831, normalized score 0.04953227000471096)
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG230F128R55.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG230F128R60.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG230F128R61.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG230F128R63.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG230F128R67.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG230F128R68.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG230F128R69.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG230F256R55.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG230F256R60.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG230F256R61.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG230F256R63.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG230F256R67.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG230F256R68.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG230F256R69.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG230F64R55.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG230F64R60.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG230F64R61.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG230F64R63.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG230F64R67.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG230F64R68.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG230F64R69.svd
+21 devices with rank #346
+Rank #347: (score 0.0004373496610540127, normalized score 0.04952143854396206)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG840F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG840F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG840F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG842F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG842F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG842F64.svd
+6 devices with rank #347
+Rank #348: (score 0.0004361098996947231, normalized score 0.04938105941158711)
+	tmp/svds/cmsis/Freescale/MK81F25615.svd
+1 devices with rank #348
+Rank #349: (score 0.0004352320330776345, normalized score 0.04928165789925216)
+	tmp/svds/cmsis/Renesas/R7FA6M2AF.svd
+1 devices with rank #349
+Rank #350: (score 0.0004310344827586207, normalized score 0.04880636604774536)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG280F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG280F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG280F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG290F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG290F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG290F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG295F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG295F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG295F64.svd
+9 devices with rank #350
+Rank #351: (score 0.00043084877208099956, normalized score 0.04878533788486395)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG280F1024.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG280F512.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG290F1024.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG290F512.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG295F1024.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG295F512.svd
+6 devices with rank #351
+Rank #352: (score 0.0004305705059203445, normalized score 0.048753829593442086)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG280F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG280F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG280F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG290F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG290F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG290F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG295F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG295F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG295F64.svd
+9 devices with rank #352
+Rank #353: (score 0.0004261666311527807, normalized score 0.04825517546591487)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG880F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG880F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG880F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG890F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG890F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG890F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG895F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG895F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG895F64.svd
+9 devices with rank #353
+Rank #354: (score 0.0004259850905218317, normalized score 0.04823461948062587)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG880F1024.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG880F512.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG890F1024.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG890F512.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG895F1024.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG895F512.svd
+6 devices with rank #354
+Rank #355: (score 0.0004257130693912303, normalized score 0.048203818318760853)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG880F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG880F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG880F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG890F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG890F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG890F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG895F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG895F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG895F64.svd
+9 devices with rank #355
+Rank #356: (score 0.0004123711340206186, normalized score 0.04669310071371928)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG330F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG330F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG330F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG332F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG332F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG332F64.svd
+6 devices with rank #356
+Rank #357: (score 0.00041220115416323167, normalized score 0.04667385376371362)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG330F1024.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG330F512.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG332F1024.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG332F512.svd
+4 devices with rank #357
+Rank #358: (score 0.00041194644696189496, normalized score 0.046645013071377646)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG330F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG330F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG330F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG332F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG332F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG332F64.svd
+6 devices with rank #358
+Rank #359: (score 0.0004079967360261118, normalized score 0.046197784263879736)
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG330F128R55.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG330F128R60.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG330F128R61.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG330F128R63.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG330F128R67.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG330F128R68.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG330F128R69.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG330F256R55.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG330F256R60.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG330F256R61.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG330F256R63.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG330F256R67.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG330F256R68.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG330F256R69.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG330F64R55.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG330F64R60.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG330F64R61.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG330F64R63.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG330F64R67.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG330F64R68.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32LG/EZR32LG330F64R69.svd
+21 devices with rank #359
+Rank #360: (score 0.0004079135223332653, normalized score 0.0461883619134282)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG940F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG940F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG940F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG942F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG942F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG942F64.svd
+6 devices with rank #360
+Rank #361: (score 0.00040774719673802244, normalized score 0.04616952873833608)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG940F1024.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG940F512.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG942F1024.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG942F512.svd
+4 devices with rank #361
+Rank #362: (score 0.0004075810067250866, normalized score 0.04615071091533288)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG360F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG360F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG360F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG360F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG360F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG360F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG330F128R55.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG330F128R60.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG330F128R61.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG330F128R63.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG330F128R67.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG330F128R68.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG330F128R69.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG330F256R55.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG330F256R60.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG330F256R61.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG330F256R63.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG330F256R67.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG330F256R68.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG330F256R69.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG330F64R55.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG330F64R60.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG330F64R61.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG330F64R63.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG330F64R67.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG330F64R68.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EZR32WG/EZR32WG330F64R69.svd
+27 devices with rank #362
+Rank #363: (score 0.00040749796251018743, normalized score 0.04614130775499969)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG940F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG940F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG940F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG942F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG942F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG942F64.svd
+6 devices with rank #363
+Rank #364: (score 0.0004020100502512563, normalized score 0.045519907228449945)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG380F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG380F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG380F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG390F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG390F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG390F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG395F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG395F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG395F64.svd
+9 devices with rank #364
+Rank #365: (score 0.0004018485031143259, normalized score 0.045501615121868295)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG380F1024.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG380F512.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG390F1024.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG390F512.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG395F1024.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG395F512.svd
+6 devices with rank #365
+Rank #366: (score 0.00040160642570281126, normalized score 0.045474204510349094)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG380F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG380F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG380F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG390F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG390F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG390F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG395F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG395F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG395F64.svd
+9 devices with rank #366
+Rank #367: (score 0.0003977724741447892, normalized score 0.04504008322624075)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG900F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG980F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG980F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG980F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG990F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG990F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG990F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG995F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG995F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32LG/EFM32LG995F64.svd
+10 devices with rank #367
+Rank #368: (score 0.00039761431411530816, normalized score 0.045022174644441054)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG900F1024.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG900F512.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG980F1024.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG980F512.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG990F1024.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG990F512.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG995F1024.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32GG/EFM32GG995F512.svd
+8 devices with rank #368
+Rank #369: (score 0.00039737730975561295, normalized score 0.044995338458481714)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG900F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG980F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG980F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG980F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG990F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG990F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG990F64.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG995F128.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG995F256.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32WG/EFM32WG995F64.svd
+10 devices with rank #369
+Rank #370: (score 0.00038169760007633955, normalized score 0.04321991287018245)
+	tmp/svds/cmsis/Renesas/R7FA6M3AH.svd
+1 devices with rank #370
+Rank #371: (score 0.000299311583358276, normalized score 0.033891280823337096)
+	tmp/svds/cmsis/ARM_SAMPLE/CMSDK_CM3.svd
+1 devices with rank #371
+Rank #372: (score 0.00028129395218002813, normalized score 0.0318511305853078)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32ZG/EFM32ZG108F16.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32ZG/EFM32ZG108F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32ZG/EFM32ZG108F4.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32ZG/EFM32ZG108F8.svd
+4 devices with rank #372
+Rank #373: (score 0.0002719608376393799, normalized score 0.03079433484655133)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32HG/EFM32HG108F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32HG/EFM32HG108F64.svd
+2 devices with rank #373
+Rank #374: (score 0.0002636435539151068, normalized score 0.029852562412541327)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32HG/EFM32HG308F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32HG/EFM32HG308F64.svd
+2 devices with rank #374
+Rank #375: (score 0.0002615746795710175, normalized score 0.029618302179118292)
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG108F16.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG108F32.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG108F4.svd
+	tmp/svds/cmsis/SiliconLabs/Series0/EFM32TG/EFM32TG108F8.svd
+4 devices with rank #375
+Rank #376: (score 0.00026068821689259646, normalized score 0.029517927328146308)
+	tmp/svds/cmsis/SiliconLabs/SiM3_NRND/SIM3C1x4.svd
+1 devices with rank #376
+Rank #377: (score 0.00025906735751295336, normalized score 0.029334396173774414)
+	tmp/svds/cmsis/SiliconLabs/SiM3_NRND/SIM3C1x6.svd
+	tmp/svds/cmsis/SiliconLabs/SiM3_NRND/SIM3C1x7.svd
+2 devices with rank #377
+Rank #378: (score 0.00025614754098360657, normalized score 0.02900378310214376)
+	tmp/svds/cmsis/SiliconLabs/SiM3_NRND/SIM3U1x4.svd
+1 devices with rank #378
+Rank #379: (score 0.0002545824847250509, normalized score 0.028826570578098072)
+	tmp/svds/cmsis/SiliconLabs/SiM3_NRND/SIM3U1x6.svd
+	tmp/svds/cmsis/SiliconLabs/SiM3_NRND/SIM3U1x7.svd
+2 devices with rank #379
+Rank #380: (score 0.0002543881963876876, normalized score 0.02880457116020586)
+	tmp/svds/cmsis/STMicro/STM32G031.svd
+1 devices with rank #380
+Rank #381: (score 0.00025106703489831785, normalized score 0.028428513490024915)
+	tmp/svds/cmsis/STMicro/STM32G041.svd
+1 devices with rank #381
+Rank #382: (score 0.00024993751562109475, normalized score 0.02830061715340396)
+	tmp/svds/cmsis/STMicro/STM32G051.svd
+1 devices with rank #382
+Rank #383: (score 0.00024770869457517957, normalized score 0.028048246031897258)
+	tmp/svds/cmsis/STMicro/STM32G061.svd
+1 devices with rank #383
+Rank #384: (score 0.0002402691013935608, normalized score 0.02720585517317858)
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1V/EFR32FG1V232F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1V/EFR32FG1V232F256GM48.svd
+2 devices with rank #384
+Rank #385: (score 0.00023854961832061068, normalized score 0.02701115678214915)
+	tmp/svds/cmsis/Freescale/MKV10Z7.svd
+1 devices with rank #385
+Rank #386: (score 0.00023691068467187872, normalized score 0.026825579064385038)
+	tmp/svds/cmsis/Atmel/ATSAML22G16A.svd
+	tmp/svds/cmsis/Atmel/ATSAML22G17A.svd
+	tmp/svds/cmsis/Atmel/ATSAML22G18A.svd
+	tmp/svds/cmsis/Atmel/ATSAML22J16A.svd
+	tmp/svds/cmsis/Atmel/ATSAML22J17A.svd
+	tmp/svds/cmsis/Atmel/ATSAML22J18A.svd
+6 devices with rank #386
+Rank #387: (score 0.00023685457129322596, normalized score 0.02681922530335605)
+	tmp/svds/cmsis/STMicro/STM32G071.svd
+1 devices with rank #387
+Rank #388: (score 0.0002365744026496333, normalized score 0.026787501592327713)
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32JG1B/EFM32JG1B100F128GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32JG1B/EFM32JG1B100F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32JG1B/EFM32JG1B100F256IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32JG1B/EFM32JG1B200F128GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32JG1B/EFM32JG1B200F128GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32JG1B/EFM32JG1B200F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32JG1B/EFM32JG1B200F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32JG1B/EFM32JG1B200F256IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32JG1B/EFM32JG1B200F256IM48.svd
+9 devices with rank #388
+Rank #389: (score 0.00023640661938534278, normalized score 0.026768503364248047)
+	tmp/svds/cmsis/SiliconLabs/Series1/BGM1/BGM111A256V2.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/BGM1/BGM111E256V2.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/BGM1/BGM113A256V2.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/BGM1/BGM11S12F256GA.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/BGM1/BGM11S22F256GA.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/BGM1/BGM121A256V2.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/BGM1/BGM121N256V2.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/BGM1/BGM123A256V2.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/BGM1/BGM123N256V2.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32PG1B/EFM32PG1B100F128GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32PG1B/EFM32PG1B100F128IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32PG1B/EFM32PG1B100F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32PG1B/EFM32PG1B100F256IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32PG1B/EFM32PG1B200F128GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32PG1B/EFM32PG1B200F128GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32PG1B/EFM32PG1B200F128IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32PG1B/EFM32PG1B200F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32PG1B/EFM32PG1B200F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32PG1B/EFM32PG1B200F256IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32PG1B/EFM32PG1B200F256IM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1B/EFR32BG1B132F128GJ43.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1B/EFR32BG1B132F128GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1B/EFR32BG1B132F128GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1B/EFR32BG1B132F256GD32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1B/EFR32BG1B132F256GJ43.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1B/EFR32BG1B132F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1B/EFR32BG1B132F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1B/EFR32BG1B132F256GM56.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1B/EFR32BG1B132F256IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1B/EFR32BG1B232F128GJ43.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1B/EFR32BG1B232F128GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1B/EFR32BG1B232F128GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1B/EFR32BG1B232F256GJ43.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1B/EFR32BG1B232F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1B/EFR32BG1B232F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1B/EFR32BG1B232F256GM56.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1B/EFR32BG1B232F256IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1P/EFR32BG1P232F256GJ43.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1P/EFR32BG1P232F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1P/EFR32BG1P232F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1P/EFR32BG1P232F256IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1P/EFR32BG1P232F256IM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1P/EFR32BG1P233F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1P/EFR32BG1P332F256GJ43.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1P/EFR32BG1P332F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1P/EFR32BG1P332F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1P/EFR32BG1P333F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1P/EFR32BG1P333F256IM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1V/EFR32BG1V132F128GJ43.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1V/EFR32BG1V132F128GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1V/EFR32BG1V132F128GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1V/EFR32BG1V132F256GJ43.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1V/EFR32BG1V132F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1V/EFR32BG1V132F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG1V/EFR32BG1V132F256IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1P/EFR32FG1P131F128GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1P/EFR32FG1P131F128GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1P/EFR32FG1P131F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1P/EFR32FG1P131F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1P/EFR32FG1P131F256IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1P/EFR32FG1P131F256IM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1P/EFR32FG1P131F64GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1P/EFR32FG1P131F64GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1P/EFR32FG1P132F128GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1P/EFR32FG1P132F128GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1P/EFR32FG1P132F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1P/EFR32FG1P132F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1P/EFR32FG1P132F64GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1P/EFR32FG1P132F64GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1P/EFR32FG1P133F128GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1P/EFR32FG1P133F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1P/EFR32FG1P133F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1P/EFR32FG1P133F64GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1V/EFR32FG1V032F128GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1V/EFR32FG1V032F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1V/EFR32FG1V131F128GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1V/EFR32FG1V131F128GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1V/EFR32FG1V131F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1V/EFR32FG1V131F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1V/EFR32FG1V131F32GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1V/EFR32FG1V131F32GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1V/EFR32FG1V131F64GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1V/EFR32FG1V131F64GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1V/EFR32FG1V132F128GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1V/EFR32FG1V132F128GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1V/EFR32FG1V132F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1V/EFR32FG1V132F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1V/EFR32FG1V132F32GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1V/EFR32FG1V132F32GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1V/EFR32FG1V132F64GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG1V/EFR32FG1V132F64GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1B/EFR32MG1B131F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1B/EFR32MG1B131F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1B/EFR32MG1B132F256GJ43.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1B/EFR32MG1B132F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1B/EFR32MG1B132F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1B/EFR32MG1B231F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1B/EFR32MG1B231F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1B/EFR32MG1B232F256GJ43.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1B/EFR32MG1B232F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1B/EFR32MG1B232F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1B/EFR32MG1B232F256IM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1B/EFR32MG1B632F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1B/EFR32MG1B632F256IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1B/EFR32MG1B732F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1B/EFR32MG1B732F256IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1P/EFR32MG1P131F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1P/EFR32MG1P132F256GJ43.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1P/EFR32MG1P132F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1P/EFR32MG1P132F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1P/EFR32MG1P132F256IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1P/EFR32MG1P132F256IM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1P/EFR32MG1P133F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1P/EFR32MG1P231F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1P/EFR32MG1P232F256GJ43.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1P/EFR32MG1P232F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1P/EFR32MG1P232F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1P/EFR32MG1P232F256IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1P/EFR32MG1P232F256IM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1P/EFR32MG1P233F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1P/EFR32MG1P233F256IM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1P/EFR32MG1P632F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1P/EFR32MG1P632F256IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1P/EFR32MG1P732F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1P/EFR32MG1P732F256IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1V/EFR32MG1V131F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1V/EFR32MG1V131F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1V/EFR32MG1V132F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG1V/EFR32MG1V132F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/MGM1/MGM111A256V2.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/MGM1/MGM111E256V2.svd
+131 devices with rank #389
+Rank #390: (score 0.00023424689622862497, normalized score 0.026523956249887383)
+	tmp/svds/cmsis/Freescale/MK20D5.svd
+1 devices with rank #390
+Rank #391: (score 0.00023408239700374532, normalized score 0.026505329876116396)
+	tmp/svds/cmsis/STMicro/STM32G081.svd
+1 devices with rank #391
+Rank #392: (score 0.00023304591004427873, normalized score 0.02638796766039833)
+	tmp/svds/cmsis/Freescale/MK02F12810.svd
+1 devices with rank #392
+Rank #393: (score 0.00023025558369790466, normalized score 0.026072016861793515)
+	tmp/svds/cmsis/Freescale/MKV30F12810.svd
+1 devices with rank #393
+Rank #394: (score 0.00022983222247759135, normalized score 0.026024079345154962)
+	tmp/svds/cmsis/Atmel/ATSAML22N16A.svd
+	tmp/svds/cmsis/Atmel/ATSAML22N17A.svd
+	tmp/svds/cmsis/Atmel/ATSAML22N18A.svd
+3 devices with rank #394
+Rank #395: (score 0.00022925263640531865, normalized score 0.025958452368356085)
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG14V/EFR32FG14V132F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG14V/EFR32FG14V132F256GM48.svd
+2 devices with rank #395
+Rank #396: (score 0.00022825838849577722, normalized score 0.025845872912752622)
+	tmp/svds/cmsis/NXP/QN908XC.svd
+1 devices with rank #396
+Rank #397: (score 0.00022583559168925022, normalized score 0.02557153776665972)
+	tmp/svds/cmsis/Freescale/MKV31F12810.svd
+1 devices with rank #397
+Rank #398: (score 0.00022507314877335134, normalized score 0.02548520576879794)
+	tmp/svds/cmsis/Atmel/ATSAM3S1B.svd
+	tmp/svds/cmsis/Atmel/ATSAM3S2B.svd
+	tmp/svds/cmsis/Atmel/ATSAM3S4B.svd
+3 devices with rank #398
+Rank #399: (score 0.000224517287831163, normalized score 0.025422265206728613)
+	tmp/svds/cmsis/Atmel/ATSAM3S8B.svd
+	tmp/svds/cmsis/Atmel/ATSAM3SD8B.svd
+2 devices with rank #399
+Rank #400: (score 0.0002244668911335578, normalized score 0.025416558749892085)
+	tmp/svds/cmsis/Atmel/ATSAM4S16B.svd
+	tmp/svds/cmsis/Atmel/ATSAM4S2B.svd
+	tmp/svds/cmsis/Atmel/ATSAM4S4B.svd
+	tmp/svds/cmsis/Atmel/ATSAM4S8B.svd
+4 devices with rank #400
+Rank #401: (score 0.00022401433691756272, normalized score 0.025365315687896337)
+	tmp/svds/cmsis/Atmel/ATSAM4SA16B.svd
+1 devices with rank #401
+Rank #402: (score 0.00022381378692927484, normalized score 0.025342607258453276)
+	tmp/svds/cmsis/Atmel/ATSAM4SD16B.svd
+	tmp/svds/cmsis/Atmel/ATSAM4SD32B.svd
+2 devices with rank #402
+Rank #403: (score 0.00022311468094600624, normalized score 0.02526344695019394)
+	tmp/svds/cmsis/Freescale/MKV10Z1287.svd
+1 devices with rank #403
+Rank #404: (score 0.0002204585537918871, normalized score 0.024962691629358297)
+	tmp/svds/cmsis/Atmel/ATSAM3U1C.svd
+	tmp/svds/cmsis/Atmel/ATSAM3U2C.svd
+2 devices with rank #404
+Rank #405: (score 0.00022026431718061675, normalized score 0.024940698068451374)
+	tmp/svds/cmsis/Atmel/ATSAM3U4C.svd
+1 devices with rank #405
+Rank #406: (score 0.00021958717610891525, normalized score 0.024864024864024867)
+	tmp/svds/cmsis/Atmel/ATSAM3S1C.svd
+	tmp/svds/cmsis/Atmel/ATSAM3S2C.svd
+	tmp/svds/cmsis/Atmel/ATSAM3S4C.svd
+3 devices with rank #406
+Rank #407: (score 0.00021872265966754156, normalized score 0.02476613500235548)
+	tmp/svds/cmsis/Atmel/ATSAM4S16C.svd
+	tmp/svds/cmsis/Atmel/ATSAM4S2C.svd
+	tmp/svds/cmsis/Atmel/ATSAM4S4C.svd
+	tmp/svds/cmsis/Atmel/ATSAM4S8C.svd
+4 devices with rank #407
+Rank #408: (score 0.00021862702229995628, normalized score 0.02475530590965659)
+	tmp/svds/cmsis/STMicro/STM32G0B1.svd
+1 devices with rank #408
+Rank #409: (score 0.00021829294913774285, normalized score 0.024717478548519807)
+	tmp/svds/cmsis/Atmel/ATSAM4SA16C.svd
+1 devices with rank #409
+Rank #410: (score 0.00021810250817884405, normalized score 0.02469591477225065)
+	tmp/svds/cmsis/Atmel/ATSAM4SD16C.svd
+	tmp/svds/cmsis/Atmel/ATSAM4SD32C.svd
+2 devices with rank #410
+Rank #411: (score 0.00021753317380900588, normalized score 0.02463144860360436)
+	tmp/svds/cmsis/Atmel/ATSAM3U1E.svd
+	tmp/svds/cmsis/Atmel/ATSAM3U2E.svd
+2 devices with rank #411
+Rank #412: (score 0.00021734405564007825, normalized score 0.02461003460786117)
+	tmp/svds/cmsis/Atmel/ATSAM3U4E.svd
+1 devices with rank #412
+Rank #413: (score 0.00021691973969631235, normalized score 0.024561988987151676)
+	tmp/svds/cmsis/Atmel/ATSAM3S8C.svd
+	tmp/svds/cmsis/Atmel/ATSAM3SD8C.svd
+2 devices with rank #413
+Rank #414: (score 0.00021668472372697725, normalized score 0.024535377948162348)
+	tmp/svds/cmsis/TexasInstruments/CC13x0.svd
+	tmp/svds/cmsis/TexasInstruments/CC26x0.svd
+2 devices with rank #414
+Rank #415: (score 0.0002161227577263886, normalized score 0.024471746105634157)
+	tmp/svds/cmsis/STMicro/STM32G0C1.svd
+1 devices with rank #415
+Rank #416: (score 0.00021408691928923143, normalized score 0.024241226553365285)
+	tmp/svds/cmsis/Freescale/MKV11Z7.svd
+1 devices with rank #416
+Rank #417: (score 0.00020973154362416107, normalized score 0.023748064016520392)
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG14P/EFR32BG14P532F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG14P/EFR32BG14P532F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG14P/EFR32BG14P632F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG14P/EFR32BG14P632F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG14P/EFR32BG14P632F256IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG14P/EFR32BG14P632F256IM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG14P/EFR32BG14P732F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG14P/EFR32BG14P732F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG14P/EFR32BG14P733F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG14P/EFR32FG14P231F128GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG14P/EFR32FG14P231F128GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG14P/EFR32FG14P231F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG14P/EFR32FG14P231F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG14P/EFR32FG14P231F256IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG14P/EFR32FG14P231F256IM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG14P/EFR32FG14P232F128GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG14P/EFR32FG14P232F128GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG14P/EFR32FG14P232F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG14P/EFR32FG14P232F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG14P/EFR32FG14P233F128GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG14P/EFR32FG14P233F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG14P/EFR32MG14P632F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG14P/EFR32MG14P632F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG14P/EFR32MG14P731F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG14P/EFR32MG14P732F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG14P/EFR32MG14P732F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG14P/EFR32MG14P732F256IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG14P/EFR32MG14P732F256IM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG14P/EFR32MG14P733F256GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG14P/EFR32MG14P733F256IM48.svd
+30 devices with rank #417
+Rank #418: (score 0.00020554984583761563, normalized score 0.023274567159459247)
+	tmp/svds/cmsis/Freescale/MKE14Z7.svd
+1 devices with rank #418
+Rank #419: (score 0.00020454080589077522, normalized score 0.023160312790093934)
+	tmp/svds/cmsis/Freescale/MKE15Z7.svd
+1 devices with rank #419
+Rank #420: (score 0.00020080321285140563, normalized score 0.022737102255174547)
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG13P/EFR32MG13P832F512IM48.svd
+1 devices with rank #420
+Rank #421: (score 0.00019928258270227183, normalized score 0.022564920133672627)
+	tmp/svds/cmsis/Atmel/ATSAM3A4C.svd
+	tmp/svds/cmsis/Atmel/ATSAM3A8C.svd
+2 devices with rank #421
+Rank #422: (score 0.0001988862370723946, normalized score 0.022520041613120375)
+	tmp/svds/cmsis/SiliconLabs/Series1/BGM13/BGM13P22F512GA.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/BGM13/BGM13P22F512GE.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/BGM13/BGM13P32F512GA.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/BGM13/BGM13P32F512GE.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/BGM13/BGM13S22F512GA.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/BGM13/BGM13S22F512GN.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/BGM13/BGM13S32F512GA.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/BGM13/BGM13S32F512GN.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG13P/EFR32BG13P532F512GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG13P/EFR32BG13P532F512GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG13P/EFR32BG13P632F512GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG13P/EFR32BG13P632F512GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG13P/EFR32BG13P632F512GM51.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG13P/EFR32BG13P632F512IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG13P/EFR32BG13P632F512IM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG13P/EFR32BG13P732F512GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG13P/EFR32BG13P732F512GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG13P/EFR32BG13P732F512GM51.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG13P/EFR32BG13P733F512GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG13P/EFR32FG13P231F512GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG13P/EFR32FG13P231F512GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG13P/EFR32FG13P231F512IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG13P/EFR32FG13P231F512IM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG13P/EFR32FG13P232F512GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG13P/EFR32FG13P232F512GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG13P/EFR32FG13P233F512GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG13P/EFR32MG13P632F512GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG13P/EFR32MG13P632F512GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG13P/EFR32MG13P632F512GM51.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG13P/EFR32MG13P731F512GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG13P/EFR32MG13P732F512GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG13P/EFR32MG13P732F512GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG13P/EFR32MG13P732F512GM51.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG13P/EFR32MG13P732F512IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG13P/EFR32MG13P732F512IM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG13P/EFR32MG13P733F512GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG13P/EFR32MG13P733F512IM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32ZG13L/EFR32ZG13L231F512GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32ZG13L/EFR32ZG13L231F512IM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32ZG13P/EFR32ZG13P231F512GM64.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32ZG13P/EFR32ZG13P531F512GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32ZG13P/EFR32ZG13P531F512GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32ZG13S/EFR32ZG13S231F512GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/MGM13/MGM13P02F512GA.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/MGM13/MGM13P02F512GE.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/MGM13/MGM13P12F512GA.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/MGM13/MGM13P12F512GE.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/MGM13/MGM13S02F512GA.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/MGM13/MGM13S02F512GN.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/MGM13/MGM13S12F512GA.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/MGM13/MGM13S12F512GN.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/ZGM13/ZGM130S037HGN.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/ZGM13/ZGM130S037HGN1.svd
+53 devices with rank #422
+Rank #423: (score 0.0001960015680125441, normalized score 0.022193408316497302)
+	tmp/svds/cmsis/Atmel/ATSAM3X4C.svd
+	tmp/svds/cmsis/Atmel/ATSAM3X8C.svd
+2 devices with rank #423
+Rank #424: (score 0.00019376089905057158, normalized score 0.021939695646341646)
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32JG12B/EFM32JG12B500F1024GL125.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32JG12B/EFM32JG12B500F1024GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32JG12B/EFM32JG12B500F1024IL125.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32JG12B/EFM32JG12B500F1024IM48.svd
+4 devices with rank #424
+Rank #425: (score 0.00019364833462432224, normalized score 0.021926949889769412)
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32PG12B/EFM32PG12B500F1024GL125.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32PG12B/EFM32PG12B500F1024GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32PG12B/EFM32PG12B500F1024IL125.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFM32PG12B/EFM32PG12B500F1024IM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG12P/EFR32BG12P132F1024GL125.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG12P/EFR32BG12P132F1024GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG12P/EFR32BG12P232F1024GL125.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG12P/EFR32BG12P232F1024GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG12P/EFR32BG12P232F1024GM68.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG12P/EFR32BG12P232F1024IM68.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG12P/EFR32BG12P232F512GM68.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG12P/EFR32BG12P232F512IM68.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG12P/EFR32BG12P332F1024GL125.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG12P/EFR32BG12P332F1024GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG12P/EFR32BG12P332F1024IM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG12P/EFR32BG12P432F1024GL125.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG12P/EFR32BG12P432F1024GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG12P/EFR32BG12P433F1024GL125.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG12P/EFR32BG12P433F1024GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG12P/EFR32BG12P433F1024GM68.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32BG12P/EFR32BG12P433F1024IM68.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG12P/EFR32FG12P231F1024GL125.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG12P/EFR32FG12P231F1024GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG12P/EFR32FG12P231F1024GM68.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG12P/EFR32FG12P231F512GM68.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG12P/EFR32FG12P232F1024GL125.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG12P/EFR32FG12P232F1024GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG12P/EFR32FG12P431F1024GL125.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG12P/EFR32FG12P431F1024GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG12P/EFR32FG12P431F1024GM68.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG12P/EFR32FG12P431F1024IM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG12P/EFR32FG12P431F512GM68.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG12P/EFR32FG12P432F1024GL125.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG12P/EFR32FG12P432F1024GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG12P/EFR32FG12P433F1024GL125.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG12P/EFR32FG12P433F1024GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32FG12P/EFR32FG12P433F1024GM68.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P132F1024GL125.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P132F1024GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P132F512GM68.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P231F1024GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P231F1024GM68.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P232F1024GL125.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P232F1024GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P232F1024GM68.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P232F512GM68.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P332F1024GL125.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P332F1024GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P332F1024IM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P431F1024GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P431F1024GM68.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P432F1024GL125.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P432F1024GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P432F1024GM68.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P432F1024IM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P433F1024GL125.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P433F1024GM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P433F1024GM68.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P433F1024IL125.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32MG12P/EFR32MG12P433F1024IM48.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/MGM12/MGM12P02F1024GA.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/MGM12/MGM12P02F1024GE.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/MGM12/MGM12P22F1024GA.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/MGM12/MGM12P22F1024GE.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/MGM12/MGM12P32F1024GA.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/MGM12/MGM12P32F1024GE.svd
+66 devices with rank #425
+Rank #426: (score 0.0001869508319312021, normalized score 0.02116858650790227)
+	tmp/svds/cmsis/Atmel/ATSAM3X4E.svd
+	tmp/svds/cmsis/Atmel/ATSAM3X8E.svd
+2 devices with rank #426
+Rank #427: (score 0.00018426386585590566, normalized score 0.020864339272299474)
+	tmp/svds/cmsis/Atmel/ATSAM3X8H.svd
+1 devices with rank #427
+Rank #428: (score 0.0001766472354707649, normalized score 0.020001902354843535)
+	tmp/svds/cmsis/Freescale/MKL82Z7.svd
+1 devices with rank #428
+Rank #429: (score 0.00017415534656913968, normalized score 0.019719743857674894)
+	tmp/svds/cmsis/Freescale/MKL81Z7.svd
+1 devices with rank #429
+Rank #430: (score 0.0001720282126268708, normalized score 0.01947888684513491)
+	tmp/svds/cmsis/Freescale/MKW31Z4.svd
+1 devices with rank #430
+Rank #431: (score 0.00016641704110500916, normalized score 0.01884352957742873)
+	tmp/svds/cmsis/Freescale/MKW21Z4.svd
+1 devices with rank #431
+Rank #432: (score 0.00013937282229965157, normalized score 0.015781291878852854)
+	tmp/svds/cmsis/Freescale/MKL28T7_CORE0.svd
+	tmp/svds/cmsis/Freescale/MKL28T7_CORE1.svd
+2 devices with rank #432
+Rank #433: (score 8.904719501335708e-05, normalized score 0.010082882389204741)
+	tmp/svds/cmsis/Nordic/nrf9160.svd
+1 devices with rank #433
+Rank #434: (score 5.2879276611495956e-05, normalized score 0.0059875611670863116)
+	tmp/svds/cmsis/Nordic/nrf5340_application.svd
+1 devices with rank #434
+Rank #435: (score 0.0, normalized score 0.0)
+	tmp/svds/cmsis/ARM_SAMPLE/ARM_Sample.svd
+	tmp/svds/cmsis/Atmel/AT91SAM9CN11.svd
+	tmp/svds/cmsis/Atmel/AT91SAM9CN12.svd
+	tmp/svds/cmsis/Atmel/AT91SAM9G10.svd
+	tmp/svds/cmsis/Atmel/AT91SAM9G15.svd
+	tmp/svds/cmsis/Atmel/AT91SAM9G20.svd
+	tmp/svds/cmsis/Atmel/AT91SAM9G25.svd
+	tmp/svds/cmsis/Atmel/AT91SAM9G35.svd
+	tmp/svds/cmsis/Atmel/AT91SAM9M10.svd
+	tmp/svds/cmsis/Atmel/AT91SAM9M11.svd
+	tmp/svds/cmsis/Atmel/AT91SAM9N12.svd
+	tmp/svds/cmsis/Atmel/AT91SAM9X25.svd
+	tmp/svds/cmsis/Atmel/AT91SAM9X35.svd
+	tmp/svds/cmsis/Atmel/ATSAM3N00A.svd
+	tmp/svds/cmsis/Atmel/ATSAM3N00B.svd
+	tmp/svds/cmsis/Atmel/ATSAM3N0A.svd
+	tmp/svds/cmsis/Atmel/ATSAM3N0B.svd
+	tmp/svds/cmsis/Atmel/ATSAM3N0C.svd
+	tmp/svds/cmsis/Atmel/ATSAM3N1A.svd
+	tmp/svds/cmsis/Atmel/ATSAM3N1B.svd
+	tmp/svds/cmsis/Atmel/ATSAM3N1C.svd
+	tmp/svds/cmsis/Atmel/ATSAM3N2A.svd
+	tmp/svds/cmsis/Atmel/ATSAM3N2B.svd
+	tmp/svds/cmsis/Atmel/ATSAM3N2C.svd
+	tmp/svds/cmsis/Atmel/ATSAM3N4A.svd
+	tmp/svds/cmsis/Atmel/ATSAM3N4B.svd
+	tmp/svds/cmsis/Atmel/ATSAM3N4C.svd
+	tmp/svds/cmsis/Atmel/ATSAM3S1A.svd
+	tmp/svds/cmsis/Atmel/ATSAM3S2A.svd
+	tmp/svds/cmsis/Atmel/ATSAM3S4A.svd
+	tmp/svds/cmsis/Atmel/ATSAM4S2A.svd
+	tmp/svds/cmsis/Atmel/ATSAM4S4A.svd
+	tmp/svds/cmsis/Atmel/ATSAM4SP32A.svd
+	tmp/svds/cmsis/Atmel/ATSAMA5D31.svd
+	tmp/svds/cmsis/Atmel/ATSAMA5D33.svd
+	tmp/svds/cmsis/Atmel/ATSAMA5D34.svd
+	tmp/svds/cmsis/Atmel/ATSAMA5D35.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21E15A.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21E15B.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21E15BU.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21E15CU.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21E15L.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21E16A.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21E16B.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21E16BU.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21E16CU.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21E16L.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21E17A.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21E17D.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21E17DU.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21E17L.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21E18A.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21G15A.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21G15B.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21G15L.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21G16A.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21G16B.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21G16L.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21G17A.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21G17AU.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21G17D.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21G17L.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21G18A.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21G18AU.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21J15A.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21J15B.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21J16A.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21J16B.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21J17A.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21J17D.svd
+	tmp/svds/cmsis/Atmel/ATSAMD21J18A.svd
+	tmp/svds/cmsis/Atmel/ATSAMR21E16A.svd
+	tmp/svds/cmsis/Atmel/ATSAMR21E17A.svd
+	tmp/svds/cmsis/Atmel/ATSAMR21E18A.svd
+	tmp/svds/cmsis/Atmel/ATSAMR21E19A.svd
+	tmp/svds/cmsis/Atmel/ATSAMR21G16A.svd
+	tmp/svds/cmsis/Atmel/ATSAMR21G17A.svd
+	tmp/svds/cmsis/Atmel/ATSAMR21G18A.svd
+	tmp/svds/cmsis/Cypress/psoc63.svd
+	tmp/svds/cmsis/Freescale/MKE04Z4.svd
+	tmp/svds/cmsis/Freescale/MKL02Z4.svd
+	tmp/svds/cmsis/Freescale/MKL03Z4.svd
+	tmp/svds/cmsis/Freescale/MKL05Z4.svd
+	tmp/svds/cmsis/Freescale/MKL13Z644.svd
+	tmp/svds/cmsis/Freescale/MKL14Z4.svd
+	tmp/svds/cmsis/Freescale/MKL15Z4.svd
+	tmp/svds/cmsis/Freescale/MKL16Z4.svd
+	tmp/svds/cmsis/Freescale/MKL17Z4.svd
+	tmp/svds/cmsis/Freescale/MKL17Z644.svd
+	tmp/svds/cmsis/Freescale/MKL24Z4.svd
+	tmp/svds/cmsis/Freescale/MKL25Z4.svd
+	tmp/svds/cmsis/Freescale/MKL26Z4.svd
+	tmp/svds/cmsis/Freescale/MKL27Z4.svd
+	tmp/svds/cmsis/Freescale/MKL27Z644.svd
+	tmp/svds/cmsis/Freescale/MKL33Z4.svd
+	tmp/svds/cmsis/Freescale/MKL33Z644.svd
+	tmp/svds/cmsis/Freescale/MKL34Z4.svd
+	tmp/svds/cmsis/Freescale/MKL36Z4.svd
+	tmp/svds/cmsis/Freescale/MKL43Z4.svd
+	tmp/svds/cmsis/Freescale/MKL46Z4.svd
+	tmp/svds/cmsis/Freescale/MKM14ZA5.svd
+	tmp/svds/cmsis/Freescale/MKM33ZA5.svd
+	tmp/svds/cmsis/Freescale/MKM34ZA5.svd
+	tmp/svds/cmsis/Freescale/MKW01Z4.svd
+	tmp/svds/cmsis/Freescale/MKW20Z4.svd
+	tmp/svds/cmsis/Freescale/MKW30Z4.svd
+	tmp/svds/cmsis/Freescale/MKW40Z4.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF10xN.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF10xR.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF11xK.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF11xL.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF11xM.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF11xN.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF12xK.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF12xL.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF13xK.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF13xL.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF13xM.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF13xN.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF14xL.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF14xM.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF14xN.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF15xM.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF15xN.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF15xR.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF1AxL.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF1AxM.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF1AxN.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF31xK.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF31xL.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF31xM.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF31xN.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF34xL.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF34xM.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF34xN.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF42xK.svd
+	tmp/svds/cmsis/Fujitsu/MB9AF42xL.svd
+	tmp/svds/cmsis/Fujitsu/MB9AFA3xL.svd
+	tmp/svds/cmsis/Fujitsu/MB9AFA3xM.svd
+	tmp/svds/cmsis/Fujitsu/MB9AFA3xN.svd
+	tmp/svds/cmsis/Fujitsu/MB9AFA4xL.svd
+	tmp/svds/cmsis/Fujitsu/MB9AFA4xM.svd
+	tmp/svds/cmsis/Fujitsu/MB9AFA4xN.svd
+	tmp/svds/cmsis/Fujitsu/MB9AFAAxL.svd
+	tmp/svds/cmsis/Fujitsu/MB9AFAAxM.svd
+	tmp/svds/cmsis/Fujitsu/MB9AFAAxN.svd
+	tmp/svds/cmsis/Fujitsu/MB9AFB4xL.svd
+	tmp/svds/cmsis/Fujitsu/MB9AFB4xM.svd
+	tmp/svds/cmsis/Fujitsu/MB9AFB4xN.svd
+	tmp/svds/cmsis/Fujitsu/MB9B160L.svd
+	tmp/svds/cmsis/Fujitsu/MB9B160R.svd
+	tmp/svds/cmsis/Fujitsu/MB9B360L.svd
+	tmp/svds/cmsis/Fujitsu/MB9B360R.svd
+	tmp/svds/cmsis/Fujitsu/MB9B460L.svd
+	tmp/svds/cmsis/Fujitsu/MB9B460R.svd
+	tmp/svds/cmsis/Fujitsu/MB9B560L.svd
+	tmp/svds/cmsis/Fujitsu/MB9B560R.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF10xN.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF10xR.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF11xN.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF11xR.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF11xS.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF11xT.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF12xJ.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF12xK.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF12xL.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF12xM.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF12xS.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF12xT.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF21xS.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF21xT.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF30xN.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF30xR.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF31xN.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF31xR.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF31xS.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF31xT.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF32xK.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF32xL.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF32xM.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF32xS.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF32xT.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF40xN.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF40xR.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF41xN.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF41xR.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF41xS.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF41xT.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF42xS.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF42xT.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF50xN.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF50xR.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF51xN.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF51xR.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF51xS.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF51xT.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF52xK.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF52xL.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF52xM.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF52xS.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF52xT.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF61xS.svd
+	tmp/svds/cmsis/Fujitsu/MB9BF61xT.svd
+	tmp/svds/cmsis/Fujitsu/MB9BFD1xS.svd
+	tmp/svds/cmsis/Fujitsu/MB9BFD1xT.svd
+	tmp/svds/cmsis/Fujitsu/S6E1A1.svd
+	tmp/svds/cmsis/Fujitsu/S6E2CC.svd
+	tmp/svds/cmsis/NXP/LPC1102_4_v4.svd
+	tmp/svds/cmsis/NXP/LPC11Axxv0.6.svd
+	tmp/svds/cmsis/NXP/LPC11Cxx_v9.svd
+	tmp/svds/cmsis/NXP/LPC11D14_svd_v4.svd
+	tmp/svds/cmsis/NXP/LPC11E6x_v0.8.svd
+	tmp/svds/cmsis/NXP/LPC11Exx_v5.svd
+	tmp/svds/cmsis/NXP/LPC11Uxx_v7.svd
+	tmp/svds/cmsis/NXP/LPC11xx_v6.svd
+	tmp/svds/cmsis/NXP/LPC11xx_v6a.svd
+	tmp/svds/cmsis/NXP/LPC13Uxx_v1.svd
+	tmp/svds/cmsis/NXP/LPC13xx_svd_v1.svd
+	tmp/svds/cmsis/NXP/LPC15xx_v0.7.svd
+	tmp/svds/cmsis/NXP/LPC176x5x_v0.2.svd
+	tmp/svds/cmsis/NXP/LPC178x_7x.svd
+	tmp/svds/cmsis/NXP/LPC178x_7x_v0.8.svd
+	tmp/svds/cmsis/NXP/LPC5410x_v0.4.svd
+	tmp/svds/cmsis/NXP/LPC800_v0.3.svd
+	tmp/svds/cmsis/Nordic/nrf5340_network.svd
+	tmp/svds/cmsis/STMicro/STM32U031.svd
+	tmp/svds/cmsis/STMicro/STM32U073.svd
+	tmp/svds/cmsis/STMicro/STM32U083.svd
+	tmp/svds/cmsis/STMicro/STM32U535.svd
+	tmp/svds/cmsis/STMicro/STM32U545.svd
+	tmp/svds/cmsis/STMicro/STM32U575.svd
+	tmp/svds/cmsis/STMicro/STM32U585.svd
+	tmp/svds/cmsis/STMicro/STM32U595.svd
+	tmp/svds/cmsis/STMicro/STM32U599.svd
+	tmp/svds/cmsis/STMicro/STM32U5A5.svd
+	tmp/svds/cmsis/STMicro/STM32U5A9.svd
+	tmp/svds/cmsis/STMicro/STM32U5Fx.svd
+	tmp/svds/cmsis/STMicro/STM32U5Gx.svd
+	tmp/svds/cmsis/SiFive-Community/fu740.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32ZG14P/EFR32ZG14P231F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/Series1/EFR32ZG14P/EFR32ZG14P731F256GM32.svd
+	tmp/svds/cmsis/SiliconLabs/SiM3_NRND/SIM3L1x4.svd
+	tmp/svds/cmsis/SiliconLabs/SiM3_NRND/SIM3L1x6.svd
+	tmp/svds/cmsis/SiliconLabs/SiM3_NRND/SIM3L1x7.svd
+	tmp/svds/cmsis/SiliconLabs/SiM3_NRND/SIM3L1x8.svd
+	tmp/svds/cmsis/Spansion/MB9AF10xN.svd
+	tmp/svds/cmsis/Spansion/MB9AF10xR.svd
+	tmp/svds/cmsis/Spansion/MB9AF11xK.svd
+	tmp/svds/cmsis/Spansion/MB9AF11xL.svd
+	tmp/svds/cmsis/Spansion/MB9AF11xM.svd
+	tmp/svds/cmsis/Spansion/MB9AF11xN.svd
+	tmp/svds/cmsis/Spansion/MB9AF12xK.svd
+	tmp/svds/cmsis/Spansion/MB9AF12xL.svd
+	tmp/svds/cmsis/Spansion/MB9AF13xK.svd
+	tmp/svds/cmsis/Spansion/MB9AF13xL.svd
+	tmp/svds/cmsis/Spansion/MB9AF13xM.svd
+	tmp/svds/cmsis/Spansion/MB9AF13xN.svd
+	tmp/svds/cmsis/Spansion/MB9AF14xL.svd
+	tmp/svds/cmsis/Spansion/MB9AF14xM.svd
+	tmp/svds/cmsis/Spansion/MB9AF14xN.svd
+	tmp/svds/cmsis/Spansion/MB9AF15xM.svd
+	tmp/svds/cmsis/Spansion/MB9AF15xN.svd
+	tmp/svds/cmsis/Spansion/MB9AF15xR.svd
+	tmp/svds/cmsis/Spansion/MB9AF31xK.svd
+	tmp/svds/cmsis/Spansion/MB9AF31xL.svd
+	tmp/svds/cmsis/Spansion/MB9AF31xM.svd
+	tmp/svds/cmsis/Spansion/MB9AF31xN.svd
+	tmp/svds/cmsis/Spansion/MB9AF34xL.svd
+	tmp/svds/cmsis/Spansion/MB9AF34xM.svd
+	tmp/svds/cmsis/Spansion/MB9AF34xN.svd
+	tmp/svds/cmsis/Spansion/MB9AF42xK.svd
+	tmp/svds/cmsis/Spansion/MB9AF42xL.svd
+	tmp/svds/cmsis/Spansion/MB9AFA3xL.svd
+	tmp/svds/cmsis/Spansion/MB9AFA3xM.svd
+	tmp/svds/cmsis/Spansion/MB9AFA3xN.svd
+	tmp/svds/cmsis/Spansion/MB9AFA4xL.svd
+	tmp/svds/cmsis/Spansion/MB9AFA4xM.svd
+	tmp/svds/cmsis/Spansion/MB9AFA4xN.svd
+	tmp/svds/cmsis/Spansion/MB9AFB4xL.svd
+	tmp/svds/cmsis/Spansion/MB9AFB4xM.svd
+	tmp/svds/cmsis/Spansion/MB9AFB4xN.svd
+	tmp/svds/cmsis/Spansion/MB9BF10xN.svd
+	tmp/svds/cmsis/Spansion/MB9BF10xR.svd
+	tmp/svds/cmsis/Spansion/MB9BF11xN.svd
+	tmp/svds/cmsis/Spansion/MB9BF11xR.svd
+	tmp/svds/cmsis/Spansion/MB9BF11xS.svd
+	tmp/svds/cmsis/Spansion/MB9BF11xT.svd
+	tmp/svds/cmsis/Spansion/MB9BF12xJ.svd
+	tmp/svds/cmsis/Spansion/MB9BF12xK.svd
+	tmp/svds/cmsis/Spansion/MB9BF12xL.svd
+	tmp/svds/cmsis/Spansion/MB9BF12xM.svd
+	tmp/svds/cmsis/Spansion/MB9BF12xS.svd
+	tmp/svds/cmsis/Spansion/MB9BF12xT.svd
+	tmp/svds/cmsis/Spansion/MB9BF16xx.svd
+	tmp/svds/cmsis/Spansion/MB9BF21xS.svd
+	tmp/svds/cmsis/Spansion/MB9BF21xT.svd
+	tmp/svds/cmsis/Spansion/MB9BF30xN.svd
+	tmp/svds/cmsis/Spansion/MB9BF30xR.svd
+	tmp/svds/cmsis/Spansion/MB9BF31xN.svd
+	tmp/svds/cmsis/Spansion/MB9BF31xR.svd
+	tmp/svds/cmsis/Spansion/MB9BF31xS.svd
+	tmp/svds/cmsis/Spansion/MB9BF31xT.svd
+	tmp/svds/cmsis/Spansion/MB9BF32xK.svd
+	tmp/svds/cmsis/Spansion/MB9BF32xL.svd
+	tmp/svds/cmsis/Spansion/MB9BF32xM.svd
+	tmp/svds/cmsis/Spansion/MB9BF32xS.svd
+	tmp/svds/cmsis/Spansion/MB9BF32xT.svd
+	tmp/svds/cmsis/Spansion/MB9BF36xx.svd
+	tmp/svds/cmsis/Spansion/MB9BF40xN.svd
+	tmp/svds/cmsis/Spansion/MB9BF40xR.svd
+	tmp/svds/cmsis/Spansion/MB9BF41xN.svd
+	tmp/svds/cmsis/Spansion/MB9BF41xR.svd
+	tmp/svds/cmsis/Spansion/MB9BF41xS.svd
+	tmp/svds/cmsis/Spansion/MB9BF41xT.svd
+	tmp/svds/cmsis/Spansion/MB9BF42xS.svd
+	tmp/svds/cmsis/Spansion/MB9BF42xT.svd
+	tmp/svds/cmsis/Spansion/MB9BF46xx.svd
+	tmp/svds/cmsis/Spansion/MB9BF50xN.svd
+	tmp/svds/cmsis/Spansion/MB9BF50xR.svd
+	tmp/svds/cmsis/Spansion/MB9BF51xN.svd
+	tmp/svds/cmsis/Spansion/MB9BF51xR.svd
+	tmp/svds/cmsis/Spansion/MB9BF51xS.svd
+	tmp/svds/cmsis/Spansion/MB9BF51xT.svd
+	tmp/svds/cmsis/Spansion/MB9BF52xK.svd
+	tmp/svds/cmsis/Spansion/MB9BF52xL.svd
+	tmp/svds/cmsis/Spansion/MB9BF52xM.svd
+	tmp/svds/cmsis/Spansion/MB9BF52xS.svd
+	tmp/svds/cmsis/Spansion/MB9BF52xT.svd
+	tmp/svds/cmsis/Spansion/MB9BF56xx.svd
+	tmp/svds/cmsis/Spansion/MB9BF61xS.svd
+	tmp/svds/cmsis/Spansion/MB9BF61xT.svd
+	tmp/svds/cmsis/Spansion/MB9BFD1xS.svd
+	tmp/svds/cmsis/Spansion/MB9BFD1xT.svd
+	tmp/svds/cmsis/TexasInstruments/MSP432E401Y.svd
+	tmp/svds/cmsis/TexasInstruments/MSP432E411Y.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1230C3PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1230D5PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1230E6PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1230H6PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1231C3PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1231D5PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1231D5PZ.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1231E6PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1231E6PZ.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1231H6PGE.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1231H6PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1231H6PZ.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1232C3PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1232D5PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1232E6PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1232H6PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1233C3PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1233D5PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1233D5PZ.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1233E6PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1233E6PZ.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1233H6PGE.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1233H6PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1233H6PZ.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1236D5PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1236E6PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1236H6PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1237D5PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1237D5PZ.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1237E6PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1237E6PZ.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1237H6PGE.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1237H6PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C1237H6PZ.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C123AE6PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C123AH6PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C123BE6PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C123BE6PZ.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C123BH6PGE.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C123BH6PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C123BH6PZ.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C123BH6ZRB.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C123FE6PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C123FH6PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C123GE6PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C123GE6PZ.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C123GH6PGE.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C123GH6PM.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C123GH6PZ.svd
+	tmp/svds/cmsis/TexasInstruments/TM4C123GH6ZRB.svd
+	tmp/svds/cmsis/Toshiba/M061.svd
+	tmp/svds/cmsis/Toshiba/M365.svd
+	tmp/svds/cmsis/Toshiba/M367.svd
+	tmp/svds/cmsis/Toshiba/M368.svd
+	tmp/svds/cmsis/Toshiba/M369.svd
+	tmp/svds/cmsis/Toshiba/M36B.svd
+391 devices with rank #436

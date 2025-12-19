@@ -1,0 +1,4 @@
+*.gz filter=lfs diff=lfs merge=lfs -text
+*.gz !text !filter !merge !diff
+svds.tar.gz filter=lfs diff=lfs merge=lfs -text
+memory_maps.tar.gz filter=lfs diff=lfs merge=lfs -text

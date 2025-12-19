@@ -1,0 +1,9 @@
+.venv/
+cache/
+*.pyc
+venv/
+tmp/
+*.cache
+*.cache-journal
+deps/
+old/

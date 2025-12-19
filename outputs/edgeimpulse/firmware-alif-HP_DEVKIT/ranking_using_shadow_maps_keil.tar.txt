@@ -1,0 +1,3936 @@
+Rank #1: (score 0.004289544235924933, normalized score 1.0)
+	tmp/svds/keil/Himax/WE2_NS.svd
+	tmp/svds/keil/Himax/WE2_S.svd
+2 devices with rank #1
+Rank #2: (score 0.0037400654511453952, normalized score 0.8719027582982701)
+	tmp/svds/keil/Himax/WE2_S_NS.svd
+1 devices with rank #2
+Rank #3: (score 0.0025852163921869014, normalized score 0.6026785714285713)
+	tmp/svds/keil/Keil/iMX6SX_A9.svd
+1 devices with rank #3
+Rank #4: (score 0.0024588904256954047, normalized score 0.5732288304902412)
+	tmp/svds/keil/Microchip/PIC32CX2051MTG64.svd
+1 devices with rank #4
+Rank #5: (score 0.002419110976716057, normalized score 0.5639552464469307)
+	tmp/svds/keil/Microchip/PIC32CX2051MTG128.svd
+1 devices with rank #5
+Rank #6: (score 0.0024154589371980675, normalized score 0.5631038647342994)
+	tmp/svds/keil/Microchip/PIC32CX2051MTC128.svd
+1 devices with rank #6
+Rank #7: (score 0.0024016811768237767, normalized score 0.5598919243470429)
+	tmp/svds/keil/Microchip/PIC32CX2051MTSH128.svd
+1 devices with rank #7
+Rank #8: (score 0.0016474464579901153, normalized score 0.3840609555189456)
+	tmp/svds/keil/Cmsemicon/BAT32G137A.svd
+1 devices with rank #8
+Rank #9: (score 0.0016326530612244899, normalized score 0.38061224489795914)
+	tmp/svds/keil/Cmsemicon/BAT32A233.svd
+	tmp/svds/keil/Cmsemicon/BAT32A6300.svd
+2 devices with rank #9
+Rank #10: (score 0.0015781167806417674, normalized score 0.367898474487112)
+	tmp/svds/keil/Cmsemicon/BAT32A237.svd
+	tmp/svds/keil/Cmsemicon/BAT32G137.svd
+2 devices with rank #10
+Rank #11: (score 0.0015600624024961, normalized score 0.36368954758190325)
+	tmp/svds/keil/Cmsemicon/BAT32G157.svd
+1 devices with rank #11
+Rank #12: (score 0.0015165876777251184, normalized score 0.3535545023696682)
+	tmp/svds/keil/Microchip/ATSAMS70J21B.svd
+1 devices with rank #12
+Rank #13: (score 0.0014862521674510775, normalized score 0.3464825365370324)
+	tmp/svds/keil/Cmsemicon/BAT32A239.svd
+	tmp/svds/keil/Cmsemicon/BAT32G139.svd
+2 devices with rank #13
+Rank #14: (score 0.001451378809869376, normalized score 0.33835268505079824)
+	tmp/svds/keil/Cmsemicon/CMS32L031.svd
+1 devices with rank #14
+Rank #15: (score 0.001450536698578474, normalized score 0.3381563678561067)
+	tmp/svds/keil/Cmsemicon/BAT32G133.svd
+1 devices with rank #15
+Rank #16: (score 0.0014214641080312722, normalized score 0.3313788201847903)
+	tmp/svds/keil/Cmsemicon/BAT32A279.svd
+	tmp/svds/keil/Cmsemicon/BAT32G179.svd
+2 devices with rank #16
+Rank #17: (score 0.0014208581983518045, normalized score 0.3312375674907644)
+	tmp/svds/keil/Cmsemicon/CMS32L051.svd
+1 devices with rank #17
+Rank #18: (score 0.0014200511218403862, normalized score 0.33104941777904)
+	tmp/svds/keil/Cmsemicon/BAT32WB35.svd
+1 devices with rank #18
+Rank #19: (score 0.001419244961680386, normalized score 0.33086148169173996)
+	tmp/svds/keil/Cmsemicon/BAT32G135.svd
+1 devices with rank #19
+Rank #20: (score 0.0014069644741470278, normalized score 0.3279985930355258)
+	tmp/svds/keil/Microchip/ATSAME70J21B.svd
+1 devices with rank #20
+Rank #21: (score 0.0014033118158854898, normalized score 0.32714706707830477)
+	tmp/svds/keil/Cmsemicon/BAT32G127.svd
+1 devices with rank #21
+Rank #22: (score 0.0013986013986013986, normalized score 0.32604895104895104)
+	tmp/svds/keil/HDSC/HC32M120F6TB.svd
+1 devices with rank #22
+Rank #23: (score 0.0013939710751001916, normalized score 0.32496950688273213)
+	tmp/svds/keil/Microchip/ATSAMV71J21B.svd
+1 devices with rank #23
+Rank #24: (score 0.0013931457230426303, normalized score 0.32477709668431315)
+	tmp/svds/keil/HDSC/HC32M120.svd
+	tmp/svds/keil/HDSC/HC32M120J6TB.svd
+2 devices with rank #24
+Rank #25: (score 0.0013850415512465374, normalized score 0.322887811634349)
+	tmp/svds/keil/Microchip/PIC32CX1025MTG64.svd
+1 devices with rank #25
+Rank #26: (score 0.0013626040878122634, normalized score 0.3176570779712339)
+	tmp/svds/keil/Microchip/PIC32CX1025MTG128.svd
+1 devices with rank #26
+Rank #27: (score 0.0013605442176870747, normalized score 0.31717687074829926)
+	tmp/svds/keil/Microchip/PIC32CX1025MTC128.svd
+1 devices with rank #27
+Rank #28: (score 0.00135277318502931, normalized score 0.31536524875995786)
+	tmp/svds/keil/Microchip/PIC32CX1025MTSH128.svd
+1 devices with rank #28
+Rank #29: (score 0.0013506668917778154, normalized score 0.3148742191457032)
+	tmp/svds/keil/Microchip/ATSAMS70N21B.svd
+1 devices with rank #29
+Rank #30: (score 0.0013220955214014213, normalized score 0.3082135184267063)
+	tmp/svds/keil/Microchip/ATSAMS70Q21B.svd
+1 devices with rank #30
+Rank #31: (score 0.001303780964797914, normalized score 0.30394393741851367)
+	tmp/svds/keil/Keil/CMSDK_ARMv8MBL.svd
+	tmp/svds/keil/Keil/CMSDK_ARMv8MML.svd
+	tmp/svds/keil/Keil/CMSDK_ARMv8MML_DP.svd
+	tmp/svds/keil/Keil/CMSDK_ARMv8MML_SP.svd
+4 devices with rank #31
+Rank #32: (score 0.0012468827930174563, normalized score 0.29067955112219446)
+	tmp/svds/keil/Microchip/ATSAME70N21B.svd
+1 devices with rank #32
+Rank #33: (score 0.001236667181944659, normalized score 0.28829803679084864)
+	tmp/svds/keil/Microchip/ATSAMV71N21B.svd
+1 devices with rank #33
+Rank #34: (score 0.0012224938875305623, normalized score 0.2849938875305623)
+	tmp/svds/keil/Microchip/ATSAME70Q21B.svd
+1 devices with rank #34
+Rank #35: (score 0.0012126724268606943, normalized score 0.2827042595118993)
+	tmp/svds/keil/Microchip/ATSAMV71Q21B.svd
+1 devices with rank #35
+Rank #36: (score 0.0011484352569623888, normalized score 0.26772896927935685)
+	tmp/svds/keil/HDSC/HC32F120F6TA.svd
+	tmp/svds/keil/HDSC/HC32F120F8TA.svd
+2 devices with rank #36
+Rank #37: (score 0.0011458034947006588, normalized score 0.26711543970209106)
+	tmp/svds/keil/HDSC/HC32F120.svd
+	tmp/svds/keil/HDSC/HC32F120H6TA.svd
+	tmp/svds/keil/HDSC/HC32F120H8TA.svd
+3 devices with rank #37
+Rank #38: (score 0.0011378721790252229, normalized score 0.26526645173525504)
+	tmp/svds/keil/Microchip/ATSAMS70J20B.svd
+1 devices with rank #38
+Rank #39: (score 0.0011366865586814436, normalized score 0.2649900539926115)
+	tmp/svds/keil/HDSC/HC32F115F6TA.svd
+	tmp/svds/keil/HDSC/HC32F115F8TA.svd
+	tmp/svds/keil/HDSC/HC32F115F8TH.svd
+3 devices with rank #39
+Rank #40: (score 0.0011341083073433513, normalized score 0.26438899914941877)
+	tmp/svds/keil/HDSC/HC32F115.svd
+	tmp/svds/keil/HDSC/HC32F115H6TA.svd
+	tmp/svds/keil/HDSC/HC32F115H8TA.svd
+	tmp/svds/keil/HDSC/HC32F115H8TH.svd
+4 devices with rank #40
+Rank #41: (score 0.0011090573012939, normalized score 0.25854898336414045)
+	tmp/svds/keil/Microchip/ATSAMV70J20B.svd
+1 devices with rank #41
+Rank #42: (score 0.001085481682496608, normalized score 0.2530529172320217)
+	tmp/svds/keil/Microchip/ATSAMG54G19.svd
+	tmp/svds/keil/Microchip/ATSAMG54J19.svd
+	tmp/svds/keil/Microchip/ATSAMG54N19.svd
+3 devices with rank #42
+Rank #43: (score 0.0010843046896177825, normalized score 0.2527785307671455)
+	tmp/svds/keil/Microchip/ATSAMG53G19.svd
+	tmp/svds/keil/Microchip/ATSAMG53N19.svd
+2 devices with rank #43
+Rank #44: (score 0.001055594651653765, normalized score 0.24608550316678393)
+	tmp/svds/keil/Microchip/ATSAME70J20B.svd
+1 devices with rank #44
+Rank #45: (score 0.0010460251046025104, normalized score 0.2438546025104602)
+	tmp/svds/keil/ARM/MPS3_SSE_200.svd
+1 devices with rank #45
+Rank #46: (score 0.0010458427749694963, normalized score 0.2438120969147638)
+	tmp/svds/keil/Microchip/ATSAMV71J20B.svd
+1 devices with rank #46
+Rank #47: (score 0.001036001036001036, normalized score 0.2415177415177415)
+	tmp/svds/keil/Microchip/ATSAML10D14A.svd
+	tmp/svds/keil/Microchip/ATSAML10D15A.svd
+	tmp/svds/keil/Microchip/ATSAML10D16A.svd
+3 devices with rank #47
+Rank #48: (score 0.001030662200463798, normalized score 0.24027312548312288)
+	tmp/svds/keil/Microchip/ATSAML10E14A.svd
+	tmp/svds/keil/Microchip/ATSAML10E15A.svd
+	tmp/svds/keil/Microchip/ATSAML10E16A.svd
+3 devices with rank #48
+Rank #49: (score 0.0010133423408208073, normalized score 0.23623543320385068)
+	tmp/svds/keil/Microchip/ATSAMS70N20B.svd
+1 devices with rank #49
+Rank #50: (score 0.0009952724558347848, normalized score 0.23202289126648418)
+	tmp/svds/keil/ARM/SSE300.svd
+	tmp/svds/keil/ARM/SSE310.svd
+2 devices with rank #50
+Rank #51: (score 0.000991899487518598, normalized score 0.23123656802777315)
+	tmp/svds/keil/Microchip/ATSAMS70Q20B.svd
+1 devices with rank #51
+Rank #52: (score 0.000977198697068404, normalized score 0.22780944625407165)
+	tmp/svds/keil/Microchip/ATSAMV70N20B.svd
+1 devices with rank #52
+Rank #53: (score 0.0009737098344693282, normalized score 0.2269961051606621)
+	tmp/svds/keil/Microchip/PIC32CM1216LE00032.svd
+1 devices with rank #53
+Rank #54: (score 0.0009572431397574984, normalized score 0.2231573069559668)
+	tmp/svds/keil/Microchip/ATSAMV70Q20B.svd
+1 devices with rank #54
+Rank #55: (score 0.0009528346831824678, normalized score 0.22212958551691278)
+	tmp/svds/keil/Microchip/PIC32CM1216LE00048.svd
+1 devices with rank #55
+Rank #56: (score 0.0009484066767830046, normalized score 0.22109730652503792)
+	tmp/svds/keil/Microchip/ATSAMS70J19B.svd
+1 devices with rank #56
+Rank #57: (score 0.000945179584120983, normalized score 0.22034499054820414)
+	tmp/svds/keil/Microchip/ATSAML11D14A.svd
+	tmp/svds/keil/Microchip/ATSAML11D15A.svd
+	tmp/svds/keil/Microchip/ATSAML11D16A.svd
+3 devices with rank #57
+Rank #58: (score 0.0009407337723424271, normalized score 0.2193085606773283)
+	tmp/svds/keil/Microchip/ATSAML11E14A.svd
+	tmp/svds/keil/Microchip/ATSAML11E15A.svd
+	tmp/svds/keil/Microchip/ATSAML11E16A.svd
+3 devices with rank #58
+Rank #59: (score 0.0009358914365933552, normalized score 0.21817969115582592)
+	tmp/svds/keil/ARM/SSE315.svd
+1 devices with rank #59
+Rank #60: (score 0.0009354536950420954, normalized score 0.21807764265668847)
+	tmp/svds/keil/Microchip/ATSAME70N20B.svd
+1 devices with rank #60
+Rank #61: (score 0.000927787227462502, normalized score 0.21629039740219574)
+	tmp/svds/keil/Microchip/ATSAMV71N20B.svd
+1 devices with rank #61
+Rank #62: (score 0.0009243852837862821, normalized score 0.215497319282677)
+	tmp/svds/keil/Microchip/ATSAMV70J19B.svd
+1 devices with rank #62
+Rank #63: (score 0.0009171507184347294, normalized score 0.21381076123509626)
+	tmp/svds/keil/Microchip/ATSAME70Q20B.svd
+1 devices with rank #63
+Rank #64: (score 0.0009097801364670204, normalized score 0.2120924943138741)
+	tmp/svds/keil/Microchip/ATSAMV71Q20B.svd
+1 devices with rank #64
+Rank #65: (score 0.0009090909090909091, normalized score 0.21193181818181817)
+	tmp/svds/keil/Microchip/PIC32CX5112MTG128.svd
+1 devices with rank #65
+Rank #66: (score 0.000907715582450832, normalized score 0.2116111951588502)
+	tmp/svds/keil/Microchip/PIC32CX5112MTC128.svd
+1 devices with rank #66
+Rank #67: (score 0.0009025270758122744, normalized score 0.21040162454873645)
+	tmp/svds/keil/Microchip/PIC32CX5112MTSH128.svd
+1 devices with rank #67
+Rank #68: (score 0.0009009009009009009, normalized score 0.21002252252252251)
+	tmp/svds/keil/Microchip/ATSAMG55G19.svd
+1 devices with rank #68
+Rank #69: (score 0.0008808632459810614, normalized score 0.20535124421933493)
+	tmp/svds/keil/Microchip/PIC32CM2532LE00048.svd
+	tmp/svds/keil/Microchip/PIC32CM2532LE00064.svd
+	tmp/svds/keil/Microchip/PIC32CM5164LE00048.svd
+	tmp/svds/keil/Microchip/PIC32CM5164LE00064.svd
+4 devices with rank #69
+Rank #70: (score 0.0008798169980644026, normalized score 0.20510733767376382)
+	tmp/svds/keil/Microchip/ATSAME70J19B.svd
+1 devices with rank #70
+Rank #71: (score 0.0008777704630239193, normalized score 0.20463023919245116)
+	tmp/svds/keil/DialogSemiconductor/da14691.svd
+	tmp/svds/keil/DialogSemiconductor/da14695.svd
+	tmp/svds/keil/DialogSemiconductor/da14697.svd
+	tmp/svds/keil/DialogSemiconductor/da14699.svd
+4 devices with rank #71
+Rank #72: (score 0.0008775778850372971, normalized score 0.20458534444931986)
+	tmp/svds/keil/Microchip/ATSAMG55J19.svd
+1 devices with rank #72
+Rank #73: (score 0.000877385391533231, normalized score 0.20454046940118445)
+	tmp/svds/keil/Microchip/PIC32CM1216LS00032.svd
+1 devices with rank #73
+Rank #74: (score 0.0008716875871687587, normalized score 0.20321216875871687)
+	tmp/svds/keil/Microchip/ATSAMV71J19B.svd
+1 devices with rank #74
+Rank #75: (score 0.0008637443316778234, normalized score 0.20136039732239255)
+	tmp/svds/keil/Microchip/PIC32CM2532LE00100.svd
+	tmp/svds/keil/Microchip/PIC32CM5164LE00100.svd
+2 devices with rank #75
+Rank #76: (score 0.0008576329331046312, normalized score 0.19993567753001712)
+	tmp/svds/keil/Microchip/ATSAMG51G18.svd
+	tmp/svds/keil/Microchip/ATSAMG51N18.svd
+2 devices with rank #76
+Rank #77: (score 0.0008445945945945946, normalized score 0.19689611486486486)
+	tmp/svds/keil/Microchip/ATSAMS70N19B.svd
+1 devices with rank #77
+Rank #78: (score 0.0008369951872776732, normalized score 0.19512450303410753)
+	tmp/svds/keil/Microchip/PIC32CM1216LS00048.svd
+1 devices with rank #78
+Rank #79: (score 0.0008267195767195767, normalized score 0.19272900132275128)
+	tmp/svds/keil/Microchip/ATSAMS70Q19B.svd
+1 devices with rank #79
+Rank #80: (score 0.0008169934640522876, normalized score 0.19046160130718953)
+	tmp/svds/keil/GigaDevice/GD32E230.svd
+	tmp/svds/keil/GigaDevice/GD32E231.svd
+2 devices with rank #80
+Rank #81: (score 0.0008144648965629581, normalized score 0.1898721290112396)
+	tmp/svds/keil/Microchip/ATSAMV70N19B.svd
+1 devices with rank #81
+Rank #82: (score 0.0007978299026647519, normalized score 0.18599409605872025)
+	tmp/svds/keil/Microchip/ATSAMV70Q19B.svd
+1 devices with rank #82
+Rank #83: (score 0.000779666302822392, normalized score 0.1817597068454701)
+	tmp/svds/keil/Microchip/ATSAME70N19B.svd
+1 devices with rank #83
+Rank #84: (score 0.0007763975155279503, normalized score 0.18099767080745338)
+	tmp/svds/keil/Microchip/PIC32CM2532LS00048.svd
+	tmp/svds/keil/Microchip/PIC32CM2532LS00064.svd
+	tmp/svds/keil/Microchip/PIC32CM5164LS00048.svd
+	tmp/svds/keil/Microchip/PIC32CM5164LS00064.svd
+	tmp/svds/keil/Microchip/PIC32CM5164LS60048.svd
+	tmp/svds/keil/Microchip/PIC32CM5164LS60064.svd
+6 devices with rank #84
+Rank #85: (score 0.0007732755954222085, normalized score 0.18026987318280235)
+	tmp/svds/keil/Microchip/ATSAMV71N19B.svd
+1 devices with rank #85
+Rank #86: (score 0.0007678525723061172, normalized score 0.17900563091886354)
+	tmp/svds/keil/GigaDevice/GD32L23x.svd
+1 devices with rank #86
+Rank #87: (score 0.0007644091117566122, normalized score 0.1782028741782602)
+	tmp/svds/keil/Microchip/ATSAME70Q19B.svd
+1 devices with rank #87
+Rank #88: (score 0.0007582650894752805, normalized score 0.17677054898392475)
+	tmp/svds/keil/Microchip/ATSAMV71Q19B.svd
+1 devices with rank #88
+Rank #89: (score 0.0007446016381236039, normalized score 0.17358525688756513)
+	tmp/svds/keil/Microchip/PIC32CM2532LS00100.svd
+	tmp/svds/keil/Microchip/PIC32CM5164LS00100.svd
+	tmp/svds/keil/Microchip/PIC32CM5164LS60100.svd
+3 devices with rank #89
+Rank #90: (score 0.0006862240521530279, normalized score 0.15997598215817463)
+	tmp/svds/keil/NXP/MCXA132.xml
+	tmp/svds/keil/NXP/MCXA133.xml
+2 devices with rank #90
+Rank #91: (score 0.000676132521974307, normalized score 0.15762339418526028)
+	tmp/svds/keil/Holtek/HT32F61030.svd
+	tmp/svds/keil/Holtek/HT32F67041_51.svd
+	tmp/svds/keil/NXP/MCXA142.xml
+	tmp/svds/keil/NXP/MCXA143.xml
+	tmp/svds/keil/NXP/MCXA152.xml
+	tmp/svds/keil/NXP/MCXA153.xml
+6 devices with rank #91
+Rank #92: (score 0.0006738544474393531, normalized score 0.15709231805929919)
+	tmp/svds/keil/NXP/MIMXRT1011.xml
+1 devices with rank #92
+Rank #93: (score 0.0006584362139917696, normalized score 0.15349794238683126)
+	tmp/svds/keil/NXP/MKV56F24.xml
+1 devices with rank #93
+Rank #94: (score 0.0006257822277847309, normalized score 0.1458854818523154)
+	tmp/svds/keil/Nuvoton/M2351_v1.svd
+1 devices with rank #94
+Rank #95: (score 0.0006233442418575658, normalized score 0.14531712638304503)
+	tmp/svds/keil/NXP/MKV58F24.xml
+1 devices with rank #95
+Rank #96: (score 0.0006169983032546661, normalized score 0.143837729446244)
+	tmp/svds/keil/NXP/MIMXRT1015.xml
+1 devices with rank #96
+Rank #97: (score 0.0006047777441790142, normalized score 0.14098881161173268)
+	tmp/svds/keil/NXP/MKL02Z4.xml
+1 devices with rank #97
+Rank #98: (score 0.0006040471156750226, normalized score 0.14081848384173964)
+	tmp/svds/keil/AnalogDevices/ADuCM362.svd
+	tmp/svds/keil/AnalogDevices/ADuCM363.svd
+2 devices with rank #98
+Rank #99: (score 0.0005998800239952009, normalized score 0.1398470305938812)
+	tmp/svds/keil/Nuvoton/M2354.svd
+1 devices with rank #99
+Rank #100: (score 0.0005977286312014345, normalized score 0.1393454871488344)
+	tmp/svds/keil/NXP/MKL03Z4.xml
+1 devices with rank #100
+Rank #101: (score 0.0005952380952380953, normalized score 0.13876488095238096)
+	tmp/svds/keil/Holtek/HT32F52220_30.svd
+	tmp/svds/keil/Holtek/HT32F62030.svd
+	tmp/svds/keil/Holtek/HT32F67232.svd
+	tmp/svds/keil/Holtek/HT32F67233.svd
+	tmp/svds/keil/Microchip/ATSAMD20E14.svd
+	tmp/svds/keil/Microchip/ATSAMD20E14B.svd
+	tmp/svds/keil/Microchip/ATSAMD20E15.svd
+	tmp/svds/keil/Microchip/ATSAMD20E15B.svd
+	tmp/svds/keil/Microchip/ATSAMD20E15BU.svd
+	tmp/svds/keil/Microchip/ATSAMD20E16.svd
+	tmp/svds/keil/Microchip/ATSAMD20E16B.svd
+	tmp/svds/keil/Microchip/ATSAMD20E16BU.svd
+	tmp/svds/keil/Microchip/ATSAMD20E17.svd
+	tmp/svds/keil/Microchip/ATSAMD20E18.svd
+	tmp/svds/keil/Microchip/PIC32CM1602GV00032.svd
+	tmp/svds/keil/Microchip/PIC32CM3204GV00032.svd
+16 devices with rank #101
+Rank #102: (score 0.0005920663114268798, normalized score 0.13802545885139134)
+	tmp/svds/keil/NXP/MCXC041.xml
+1 devices with rank #102
+Rank #103: (score 0.0005899705014749262, normalized score 0.13753687315634217)
+	tmp/svds/keil/Holtek/HT32F50020_30.svd
+	tmp/svds/keil/Holtek/HT32F61630.svd
+	tmp/svds/keil/Holtek/HT32F61730.svd
+3 devices with rank #103
+Rank #104: (score 0.0005865102639296188, normalized score 0.13673020527859236)
+	tmp/svds/keil/Microchip/ATSAMD09C13A.svd
+	tmp/svds/keil/Microchip/ATSAMD09D14A.svd
+2 devices with rank #104
+Rank #105: (score 0.0005851375073142189, normalized score 0.13641018139262726)
+	tmp/svds/keil/Holtek/HT32F125x.svd
+1 devices with rank #105
+Rank #106: (score 0.0005830903790087463, normalized score 0.13593294460641397)
+	tmp/svds/keil/Keil/STM32L0x0.svd
+1 devices with rank #106
+Rank #107: (score 0.0005790387955993051, normalized score 0.134988419224088)
+	tmp/svds/keil/Holtek/HF5032.svd
+	tmp/svds/keil/Holtek/HT32F50220_30.svd
+	tmp/svds/keil/Holtek/HT50F32002.svd
+3 devices with rank #107
+Rank #108: (score 0.0005773672055427252, normalized score 0.1345987297921478)
+	tmp/svds/keil/NXP/MCXA343.xml
+	tmp/svds/keil/NXP/MCXA344.xml
+2 devices with rank #108
+Rank #109: (score 0.0005757052389176742, normalized score 0.13421128382268277)
+	tmp/svds/keil/Microchip/ATSAMD20G14.svd
+	tmp/svds/keil/Microchip/ATSAMD20G14B.svd
+	tmp/svds/keil/Microchip/ATSAMD20G15.svd
+	tmp/svds/keil/Microchip/ATSAMD20G15B.svd
+	tmp/svds/keil/Microchip/ATSAMD20G16.svd
+	tmp/svds/keil/Microchip/ATSAMD20G16B.svd
+	tmp/svds/keil/Microchip/ATSAMD20G17.svd
+	tmp/svds/keil/Microchip/ATSAMD20G17U.svd
+	tmp/svds/keil/Microchip/ATSAMD20G18.svd
+	tmp/svds/keil/Microchip/ATSAMD20G18U.svd
+	tmp/svds/keil/Microchip/PIC32CM1602GV00048.svd
+	tmp/svds/keil/Microchip/PIC32CM3204GV00048.svd
+12 devices with rank #109
+Rank #110: (score 0.0005704506560182544, normalized score 0.13298630918425555)
+	tmp/svds/keil/Microchip/ATSAMD20J14.svd
+	tmp/svds/keil/Microchip/ATSAMD20J14B.svd
+	tmp/svds/keil/Microchip/ATSAMD20J15.svd
+	tmp/svds/keil/Microchip/ATSAMD20J15B.svd
+	tmp/svds/keil/Microchip/ATSAMD20J16.svd
+	tmp/svds/keil/Microchip/ATSAMD20J16B.svd
+	tmp/svds/keil/Microchip/ATSAMD20J17.svd
+	tmp/svds/keil/Microchip/ATSAMD20J18.svd
+	tmp/svds/keil/Microchip/PIC32CM1602GV00064.svd
+	tmp/svds/keil/Microchip/PIC32CM3204GV00064.svd
+10 devices with rank #110
+Rank #111: (score 0.0005652911249293386, normalized score 0.13178349349915203)
+	tmp/svds/keil/Infineon/TLE9868.svd
+1 devices with rank #111
+Rank #112: (score 0.000563221627710504, normalized score 0.13130104196001124)
+	tmp/svds/keil/Microchip/ATSAMD11C14A.svd
+1 devices with rank #112
+Rank #113: (score 0.0005630630630630631, normalized score 0.13126407657657657)
+	tmp/svds/keil/Holtek/HT32F61244_45.svd
+	tmp/svds/keil/Holtek/NW32F61242.svd
+2 devices with rank #113
+Rank #114: (score 0.0005624296962879641, normalized score 0.1311164229471316)
+	tmp/svds/keil/Holtek/HT32F61141.svd
+1 devices with rank #114
+Rank #115: (score 0.0005617977528089888, normalized score 0.1309691011235955)
+	tmp/svds/keil/Holtek/HT32F52234_44.svd
+	tmp/svds/keil/Holtek/KW32F55.svd
+2 devices with rank #115
+Rank #116: (score 0.0005605381165919282, normalized score 0.13067544843049325)
+	tmp/svds/keil/Microchip/ATSAMD11D14AM.svd
+	tmp/svds/keil/Microchip/ATSAMD11D14AS.svd
+	tmp/svds/keil/Microchip/ATSAMD11D14AU.svd
+3 devices with rank #116
+Rank #117: (score 0.000559753708368318, normalized score 0.1304925832633641)
+	tmp/svds/keil/YTMicro/YTM32Z1MC0.svd
+1 devices with rank #117
+Rank #118: (score 0.0005592841163310962, normalized score 0.1303831096196868)
+	tmp/svds/keil/Holtek/HT32F50231_41.svd
+	tmp/svds/keil/Holtek/HT32F59041.svd
+	tmp/svds/keil/Holtek/HT32F59046.svd
+	tmp/svds/keil/Holtek/HT32F61041.svd
+	tmp/svds/keil/Holtek/HT32F61641.svd
+	tmp/svds/keil/Holtek/HT32F61741.svd
+6 devices with rank #118
+Rank #119: (score 0.0005577244841048522, normalized score 0.13001952035694367)
+	tmp/svds/keil/Holtek/HT32F61152.svd
+1 devices with rank #119
+Rank #120: (score 0.0005571030640668524, normalized score 0.12987465181058494)
+	tmp/svds/keil/Holtek/HT32F52231_41.svd
+	tmp/svds/keil/Holtek/HT32F59045.svd
+	tmp/svds/keil/Holtek/HT32F62040.svd
+	tmp/svds/keil/Holtek/HT32F62132.svd
+	tmp/svds/keil/Holtek/HT32F62140.svd
+	tmp/svds/keil/Holtek/HT32F62143.svd
+	tmp/svds/keil/Holtek/HT32F67741.svd
+	tmp/svds/keil/Holtek/HT50F3200U.svd
+	tmp/svds/keil/Holtek/HT50F32016.svd
+	tmp/svds/keil/Holtek/HT50F32022.svd
+	tmp/svds/keil/Holtek/HT50F32023.svd
+	tmp/svds/keil/Holtek/MXTX52231.svd
+12 devices with rank #120
+Rank #121: (score 0.0005558643690939411, normalized score 0.129585881045025)
+	tmp/svds/keil/Holtek/HT32F54231_41.svd
+	tmp/svds/keil/Infineon/TLE986x.svd
+2 devices with rank #121
+Rank #122: (score 0.000555247084952804, normalized score 0.12944197667962243)
+	tmp/svds/keil/Infineon/TLE987x.svd
+1 devices with rank #122
+Rank #123: (score 0.0005546311702717693, normalized score 0.1292983915696062)
+	tmp/svds/keil/Infineon/TLE987x_2.svd
+1 devices with rank #123
+Rank #124: (score 0.0005524861878453039, normalized score 0.12879834254143646)
+	tmp/svds/keil/Keil/STM32L0x1.svd
+1 devices with rank #124
+Rank #125: (score 0.0005515719801434088, normalized score 0.12858521787093216)
+	tmp/svds/keil/Holtek/HT32L59046.svd
+	tmp/svds/keil/Holtek/HT32L62141.svd
+	tmp/svds/keil/Holtek/HT50L3200U.svd
+3 devices with rank #125
+Rank #126: (score 0.0005512679162072767, normalized score 0.12851433296582138)
+	tmp/svds/keil/Holtek/HT32F65233.svd
+1 devices with rank #126
+Rank #127: (score 0.00055005500550055, normalized score 0.1282315731573157)
+	tmp/svds/keil/Holtek/HT32F0008.svd
+	tmp/svds/keil/Holtek/HT32F52142.svd
+2 devices with rank #127
+Rank #128: (score 0.0005494505494505495, normalized score 0.12809065934065933)
+	tmp/svds/keil/Holtek/HT32F50431_41.svd
+1 devices with rank #128
+Rank #129: (score 0.0005489980785067252, normalized score 0.12798517705188028)
+	tmp/svds/keil/Nuvoton/CM2003.svd
+	tmp/svds/keil/Nuvoton/KM1M2.svd
+	tmp/svds/keil/Nuvoton/M2003.svd
+3 devices with rank #129
+Rank #130: (score 0.0005473453749315818, normalized score 0.127599890530925)
+	tmp/svds/keil/Holtek/HT32L52231_41.svd
+	tmp/svds/keil/Holtek/HT32L64041.svd
+	tmp/svds/keil/Holtek/HT32L64141.svd
+	tmp/svds/keil/Holtek/HT50L3200W.svd
+	tmp/svds/keil/Holtek/HT50L3200X.svd
+5 devices with rank #130
+Rank #131: (score 0.0005458515283842794, normalized score 0.12725163755458513)
+	tmp/svds/keil/Keil/STM32L15x.svd
+1 devices with rank #131
+Rank #132: (score 0.0005408328826392645, normalized score 0.12608166576527852)
+	tmp/svds/keil/Nuvoton/M0A21.svd
+1 devices with rank #132
+Rank #133: (score 0.0005402485143165856, normalized score 0.12594543490005403)
+	tmp/svds/keil/Holtek/HT32F52331_41.svd
+1 devices with rank #133
+Rank #134: (score 0.0005393743257820927, normalized score 0.12574163969795035)
+	tmp/svds/keil/Holtek/HT32F57331_41.svd
+	tmp/svds/keil/Holtek/HT32F57541.svd
+	tmp/svds/keil/Holtek/HT32F59740.svd
+	tmp/svds/keil/Holtek/HT32F59741.svd
+	tmp/svds/keil/Holtek/HT32F59746.svd
+	tmp/svds/keil/Holtek/HT32F67742.svd
+6 devices with rank #134
+Rank #135: (score 0.0005385029617662897, normalized score 0.12553850296176627)
+	tmp/svds/keil/Holtek/HT32F52344_54.svd
+	tmp/svds/keil/Holtek/HT32F53231_41.svd
+2 devices with rank #135
+Rank #136: (score 0.0005374899220639613, normalized score 0.12530233808116095)
+	tmp/svds/keil/Keil/STM32L052.svd
+1 devices with rank #136
+Rank #137: (score 0.000536480686695279, normalized score 0.1250670600858369)
+	tmp/svds/keil/Holtek/HT32F65232.svd
+	tmp/svds/keil/Holtek/MXTX6232.svd
+2 devices with rank #137
+Rank #138: (score 0.0005359056806002144, normalized score 0.12493301178992496)
+	tmp/svds/keil/Nuvoton/M030GAE.svd
+	tmp/svds/keil/Nuvoton/M091AE.svd
+2 devices with rank #138
+Rank #139: (score 0.0005356186395286556, normalized score 0.12486609534011782)
+	tmp/svds/keil/Nuvoton/NSC_v2.svd
+1 devices with rank #139
+Rank #140: (score 0.000535475234270415, normalized score 0.1248326639892905)
+	tmp/svds/keil/Microchip/ATSAMD21E15A.svd
+	tmp/svds/keil/Microchip/ATSAMD21E16A.svd
+	tmp/svds/keil/Microchip/ATSAMD21E17A.svd
+	tmp/svds/keil/Microchip/ATSAMD21E18A.svd
+4 devices with rank #140
+Rank #141: (score 0.0005351886540005352, normalized score 0.12476585496387475)
+	tmp/svds/keil/Microchip/ATSAMD21E15B.svd
+	tmp/svds/keil/Microchip/ATSAMD21E15BU.svd
+	tmp/svds/keil/Microchip/ATSAMD21E15CU.svd
+	tmp/svds/keil/Microchip/ATSAMD21E16B.svd
+	tmp/svds/keil/Microchip/ATSAMD21E16BU.svd
+	tmp/svds/keil/Microchip/ATSAMD21E16CU.svd
+	tmp/svds/keil/NXP/MKL34Z4.xml
+7 devices with rank #141
+Rank #142: (score 0.0005347593582887701, normalized score 0.1246657754010695)
+	tmp/svds/keil/Holtek/HT32F61930.svd
+1 devices with rank #142
+Rank #143: (score 0.0005343307507347048, normalized score 0.12456585626502806)
+	tmp/svds/keil/Keil/STM32L062.svd
+	tmp/svds/keil/Keil/STM32L0x2.svd
+2 devices with rank #143
+Rank #144: (score 0.0005336179295624333, normalized score 0.12439967982924226)
+	tmp/svds/keil/Microchip/ATSAMD21E15L.svd
+	tmp/svds/keil/Microchip/ATSAMD21E16L.svd
+	tmp/svds/keil/Microchip/PIC32CM6408PL10028.svd
+	tmp/svds/keil/Microchip/PIC32CM6408PL10032.svd
+4 devices with rank #144
+Rank #145: (score 0.0005330490405117271, normalized score 0.12426705756929636)
+	tmp/svds/keil/Holtek/HT32F0006.svd
+	tmp/svds/keil/Holtek/HT32F61352.svd
+	tmp/svds/keil/Holtek/HT32F61355.svd
+	tmp/svds/keil/Holtek/HT32F61356.svd
+	tmp/svds/keil/Holtek/HT32F61357.svd
+5 devices with rank #145
+Rank #146: (score 0.0005324813631522897, normalized score 0.12413471778487753)
+	tmp/svds/keil/Holtek/HT32F61052.svd
+1 devices with rank #146
+Rank #147: (score 0.0005321979776476849, normalized score 0.12406865353911653)
+	tmp/svds/keil/Keil/STM32L053.svd
+1 devices with rank #147
+Rank #148: (score 0.0005319148936170213, normalized score 0.12400265957446807)
+	tmp/svds/keil/Holtek/HT32F50442_52.svd
+	tmp/svds/keil/Holtek/HT32F52243_53.svd
+	tmp/svds/keil/Holtek/HT32F62050.svd
+3 devices with rank #148
+Rank #149: (score 0.0005296610169491525, normalized score 0.12347722457627118)
+	tmp/svds/keil/NXP/MKL36Z4.xml
+1 devices with rank #149
+Rank #150: (score 0.0005291005291005291, normalized score 0.12334656084656084)
+	tmp/svds/keil/Keil/STM32L063.svd
+	tmp/svds/keil/Keil/STM32L0x3.svd
+2 devices with rank #150
+Rank #151: (score 0.0005282620179609086, normalized score 0.12315108293713681)
+	tmp/svds/keil/NXP/MCXA144.xml
+	tmp/svds/keil/NXP/MCXA145.xml
+	tmp/svds/keil/NXP/MCXA146.xml
+3 devices with rank #151
+Rank #152: (score 0.0005274261603375527, normalized score 0.12295622362869196)
+	tmp/svds/keil/Microchip/ATSAMD21E17D.svd
+	tmp/svds/keil/Microchip/ATSAMD21E17DU.svd
+2 devices with rank #152
+Rank #153: (score 0.0005261773217574323, normalized score 0.1226650881347014)
+	tmp/svds/keil/Microchip/ATSAMHA0E14AB.svd
+	tmp/svds/keil/Microchip/ATSAMHA0E15AB.svd
+	tmp/svds/keil/Microchip/ATSAMHA0E16AB.svd
+	tmp/svds/keil/Microchip/ATSAMHA0G14AB.svd
+	tmp/svds/keil/Microchip/ATSAMHA0G15AB.svd
+	tmp/svds/keil/Microchip/ATSAMHA0G16AB.svd
+	tmp/svds/keil/Microchip/ATSAMHA1E14AB.svd
+	tmp/svds/keil/Microchip/ATSAMHA1E15AB.svd
+	tmp/svds/keil/Microchip/ATSAMHA1E16AB.svd
+	tmp/svds/keil/Microchip/ATSAMHA1G14A.svd
+	tmp/svds/keil/Microchip/ATSAMHA1G14AB.svd
+	tmp/svds/keil/Microchip/ATSAMHA1G15A.svd
+	tmp/svds/keil/Microchip/ATSAMHA1G15AB.svd
+	tmp/svds/keil/Microchip/ATSAMHA1G16A.svd
+	tmp/svds/keil/Microchip/ATSAMHA1G16AB.svd
+15 devices with rank #153
+Rank #154: (score 0.0005259006047856955, normalized score 0.12260057849066526)
+	tmp/svds/keil/Microchip/ATSAMD21E17L.svd
+	tmp/svds/keil/Microchip/ATSAMDA1E14B.svd
+	tmp/svds/keil/Microchip/ATSAMDA1E15B.svd
+	tmp/svds/keil/Microchip/ATSAMDA1E16B.svd
+4 devices with rank #154
+Rank #155: (score 0.0005254860746190226, normalized score 0.12250394114555962)
+	tmp/svds/keil/AnalogDevices/ADuCM302x.svd
+1 devices with rank #155
+Rank #156: (score 0.0005252100840336134, normalized score 0.12243960084033612)
+	tmp/svds/keil/Holtek/HT50F3200S.svd
+	tmp/svds/keil/Holtek/MXTX6306.svd
+	tmp/svds/keil/NXP/MKL26Z4.xml
+3 devices with rank #156
+Rank #157: (score 0.0005243838489774515, normalized score 0.12224698479286837)
+	tmp/svds/keil/Microchip/ATSAMD21G15L.svd
+	tmp/svds/keil/Microchip/ATSAMD21G16L.svd
+2 devices with rank #157
+Rank #158: (score 0.0005224660397074191, normalized score 0.12179989550679206)
+	tmp/svds/keil/NXP/MKL17Z644.xml
+1 devices with rank #158
+Rank #159: (score 0.0005221932114882506, normalized score 0.12173629242819842)
+	tmp/svds/keil/Holtek/HT32F54243_53.svd
+1 devices with rank #159
+Rank #160: (score 0.0005219206680584551, normalized score 0.12167275574112732)
+	tmp/svds/keil/NXP/MKL13Z644.xml
+1 devices with rank #160
+Rank #161: (score 0.0005216484089723526, normalized score 0.1216092853416797)
+	tmp/svds/keil/Holtek/HT32F53242_52.svd
+1 devices with rank #161
+Rank #162: (score 0.0005211047420531526, normalized score 0.1214825429911412)
+	tmp/svds/keil/Microchip/PIC32CM6408PL10048.svd
+	tmp/svds/keil/Microchip/PIC32CM6408PL10064.svd
+2 devices with rank #162
+Rank #163: (score 0.0005202913631633715, normalized score 0.12129292403746098)
+	tmp/svds/keil/Holtek/HT32F61049.svd
+	tmp/svds/keil/Holtek/HT32F61940.svd
+	tmp/svds/keil/Holtek/HT32F65230_40.svd
+3 devices with rank #163
+Rank #164: (score 0.0005188067444876783, normalized score 0.12094682230869)
+	tmp/svds/keil/Microchip/ATSAMD21G15A.svd
+	tmp/svds/keil/Microchip/ATSAMD21G16A.svd
+	tmp/svds/keil/Microchip/ATSAMD21G17A.svd
+	tmp/svds/keil/Microchip/ATSAMD21G18A.svd
+4 devices with rank #164
+Rank #165: (score 0.0005186721991701245, normalized score 0.12091545643153526)
+	tmp/svds/keil/Microchip/ATSAMHA0G17AB.svd
+	tmp/svds/keil/Microchip/ATSAMHA1G17AB.svd
+	tmp/svds/keil/NXP/MKL17Z4.xml
+	tmp/svds/keil/NXP/MKL46Z4.xml
+4 devices with rank #165
+Rank #166: (score 0.0005185377236193933, normalized score 0.12088410681877104)
+	tmp/svds/keil/Microchip/ATSAMD21G15B.svd
+	tmp/svds/keil/Microchip/ATSAMD21G16B.svd
+2 devices with rank #166
+Rank #167: (score 0.0005181347150259067, normalized score 0.12079015544041449)
+	tmp/svds/keil/Holtek/HT32F50343.svd
+	tmp/svds/keil/Holtek/HT32F66242.svd
+2 devices with rank #167
+Rank #168: (score 0.000517464424320828, normalized score 0.12063389391979301)
+	tmp/svds/keil/Microchip/PIC32CM1216JH01032.svd
+1 devices with rank #168
+Rank #169: (score 0.000517063081695967, normalized score 0.12054033092037228)
+	tmp/svds/keil/NXP/MCXA154.xml
+	tmp/svds/keil/NXP/MCXA155.xml
+	tmp/svds/keil/NXP/MCXA156.xml
+3 devices with rank #169
+Rank #170: (score 0.0005169294391315585, normalized score 0.12050917549754457)
+	tmp/svds/keil/Microchip/ATSAMD21G17L.svd
+1 devices with rank #170
+Rank #171: (score 0.0005167958656330749, normalized score 0.12047803617571057)
+	tmp/svds/keil/NXP/MCXA175.xml
+	tmp/svds/keil/NXP/MCXA176.xml
+2 devices with rank #171
+Rank #172: (score 0.0005154639175257732, normalized score 0.12016752577319587)
+	tmp/svds/keil/NXP/MKL33Z644.xml
+1 devices with rank #172
+Rank #173: (score 0.0005145356315924878, normalized score 0.11995111911499871)
+	tmp/svds/keil/Microchip/ATSAMD21G17AU.svd
+	tmp/svds/keil/Microchip/ATSAMD21G18AU.svd
+	tmp/svds/keil/Microchip/ATSAMD21J15A.svd
+	tmp/svds/keil/Microchip/ATSAMD21J16A.svd
+	tmp/svds/keil/Microchip/ATSAMD21J17A.svd
+	tmp/svds/keil/Microchip/ATSAMD21J18A.svd
+6 devices with rank #173
+Rank #174: (score 0.0005142710208279763, normalized score 0.11988943173052197)
+	tmp/svds/keil/Microchip/ATSAMD21J15B.svd
+	tmp/svds/keil/Microchip/ATSAMD21J16B.svd
+	tmp/svds/keil/Microchip/ATSAMDA1G14B.svd
+	tmp/svds/keil/Microchip/ATSAMDA1G15B.svd
+	tmp/svds/keil/Microchip/ATSAMDA1G16B.svd
+	tmp/svds/keil/Microchip/ATSAMDA1J14B.svd
+	tmp/svds/keil/Microchip/ATSAMDA1J15B.svd
+	tmp/svds/keil/Microchip/ATSAMDA1J16B.svd
+8 devices with rank #174
+Rank #175: (score 0.0005140066820868671, normalized score 0.11982780776150088)
+	tmp/svds/keil/NXP/MCXA345.xml
+	tmp/svds/keil/NXP/MCXA346.xml
+	tmp/svds/keil/NXP/MCXA355.xml
+	tmp/svds/keil/NXP/MCXA356.xml
+4 devices with rank #175
+Rank #176: (score 0.000513347022587269, normalized score 0.11967402464065707)
+	tmp/svds/keil/NXP/MCXA165.xml
+	tmp/svds/keil/NXP/MCXA166.xml
+2 devices with rank #176
+Rank #177: (score 0.0005125576627370579, normalized score 0.11949000512557661)
+	tmp/svds/keil/Holtek/HT32F52342_52.svd
+	tmp/svds/keil/Holtek/HT32F5826.svd
+	tmp/svds/keil/Holtek/HT50F32003.svd
+	tmp/svds/keil/Holtek/MXTX52352.svd
+4 devices with rank #177
+Rank #178: (score 0.0005122950819672131, normalized score 0.11942879098360655)
+	tmp/svds/keil/NXP/MKL33Z4.xml
+1 devices with rank #178
+Rank #179: (score 0.0005117707267144319, normalized score 0.11930655066530194)
+	tmp/svds/keil/NXP/MCXC141.xml
+	tmp/svds/keil/NXP/MCXC142.xml
+	tmp/svds/keil/NXP/MKL27Z644.xml
+3 devices with rank #179
+Rank #180: (score 0.0005112474437627812, normalized score 0.11918456032719836)
+	tmp/svds/keil/Microchip/ATSAMD21G17D.svd
+1 devices with rank #180
+Rank #181: (score 0.000508646998982706, normalized score 0.11857833163784331)
+	tmp/svds/keil/NXP/MKL27Z4.xml
+1 devices with rank #181
+Rank #182: (score 0.0005083884087442806, normalized score 0.11851804778851041)
+	tmp/svds/keil/Holtek/HT32F66246.svd
+1 devices with rank #182
+Rank #183: (score 0.0005078720162519045, normalized score 0.11839766378872522)
+	tmp/svds/keil/NXP/MCXC143.xml
+	tmp/svds/keil/NXP/MCXC144.xml
+2 devices with rank #183
+Rank #184: (score 0.0005073566717402334, normalized score 0.1182775240994419)
+	tmp/svds/keil/Holtek/HT32F175x.svd
+1 devices with rank #184
+Rank #185: (score 0.0005070993914807302, normalized score 0.11821754563894522)
+	tmp/svds/keil/Microchip/ATSAMD21J17D.svd
+1 devices with rank #185
+Rank #186: (score 0.0005065856129685917, normalized score 0.11809777102330293)
+	tmp/svds/keil/NXP/MKV10Z7.xml
+1 devices with rank #186
+Rank #187: (score 0.0005058168942842691, normalized score 0.11791856348002022)
+	tmp/svds/keil/Holtek/HT32F57342_52.svd
+	tmp/svds/keil/Holtek/HT32F57552.svd
+	tmp/svds/keil/Holtek/HT32F5828.svd
+	tmp/svds/keil/Holtek/HT32F59750.svd
+4 devices with rank #187
+Rank #188: (score 0.0005056890012642225, normalized score 0.11788874841972186)
+	tmp/svds/keil/Microchip/PIC32CM1216JH01048.svd
+1 devices with rank #188
+Rank #189: (score 0.0005032712632108706, normalized score 0.11732511323603421)
+	tmp/svds/keil/AnalogDevices/ADuCM355.svd
+	tmp/svds/keil/AnalogDevices/ADuCM356.svd
+2 devices with rank #189
+Rank #190: (score 0.0005027652086475615, normalized score 0.11720713926596277)
+	tmp/svds/keil/Holtek/HT32F275x.svd
+1 devices with rank #190
+Rank #191: (score 0.0005025125628140704, normalized score 0.11714824120603015)
+	tmp/svds/keil/NXP/MKL43Z4.xml
+1 devices with rank #191
+Rank #192: (score 0.0005021340697966357, normalized score 0.11706000502134069)
+	tmp/svds/keil/Microchip/ATSAML22G16A.svd
+	tmp/svds/keil/Microchip/ATSAML22G17A.svd
+	tmp/svds/keil/Microchip/ATSAML22G18A.svd
+	tmp/svds/keil/Microchip/ATSAML22J16A.svd
+	tmp/svds/keil/Microchip/ATSAML22J17A.svd
+	tmp/svds/keil/Microchip/ATSAML22J18A.svd
+6 devices with rank #192
+Rank #193: (score 0.000502008032128514, normalized score 0.11703062248995982)
+	tmp/svds/keil/NXP/K32L2B21A.xml
+1 devices with rank #193
+Rank #194: (score 0.0005015045135406219, normalized score 0.11691323971915746)
+	tmp/svds/keil/NXP/MCXC242.xml
+1 devices with rank #194
+Rank #195: (score 0.0005002501250625312, normalized score 0.11662081040520259)
+	tmp/svds/keil/Holtek/HT32L52343_53.svd
+1 devices with rank #195
+Rank #196: (score 0.0005001875703388771, normalized score 0.11660622733525071)
+	tmp/svds/keil/NXP/MCXA255.xml
+	tmp/svds/keil/NXP/MCXA256.xml
+2 devices with rank #196
+Rank #197: (score 0.00049838026414154, normalized score 0.1161848990779965)
+	tmp/svds/keil/Microchip/ATSAMC20E15A.svd
+	tmp/svds/keil/Microchip/ATSAMC20E16A.svd
+	tmp/svds/keil/Microchip/ATSAMC20E17A.svd
+	tmp/svds/keil/Microchip/ATSAMC20E18A.svd
+	tmp/svds/keil/Microchip/PIC32CM3204JH00032.svd
+	tmp/svds/keil/Microchip/PIC32CM6408JH00032.svd
+6 devices with rank #197
+Rank #198: (score 0.0004982561036372695, normalized score 0.11615595416043845)
+	tmp/svds/keil/NXP/MCXC243.xml
+	tmp/svds/keil/NXP/MCXC244.xml
+2 devices with rank #198
+Rank #199: (score 0.0004962779156327543, normalized score 0.11569478908188584)
+	tmp/svds/keil/TexasInstruments/MSP432P4011.svd
+	tmp/svds/keil/TexasInstruments/MSP432P401V.svd
+	tmp/svds/keil/TexasInstruments/MSP432P401Y.svd
+3 devices with rank #199
+Rank #200: (score 0.0004961548002976929, normalized score 0.11566608781939963)
+	tmp/svds/keil/TexasInstruments/MSP432P401M.svd
+	tmp/svds/keil/TexasInstruments/MSP432P401R.svd
+2 devices with rank #200
+Rank #201: (score 0.000496031746031746, normalized score 0.11563740079365077)
+	tmp/svds/keil/NXP/K32L2B11A.xml
+	tmp/svds/keil/NXP/K32L2B31A.xml
+2 devices with rank #201
+Rank #202: (score 0.0004944375772558715, normalized score 0.11526576019777503)
+	tmp/svds/keil/Keil/STM32G07x.svd
+1 devices with rank #202
+Rank #203: (score 0.000493339911198816, normalized score 0.11500986679822398)
+	tmp/svds/keil/AnalogDevices/ADuCM4050.svd
+1 devices with rank #203
+Rank #204: (score 0.0004923682914820286, normalized score 0.1147833579517479)
+	tmp/svds/keil/NXP/MCXC443.xml
+	tmp/svds/keil/NXP/MCXC444.xml
+2 devices with rank #204
+Rank #205: (score 0.0004901960784313725, normalized score 0.11427696078431371)
+	tmp/svds/keil/Holtek/HT32F52357_67.svd
+	tmp/svds/keil/Holtek/HT50F3200T.svd
+2 devices with rank #205
+Rank #206: (score 0.0004894762604013706, normalized score 0.1141091532060695)
+	tmp/svds/keil/NXP/MKM34Z7.xml
+1 devices with rank #206
+Rank #207: (score 0.00048792388387411563, normalized score 0.1137472554281532)
+	tmp/svds/keil/Microchip/PIC32CM1216MC00032.svd
+	tmp/svds/keil/Microchip/PIC32CM6408MC00032.svd
+2 devices with rank #207
+Rank #208: (score 0.0004874482086278333, normalized score 0.11363636363636363)
+	tmp/svds/keil/Microchip/ATSAMC20G15A.svd
+	tmp/svds/keil/Microchip/ATSAMC20G16A.svd
+	tmp/svds/keil/Microchip/ATSAMC20G17A.svd
+	tmp/svds/keil/Microchip/ATSAMC20G18A.svd
+	tmp/svds/keil/Microchip/ATSAMC20J15A.svd
+	tmp/svds/keil/Microchip/ATSAMC20J16A.svd
+	tmp/svds/keil/Microchip/ATSAMC20J17A.svd
+	tmp/svds/keil/Microchip/ATSAMC20J17AU.svd
+	tmp/svds/keil/Microchip/ATSAMC20J18A.svd
+	tmp/svds/keil/Microchip/ATSAMC20J18AU.svd
+	tmp/svds/keil/Microchip/PIC32CM3204JH00048.svd
+	tmp/svds/keil/Microchip/PIC32CM3204JH00064.svd
+	tmp/svds/keil/Microchip/PIC32CM6408JH00048.svd
+	tmp/svds/keil/Microchip/PIC32CM6408JH00064.svd
+14 devices with rank #208
+Rank #209: (score 0.0004870920603994155, normalized score 0.11355333658061373)
+	tmp/svds/keil/NXP/MKM35Z7.xml
+1 devices with rank #209
+Rank #210: (score 0.0004867364322219518, normalized score 0.1134704307617425)
+	tmp/svds/keil/Nuvoton/M253.svd
+1 devices with rank #210
+Rank #211: (score 0.0004862630683199611, normalized score 0.11336007780209091)
+	tmp/svds/keil/Microchip/ATSAML22N16A.svd
+	tmp/svds/keil/Microchip/ATSAML22N17A.svd
+	tmp/svds/keil/Microchip/ATSAML22N18A.svd
+3 devices with rank #211
+Rank #212: (score 0.0004836174585902551, normalized score 0.1127433200338532)
+	tmp/svds/keil/NXP/MCXA185.xml
+	tmp/svds/keil/NXP/MCXA186.xml
+2 devices with rank #212
+Rank #213: (score 0.00048344210780759005, normalized score 0.11270244138264442)
+	tmp/svds/keil/Microchip/PIC32CM2532JH00032.svd
+	tmp/svds/keil/Microchip/PIC32CM5164JH00032.svd
+2 devices with rank #213
+Rank #214: (score 0.0004829751267809708, normalized score 0.1125935764308138)
+	tmp/svds/keil/NXP/MK02F12810.xml
+1 devices with rank #214
+Rank #215: (score 0.000482392667631452, normalized score 0.11245779064158225)
+	tmp/svds/keil/NXP/MCXW235.xml
+	tmp/svds/keil/NXP/MCXW236.xml
+2 devices with rank #215
+Rank #216: (score 0.00048192771084337347, normalized score 0.11234939759036143)
+	tmp/svds/keil/TexasInstruments/MSP432P4111.svd
+	tmp/svds/keil/TexasInstruments/MSP432P411V.svd
+	tmp/svds/keil/TexasInstruments/MSP432P411Y.svd
+3 devices with rank #216
+Rank #217: (score 0.0004816955684007707, normalized score 0.11229527938342966)
+	tmp/svds/keil/Holtek/HT32F12345.svd
+	tmp/svds/keil/Holtek/HT32F1653_54.svd
+2 devices with rank #217
+Rank #218: (score 0.0004798464491362764, normalized score 0.11186420345489442)
+	tmp/svds/keil/NXP/MKE14Z4.xml
+1 devices with rank #218
+Rank #219: (score 0.00047961630695443646, normalized score 0.11181055155875298)
+	tmp/svds/keil/Nuvoton/M2A23.svd
+1 devices with rank #219
+Rank #220: (score 0.0004791566842357451, normalized score 0.11170340201245807)
+	tmp/svds/keil/Holtek/HT32F12364.svd
+	tmp/svds/keil/Holtek/HT32F12365_66.svd
+2 devices with rank #220
+Rank #221: (score 0.00047904191616766467, normalized score 0.11167664670658681)
+	tmp/svds/keil/Microchip/ATSAMC21E15A.svd
+	tmp/svds/keil/Microchip/ATSAMC21E16A.svd
+	tmp/svds/keil/Microchip/ATSAMC21E17A.svd
+	tmp/svds/keil/Microchip/ATSAMC21E18A.svd
+4 devices with rank #221
+Rank #222: (score 0.0004786979415988511, normalized score 0.11159645763523215)
+	tmp/svds/keil/Holtek/HT32F1655_56.svd
+1 devices with rank #222
+Rank #223: (score 0.0004775549188156638, normalized score 0.11132999044890161)
+	tmp/svds/keil/NXP/MKE15Z4.xml
+1 devices with rank #223
+Rank #224: (score 0.00047744091668656003, normalized score 0.1113034137025543)
+	tmp/svds/keil/Microchip/PIC32CM1216MC00048.svd
+	tmp/svds/keil/Microchip/PIC32CM6408MC00048.svd
+2 devices with rank #224
+Rank #225: (score 0.0004769854519437157, normalized score 0.11119723348437871)
+	tmp/svds/keil/NXP/MKV30F12810.xml
+1 devices with rank #225
+Rank #226: (score 0.00047505938242280285, normalized score 0.11074821852731591)
+	tmp/svds/keil/Holtek/HT32F22366.svd
+1 devices with rank #226
+Rank #227: (score 0.0004743833017077799, normalized score 0.11059060721062618)
+	tmp/svds/keil/NXP/MKE16Z4.xml
+1 devices with rank #227
+Rank #228: (score 0.000474158368895211, normalized score 0.11053816974869606)
+	tmp/svds/keil/Microchip/PIC32CM2532JH01032.svd
+	tmp/svds/keil/Microchip/PIC32CM5164JH01032.svd
+2 devices with rank #228
+Rank #229: (score 0.00047192071731949034, normalized score 0.11001651722510618)
+	tmp/svds/keil/NXP/MKV10Z1287.xml
+1 devices with rank #229
+Rank #230: (score 0.000469208211143695, normalized score 0.10938416422287389)
+	tmp/svds/keil/NXP/LPC5526.xml
+	tmp/svds/keil/NXP/LPC5528.xml
+2 devices with rank #230
+Rank #231: (score 0.00046904315196998124, normalized score 0.10934568480300187)
+	tmp/svds/keil/NXP/MCXA265.xml
+	tmp/svds/keil/NXP/MCXA266.xml
+2 devices with rank #231
+Rank #232: (score 0.0004689331770222743, normalized score 0.10932004689331769)
+	tmp/svds/keil/Microchip/PIC32CM2532JH00048.svd
+	tmp/svds/keil/Microchip/PIC32CM2532JH00064.svd
+	tmp/svds/keil/Microchip/PIC32CM5164JH00048.svd
+	tmp/svds/keil/Microchip/PIC32CM5164JH00064.svd
+4 devices with rank #232
+Rank #233: (score 0.0004675081813931744, normalized score 0.10898784478728377)
+	tmp/svds/keil/NXP/MKV31F12810.xml
+1 devices with rank #233
+Rank #234: (score 0.0004637143519591931, normalized score 0.10810340830048688)
+	tmp/svds/keil/NXP/LPC55S26.xml
+	tmp/svds/keil/NXP/LPC55S28.xml
+2 devices with rank #234
+Rank #235: (score 0.0004617871161394597, normalized score 0.10765412145001153)
+	tmp/svds/keil/Keil/STM32WBxx_CM4.svd
+1 devices with rank #235
+Rank #236: (score 0.00046072333563695, normalized score 0.10740612762036396)
+	tmp/svds/keil/NXP/LPC5534.xml
+	tmp/svds/keil/NXP/LPC5536.xml
+2 devices with rank #236
+Rank #237: (score 0.0004588208304657031, normalized score 0.10696260610231703)
+	tmp/svds/keil/NXP/MK12D5.xml
+1 devices with rank #237
+Rank #238: (score 0.0004585052728106373, normalized score 0.10688904172397981)
+	tmp/svds/keil/NXP/LPC55S66_cm33_core0.xml
+	tmp/svds/keil/NXP/LPC55S66_cm33_core1.xml
+	tmp/svds/keil/NXP/LPC55S69_cm33_core0.xml
+	tmp/svds/keil/NXP/LPC55S69_cm33_core1.xml
+4 devices with rank #238
+Rank #239: (score 0.0004570383912248629, normalized score 0.10654707495429615)
+	tmp/svds/keil/Microchip/ATSAMC20N17A.svd
+	tmp/svds/keil/Microchip/ATSAMC20N18A.svd
+2 devices with rank #239
+Rank #240: (score 0.0004562043795620438, normalized score 0.10635264598540145)
+	tmp/svds/keil/Microchip/ATSAMC21G15A.svd
+	tmp/svds/keil/Microchip/ATSAMC21G16A.svd
+	tmp/svds/keil/Microchip/ATSAMC21G17A.svd
+	tmp/svds/keil/Microchip/ATSAMC21G18A.svd
+	tmp/svds/keil/Microchip/ATSAMC21J15A.svd
+	tmp/svds/keil/Microchip/ATSAMC21J16A.svd
+	tmp/svds/keil/Microchip/ATSAMC21J17A.svd
+	tmp/svds/keil/Microchip/ATSAMC21J17AU.svd
+	tmp/svds/keil/Microchip/ATSAMC21J18A.svd
+	tmp/svds/keil/Microchip/ATSAMC21J18AU.svd
+10 devices with rank #240
+Rank #241: (score 0.00045526974732529026, normalized score 0.10613475984520827)
+	tmp/svds/keil/Microchip/PIC32CM2532JH00100.svd
+	tmp/svds/keil/Microchip/PIC32CM5164JH00100.svd
+2 devices with rank #241
+Rank #242: (score 0.00045495905368516835, normalized score 0.10606232939035486)
+	tmp/svds/keil/NXP/MK11DA5.xml
+1 devices with rank #242
+Rank #243: (score 0.00045485558335228563, normalized score 0.10603820786900157)
+	tmp/svds/keil/NXP/MK11D5.xml
+1 devices with rank #243
+Rank #244: (score 0.00045177320984865596, normalized score 0.10531962954596791)
+	tmp/svds/keil/Microchip/PIC32CM2532JH01048.svd
+	tmp/svds/keil/Microchip/PIC32CM2532JH01064.svd
+	tmp/svds/keil/Microchip/PIC32CM5164JH01048.svd
+	tmp/svds/keil/Microchip/PIC32CM5164JH01064.svd
+	tmp/svds/keil/NXP/MKV11Z7.xml
+5 devices with rank #244
+Rank #245: (score 0.0004505519261094841, normalized score 0.10503491777427347)
+	tmp/svds/keil/NXP/MK22F12810.xml
+	tmp/svds/keil/NXP/MKE12Z7.xml
+2 devices with rank #245
+Rank #246: (score 0.00045045045045045046, normalized score 0.10501126126126126)
+	tmp/svds/keil/NXP/MCXA365.xml
+	tmp/svds/keil/NXP/MCXA366.xml
+2 devices with rank #246
+Rank #247: (score 0.0004492362982929021, normalized score 0.1047282120395328)
+	tmp/svds/keil/NXP/MCXA275.xml
+	tmp/svds/keil/NXP/MCXA276.xml
+2 devices with rank #247
+Rank #248: (score 0.00044913541432741973, normalized score 0.10470469346507971)
+	tmp/svds/keil/NXP/MK22D5.xml
+1 devices with rank #248
+Rank #249: (score 0.00044853106077595876, normalized score 0.10456380354339538)
+	tmp/svds/keil/NXP/MKE13Z7.xml
+1 devices with rank #249
+Rank #250: (score 0.00044652824291136416, normalized score 0.10409689662871176)
+	tmp/svds/keil/NXP/MKE17Z7.xml
+1 devices with rank #250
+Rank #251: (score 0.00044583147570218456, normalized score 0.10393446277307176)
+	tmp/svds/keil/NXP/MKV31F25612.xml
+1 devices with rank #251
+Rank #252: (score 0.00044543429844097997, normalized score 0.10384187082405344)
+	tmp/svds/keil/NXP/MK21DA5.xml
+1 devices with rank #252
+Rank #253: (score 0.00044533511467379205, normalized score 0.10381874860832777)
+	tmp/svds/keil/NXP/MK21D5.xml
+1 devices with rank #253
+Rank #254: (score 0.00044483985765124553, normalized score 0.1037032918149466)
+	tmp/svds/keil/NXP/MIMXRT1024.xml
+1 devices with rank #254
+Rank #255: (score 0.00044365572315882877, normalized score 0.10342724046140195)
+	tmp/svds/keil/NXP/MIMXRT1021.xml
+1 devices with rank #255
+Rank #256: (score 0.00043965706748735987, normalized score 0.10249505385799076)
+	tmp/svds/keil/NXP/MKE12Z9.xml
+1 devices with rank #256
+Rank #257: (score 0.0004391743522178305, normalized score 0.10238252086078173)
+	tmp/svds/keil/NXP/LPC54101.xml
+	tmp/svds/keil/NXP/LPC54102_cm0plus.xml
+	tmp/svds/keil/NXP/LPC54102_cm4.xml
+3 devices with rank #257
+Rank #258: (score 0.0004390779363336992, normalized score 0.10236004390779362)
+	tmp/svds/keil/Microchip/PIC32CM2532JH01100.svd
+	tmp/svds/keil/Microchip/PIC32CM5164JH01100.svd
+2 devices with rank #258
+Rank #259: (score 0.0004386606228980845, normalized score 0.10226275771311594)
+	tmp/svds/keil/HDSC/HC32F472JCTI.svd
+	tmp/svds/keil/HDSC/HC32F472JETI.svd
+2 devices with rank #259
+Rank #260: (score 0.0004377325454147516, normalized score 0.10204639964981395)
+	tmp/svds/keil/Nuvoton/M031AE_v1.svd
+1 devices with rank #260
+Rank #261: (score 0.0004375410194705754, normalized score 0.10200175016407788)
+	tmp/svds/keil/NXP/MKE13Z9.xml
+1 devices with rank #261
+Rank #262: (score 0.0004371584699453552, normalized score 0.10191256830601092)
+	tmp/svds/keil/NXP/LPC5502.xml
+	tmp/svds/keil/NXP/LPC5504.xml
+	tmp/svds/keil/NXP/LPC5506.xml
+3 devices with rank #262
+Rank #263: (score 0.00043642711667151585, normalized score 0.10174207157404712)
+	tmp/svds/keil/HDSC/HC32F472KCHI.svd
+	tmp/svds/keil/HDSC/HC32F472KEHI.svd
+2 devices with rank #263
+Rank #264: (score 0.00043544524276072284, normalized score 0.1015131722185935)
+	tmp/svds/keil/NXP/MKE17Z9.xml
+1 devices with rank #264
+Rank #265: (score 0.0004341219882787063, normalized score 0.1012046885174734)
+	tmp/svds/keil/Microchip/ATSAMC21N17A.svd
+	tmp/svds/keil/Microchip/ATSAMC21N18A.svd
+2 devices with rank #265
+Rank #266: (score 0.00043346337234503684, normalized score 0.1010511486779367)
+	tmp/svds/keil/Infineon/tle988x.svd
+1 devices with rank #266
+Rank #267: (score 0.00043252595155709344, normalized score 0.10083261245674739)
+	tmp/svds/keil/NXP/MKV31F51212.xml
+1 devices with rank #267
+Rank #268: (score 0.0004324636009802508, normalized score 0.10081807697852097)
+	tmp/svds/keil/HDSC/HC32F472PCTI.svd
+	tmp/svds/keil/HDSC/HC32F472PETI.svd
+2 devices with rank #268
+Rank #269: (score 0.0004322455154527772, normalized score 0.10076723578992867)
+	tmp/svds/keil/NXP/LPC5512.xml
+1 devices with rank #269
+Rank #270: (score 0.00043196544276457883, normalized score 0.10070194384449242)
+	tmp/svds/keil/HDSC/HC32F472.svd
+1 devices with rank #270
+Rank #271: (score 0.0004317323259579061, normalized score 0.10064759848893685)
+	tmp/svds/keil/NXP/LPC55S04.xml
+	tmp/svds/keil/NXP/LPC55S06.xml
+2 devices with rank #271
+Rank #272: (score 0.0004306632213608958, normalized score 0.10039836347975882)
+	tmp/svds/keil/Infineon/tle989x.svd
+1 devices with rank #272
+Rank #273: (score 0.00043047783039173483, normalized score 0.10035514421007317)
+	tmp/svds/keil/NXP/MK22F25612.xml
+1 devices with rank #273
+Rank #274: (score 0.0004268032437046522, normalized score 0.09949850618864703)
+	tmp/svds/keil/NXP/LPC5514.xml
+	tmp/svds/keil/NXP/LPC5516.xml
+2 devices with rank #274
+Rank #275: (score 0.00042589437819420784, normalized score 0.09928662691652469)
+	tmp/svds/keil/NXP/MKE14Z7.xml
+1 devices with rank #275
+Rank #276: (score 0.0004248990864669641, normalized score 0.09905459953261099)
+	tmp/svds/keil/Nuvoton/CM2U51.svd
+	tmp/svds/keil/Nuvoton/M2U51.svd
+2 devices with rank #276
+Rank #277: (score 0.00042426813746287653, normalized score 0.09890750954603308)
+	tmp/svds/keil/NXP/LPC51U68.xml
+1 devices with rank #277
+Rank #278: (score 0.00042408821034775233, normalized score 0.09886556403731975)
+	tmp/svds/keil/NXP/MKE15Z7.xml
+1 devices with rank #278
+Rank #279: (score 0.0004224310909282923, normalized score 0.09847924807265813)
+	tmp/svds/keil/RealThread/LPC55S69_cm33_core0.xml
+	tmp/svds/keil/RealThread/LPC55S69_cm33_core1.xml
+2 devices with rank #279
+Rank #280: (score 0.0004216295983978075, normalized score 0.09829240012648886)
+	tmp/svds/keil/NXP/LPC55S14.xml
+	tmp/svds/keil/NXP/LPC55S16.xml
+2 devices with rank #280
+Rank #281: (score 0.0004184975936388366, normalized score 0.09756225151705376)
+	tmp/svds/keil/NXP/MKV44F16.xml
+1 devices with rank #281
+Rank #282: (score 0.0004180602006688963, normalized score 0.09746028428093645)
+	tmp/svds/keil/NXP/MK22F51212.xml
+1 devices with rank #282
+Rank #283: (score 0.00041605991262741833, normalized score 0.09699396713126689)
+	tmp/svds/keil/NXP/MKV42F16.xml
+1 devices with rank #283
+Rank #284: (score 0.0004152823920265781, normalized score 0.09681270764119601)
+	tmp/svds/keil/NXP/MKL28Z7.xml
+1 devices with rank #284
+Rank #285: (score 0.0004145077720207254, normalized score 0.0966321243523316)
+	tmp/svds/keil/NXP/MK24F25612.xml
+1 devices with rank #285
+Rank #286: (score 0.0004104247896572953, normalized score 0.09568027908885696)
+	tmp/svds/keil/NXP/K32L2A31A.xml
+	tmp/svds/keil/NXP/K32L2A41A.xml
+2 devices with rank #286
+Rank #287: (score 0.0004098360655737705, normalized score 0.09554303278688524)
+	tmp/svds/keil/NXP/LPC54113.xml
+	tmp/svds/keil/NXP/LPC54114_cm0plus.xml
+	tmp/svds/keil/NXP/LPC54114_cm4.xml
+3 devices with rank #287
+Rank #288: (score 0.00040899795501022495, normalized score 0.09534764826175868)
+	tmp/svds/keil/Microchip/ATSAMD51G18A.svd
+	tmp/svds/keil/Microchip/ATSAMD51G19A.svd
+2 devices with rank #288
+Rank #289: (score 0.0004074564530915758, normalized score 0.0949882856269736)
+	tmp/svds/keil/NXP/LPC55S36.xml
+1 devices with rank #289
+Rank #290: (score 0.0004067520846044336, normalized score 0.09482407972340857)
+	tmp/svds/keil/NXP/MKS20F12.xml
+1 devices with rank #290
+Rank #291: (score 0.0004008819402685909, normalized score 0.09345560232511525)
+	tmp/svds/keil/NXP/MKV46F16.xml
+1 devices with rank #291
+Rank #292: (score 0.00039872408293460925, normalized score 0.09295255183413077)
+	tmp/svds/keil/NXP/MIMXRT1051.xml
+1 devices with rank #292
+Rank #293: (score 0.0003961965134706815, normalized score 0.09236331220285261)
+	tmp/svds/keil/Nuvoton/M251_v1.svd
+1 devices with rank #293
+Rank #294: (score 0.00039517881841533294, normalized score 0.09212606204307448)
+	tmp/svds/keil/Microchip/ATSAME51G18A.svd
+	tmp/svds/keil/Microchip/ATSAME51G19A.svd
+2 devices with rank #294
+Rank #295: (score 0.0003940110323089047, normalized score 0.0918538219070134)
+	tmp/svds/keil/Microchip/ATSAMD51J18A.svd
+	tmp/svds/keil/Microchip/ATSAMD51J19A.svd
+	tmp/svds/keil/Microchip/ATSAMD51J20A.svd
+3 devices with rank #295
+Rank #296: (score 0.00039273441335297007, normalized score 0.09155621011291114)
+	tmp/svds/keil/NXP/MIMXRT1041.xml
+	tmp/svds/keil/NXP/MIMXRT1043.xml
+2 devices with rank #296
+Rank #297: (score 0.0003916960438699569, normalized score 0.09131414022718369)
+	tmp/svds/keil/NXP/MKS22F12.xml
+1 devices with rank #297
+Rank #298: (score 0.0003896356906292616, normalized score 0.0908338203779466)
+	tmp/svds/keil/NXP/RW610.xml
+	tmp/svds/keil/NXP/RW612.xml
+2 devices with rank #298
+Rank #299: (score 0.00038895371450797355, normalized score 0.09067483469467133)
+	tmp/svds/keil/NXP/MK22F12.xml
+1 devices with rank #299
+Rank #300: (score 0.0003884249368809478, normalized score 0.09055156341037095)
+	tmp/svds/keil/RaspberryPi/rp2040.svd
+1 devices with rank #300
+Rank #301: (score 0.0003878599825463008, normalized score 0.09041985843110636)
+	tmp/svds/keil/NXP/MIMXRT1052.xml
+1 devices with rank #301
+Rank #302: (score 0.0003860258637328701, normalized score 0.08999227948272533)
+	tmp/svds/keil/NXP/MIMXRT1046.xml
+1 devices with rank #302
+Rank #303: (score 0.0003835091083413231, normalized score 0.08940556088207094)
+	tmp/svds/keil/NXP/MIMXRT1042.xml
+1 devices with rank #303
+Rank #304: (score 0.0003826286588865506, normalized score 0.0892003061029271)
+	tmp/svds/keil/Microchip/ATSAME53J18A.svd
+	tmp/svds/keil/Microchip/ATSAME53J19A.svd
+	tmp/svds/keil/Microchip/ATSAME53J20A.svd
+3 devices with rank #304
+Rank #305: (score 0.0003824091778202677, normalized score 0.08914913957934989)
+	tmp/svds/keil/NXP/MK24F12.xml
+1 devices with rank #305
+Rank #306: (score 0.00038182512409316535, normalized score 0.08901298205421916)
+	tmp/svds/keil/Microchip/ATSAME51J18A.svd
+	tmp/svds/keil/Microchip/ATSAME51J19A.svd
+	tmp/svds/keil/Microchip/ATSAME51J20A.svd
+3 devices with rank #306
+Rank #307: (score 0.0003800836183960471, normalized score 0.08860699353857848)
+	tmp/svds/keil/Microchip/ATSAMD51N19A.svd
+	tmp/svds/keil/Microchip/ATSAMD51N20A.svd
+2 devices with rank #307
+Rank #308: (score 0.0003786444528587656, normalized score 0.08827148807269972)
+	tmp/svds/keil/NXP/MK22FA12.xml
+1 devices with rank #308
+Rank #309: (score 0.0003781433163168841, normalized score 0.0881546606163736)
+	tmp/svds/keil/NXP/MKE14F16.xml
+1 devices with rank #309
+Rank #310: (score 0.00037764350453172205, normalized score 0.0880381419939577)
+	tmp/svds/keil/NXP/MK21F12.xml
+1 devices with rank #310
+Rank #311: (score 0.00037757221068529355, normalized score 0.08802152161600905)
+	tmp/svds/keil/NXP/MK21FA12.xml
+1 devices with rank #311
+Rank #312: (score 0.0003768607499528924, normalized score 0.08785566233276804)
+	tmp/svds/keil/Microchip/ATSAMD51P19A.svd
+	tmp/svds/keil/Microchip/ATSAMD51P20A.svd
+2 devices with rank #312
+Rank #313: (score 0.0003745669070137653, normalized score 0.08732091019758403)
+	tmp/svds/keil/NXP/MIMXRT1061X.xml
+1 devices with rank #313
+Rank #314: (score 0.0003723932472691162, normalized score 0.0868141757696127)
+	tmp/svds/keil/Keil/STM32H742x.svd
+1 devices with rank #314
+Rank #315: (score 0.0003723701359150996, normalized score 0.08680878793520759)
+	tmp/svds/keil/Microchip/ATSAME51N19A.svd
+	tmp/svds/keil/Microchip/ATSAME51N20A.svd
+2 devices with rank #315
+Rank #316: (score 0.0003719546215361726, normalized score 0.08671192114562022)
+	tmp/svds/keil/NXP/MK63F12.xml
+1 devices with rank #316
+Rank #317: (score 0.00037192003719200374, normalized score 0.08670385867038587)
+	tmp/svds/keil/NXP/MIMXRT1061.xml
+1 devices with rank #317
+Rank #318: (score 0.0003718163227365681, normalized score 0.08667968023796244)
+	tmp/svds/keil/NXP/MK64F12.xml
+1 devices with rank #318
+Rank #319: (score 0.0003695491500369549, normalized score 0.0861511456023651)
+	tmp/svds/keil/Microchip/ATSAME53N19A.svd
+	tmp/svds/keil/Microchip/ATSAME53N20A.svd
+2 devices with rank #319
+Rank #320: (score 0.00036920804873546244, normalized score 0.08607162636145467)
+	tmp/svds/keil/NXP/MKL82Z7.xml
+1 devices with rank #320
+Rank #321: (score 0.0003674106732800588, normalized score 0.0856526132084137)
+	tmp/svds/keil/NXP/MIMXRT633S.xml
+	tmp/svds/keil/NXP/MIMXRT685S_cm33.xml
+2 devices with rank #321
+Rank #322: (score 0.0003652300949598247, normalized score 0.08514426588750912)
+	tmp/svds/keil/NXP/MIMXRT1062X.xml
+1 devices with rank #322
+Rank #323: (score 0.00036413290851160674, normalized score 0.08488848429676832)
+	tmp/svds/keil/NXP/MIMXRT1064.xml
+1 devices with rank #323
+Rank #324: (score 0.0003630422944273008, normalized score 0.08463423488836448)
+	tmp/svds/keil/Keil/STM32L4Q5.svd
+1 devices with rank #324
+Rank #325: (score 0.0003627130939426913, normalized score 0.08455749002538991)
+	tmp/svds/keil/NXP/MIMXRT1062.xml
+1 devices with rank #325
+Rank #326: (score 0.0003620564808110065, normalized score 0.08440441708906588)
+	tmp/svds/keil/Keil/STM32L4P5.svd
+1 devices with rank #326
+Rank #327: (score 0.00035971223021582735, normalized score 0.08385791366906474)
+	tmp/svds/keil/Keil/lm4f110b2qr.svd
+	tmp/svds/keil/Keil/lm4f110c4qr.svd
+2 devices with rank #327
+Rank #328: (score 0.0003594536304816679, normalized score 0.08379762760603882)
+	tmp/svds/keil/Keil/lm4f110e5qr.svd
+1 devices with rank #328
+Rank #329: (score 0.0003589375448671931, normalized score 0.0836773151471644)
+	tmp/svds/keil/Keil/lm4f110h5qr.svd
+1 devices with rank #329
+Rank #330: (score 0.0003586800573888092, normalized score 0.08361728837876614)
+	tmp/svds/keil/Microchip/ATSAME54N19A.svd
+	tmp/svds/keil/Microchip/ATSAME54N20A.svd
+2 devices with rank #330
+Rank #331: (score 0.0003558085749866572, normalized score 0.08294787404376444)
+	tmp/svds/keil/Microchip/ATSAME54P19A.svd
+	tmp/svds/keil/Microchip/ATSAME54P20A.svd
+2 devices with rank #331
+Rank #332: (score 0.0003534817956875221, normalized score 0.08240544361965359)
+	tmp/svds/keil/Keil/lm4f120b2qr.svd
+	tmp/svds/keil/Keil/lm4f120c4qr.svd
+2 devices with rank #332
+Rank #333: (score 0.00035323207347227127, normalized score 0.08234722712822323)
+	tmp/svds/keil/Keil/lm4f120e5qr.svd
+1 devices with rank #333
+Rank #334: (score 0.0003527336860670194, normalized score 0.0822310405643739)
+	tmp/svds/keil/Keil/lm4f120h5qr.svd
+1 devices with rank #334
+Rank #335: (score 0.0003517720517104916, normalized score 0.08200685955500835)
+	tmp/svds/keil/NXP/MIMXRT533S.xml
+1 devices with rank #335
+Rank #336: (score 0.00035124692658939234, normalized score 0.08188443976115208)
+	tmp/svds/keil/Keil/lm4f111b2qr.svd
+	tmp/svds/keil/Keil/lm4f111c4qr.svd
+2 devices with rank #336
+Rank #337: (score 0.000351000351000351, normalized score 0.08182695682695681)
+	tmp/svds/keil/Keil/lm4f111e5qr.svd
+1 devices with rank #337
+Rank #338: (score 0.0003505082369435682, normalized score 0.08171223273746933)
+	tmp/svds/keil/Keil/lm4f111h5qr.svd
+1 devices with rank #338
+Rank #339: (score 0.0003484320557491289, normalized score 0.08122822299651566)
+	tmp/svds/keil/Keil/lm4f130c4qr.svd
+1 devices with rank #339
+Rank #340: (score 0.00034818941504178273, normalized score 0.0811716573816156)
+	tmp/svds/keil/Keil/lm4f130e5qr.svd
+1 devices with rank #340
+Rank #341: (score 0.0003477051460361613, normalized score 0.0810587621696801)
+	tmp/svds/keil/Keil/lm4f130h5qr.svd
+1 devices with rank #341
+Rank #342: (score 0.00034665048964381665, normalized score 0.08081289539821475)
+	tmp/svds/keil/NXP/MIMXRT555S.xml
+	tmp/svds/keil/NXP/MIMXRT595S_cm33.xml
+2 devices with rank #342
+Rank #343: (score 0.0003453038674033149, normalized score 0.08049896408839778)
+	tmp/svds/keil/Keil/lm4f121b2qr.svd
+	tmp/svds/keil/Keil/lm4f121c4qr.svd
+2 devices with rank #343
+Rank #344: (score 0.0003450655624568668, normalized score 0.08044340924775707)
+	tmp/svds/keil/Keil/lm4f121e5qr.svd
+1 devices with rank #344
+Rank #345: (score 0.00034458993797381116, normalized score 0.08033252929014471)
+	tmp/svds/keil/Keil/lm4f121h5qr.svd
+1 devices with rank #345
+Rank #346: (score 0.000341180484476288, normalized score 0.07953770044353463)
+	tmp/svds/keil/NXP/MKE16F16.xml
+1 devices with rank #346
+Rank #347: (score 0.00034048348655090226, normalized score 0.07937521280217907)
+	tmp/svds/keil/Keil/lm4f131c4qr.svd
+1 devices with rank #347
+Rank #348: (score 0.0003402517863218782, normalized score 0.07932119768628784)
+	tmp/svds/keil/Keil/lm4f131e5qr.svd
+1 devices with rank #348
+Rank #349: (score 0.0003397893306150187, normalized score 0.07921338769962623)
+	tmp/svds/keil/Keil/lm4f131h5qr.svd
+1 devices with rank #349
+Rank #350: (score 0.0003367003367003367, normalized score 0.07849326599326599)
+	tmp/svds/keil/NXP/MCXW716C.xml
+1 devices with rank #350
+Rank #351: (score 0.00033422459893048126, normalized score 0.07791610962566843)
+	tmp/svds/keil/NXP/MK80F25615.xml
+1 devices with rank #351
+Rank #352: (score 0.0003339455668725998, normalized score 0.07785106027717482)
+	tmp/svds/keil/Keil/lm4f112c4qc.svd
+1 devices with rank #352
+Rank #353: (score 0.0003337226764558652, normalized score 0.07779909894877356)
+	tmp/svds/keil/Keil/lm4f112e5qc.svd
+1 devices with rank #353
+Rank #354: (score 0.0003332777870354941, normalized score 0.07769538410264956)
+	tmp/svds/keil/Keil/lm4f112h5qc.svd
+1 devices with rank #354
+Rank #355: (score 0.000328893274132544, normalized score 0.07667324453214931)
+	tmp/svds/keil/NXP/MK26F18.xml
+1 devices with rank #355
+Rank #356: (score 0.0003285690816494168, normalized score 0.07659766715952028)
+	tmp/svds/keil/Keil/lm4f122c4qc.svd
+1 devices with rank #356
+Rank #357: (score 0.00032846115946789294, normalized score 0.07657250780095254)
+	tmp/svds/keil/Microchip/PIC32CX1025MTC128S1.svd
+	tmp/svds/keil/Microchip/PIC32CX2051MTC128S1.svd
+	tmp/svds/keil/Microchip/PIC32CX5112MTC128S1.svd
+3 devices with rank #357
+Rank #358: (score 0.0003283533081595797, normalized score 0.076547364964702)
+	tmp/svds/keil/Keil/lm4f122e5qc.svd
+1 devices with rank #358
+Rank #359: (score 0.0003279226102639777, normalized score 0.07644695851778979)
+	tmp/svds/keil/Keil/lm4f122h5qc.svd
+1 devices with rank #359
+Rank #360: (score 0.0003264240248082259, normalized score 0.07609760078341765)
+	tmp/svds/keil/Microchip/PIC32CX1025MTSH128S1.svd
+	tmp/svds/keil/Microchip/PIC32CX2051MTSH128S1.svd
+	tmp/svds/keil/Microchip/PIC32CX5112MTSH128S1.svd
+3 devices with rank #360
+Rank #361: (score 0.0003242016534284325, normalized score 0.07557951045550332)
+	tmp/svds/keil/Keil/lm4f132c4qc.svd
+1 devices with rank #361
+Rank #362: (score 0.0003239915762190183, normalized score 0.07553053620605862)
+	tmp/svds/keil/Keil/lm4f132e5qc.svd
+1 devices with rank #362
+Rank #363: (score 0.00032370316419843, normalized score 0.07546330015375899)
+	tmp/svds/keil/NXP/MIMXRT735S_cm33_core1.xml
+1 devices with rank #363
+Rank #364: (score 0.00032357223750202233, normalized score 0.07543277786765895)
+	tmp/svds/keil/Keil/lm4f132h5qc.svd
+1 devices with rank #364
+Rank #365: (score 0.00032331070158422246, normalized score 0.07537180730682186)
+	tmp/svds/keil/NXP/MK27F15.xml
+	tmp/svds/keil/NXP/MK27FA15.xml
+	tmp/svds/keil/NXP/MK28F15.xml
+	tmp/svds/keil/NXP/MK28FA15.xml
+4 devices with rank #365
+Rank #366: (score 0.0003231539828728389, normalized score 0.07533527225723056)
+	tmp/svds/keil/Keil/lm4f112h5qd.svd
+1 devices with rank #366
+Rank #367: (score 0.0003214400514304082, normalized score 0.07493571198971391)
+	tmp/svds/keil/Keil/lm4f230e5qr.svd
+1 devices with rank #367
+Rank #368: (score 0.00032102728731942215, normalized score 0.07483948635634029)
+	tmp/svds/keil/Keil/lm4f230h5qr.svd
+1 devices with rank #368
+Rank #369: (score 0.00032092426187419767, normalized score 0.07481546854942232)
+	tmp/svds/keil/NXP/MK65F18.xml
+	tmp/svds/keil/NXP/MK66F18.xml
+2 devices with rank #369
+Rank #370: (score 0.0003198720511795282, normalized score 0.0745701719312275)
+	tmp/svds/keil/NXP/MIMXRT758S_cm33_core1.xml
+	tmp/svds/keil/NXP/MIMXRT798S_cm33_core1.xml
+2 devices with rank #370
+Rank #371: (score 0.0003181167488468268, normalized score 0.07416096707491648)
+	tmp/svds/keil/Keil/lm4f122h5qd.svd
+1 devices with rank #371
+Rank #372: (score 0.00031426775612822125, normalized score 0.07326367064739157)
+	tmp/svds/keil/Keil/lm4f231e5qr.svd
+1 devices with rank #372
+Rank #373: (score 0.0003140210394096404, normalized score 0.07320615481237241)
+	tmp/svds/keil/Keil/lm4f132h5qd.svd
+1 devices with rank #373
+Rank #374: (score 0.00031387319522912746, normalized score 0.07317168863779033)
+	tmp/svds/keil/Keil/lm4f231h5qr.svd
+1 devices with rank #374
+Rank #375: (score 0.0003108003108003108, normalized score 0.07245532245532245)
+	tmp/svds/keil/NXP/MKE18F16.xml
+1 devices with rank #375
+Rank #376: (score 0.0003105107902499612, normalized score 0.07238782797702219)
+	tmp/svds/keil/Nuvoton/M261_v1.svd
+	tmp/svds/keil/Nuvoton/MR63_v1.svd
+2 devices with rank #376
+Rank #377: (score 0.0003081189339084887, normalized score 0.07183022646741642)
+	tmp/svds/keil/NXP/LPC54605.xml
+1 devices with rank #377
+Rank #378: (score 0.0003045994517209869, normalized score 0.07100974718245506)
+	tmp/svds/keil/NXP/LPC54005.xml
+1 devices with rank #378
+Rank #379: (score 0.000302571860816944, normalized score 0.07053706505295006)
+	tmp/svds/keil/NXP/LPC54S005.xml
+1 devices with rank #379
+Rank #380: (score 0.0003010687942194792, normalized score 0.07018666265241608)
+	tmp/svds/keil/NXP/MCXN235.xml
+	tmp/svds/keil/NXP/MCXN236.xml
+2 devices with rank #380
+Rank #381: (score 0.0003009328919650918, normalized score 0.07015498043936202)
+	tmp/svds/keil/NXP/MK82F25615.xml
+1 devices with rank #381
+Rank #382: (score 0.0003003453972067878, normalized score 0.0700180207238324)
+	tmp/svds/keil/Keil/lm4f232e5qc.svd
+1 devices with rank #382
+Rank #383: (score 0.0002999850007499625, normalized score 0.069934003299835)
+	tmp/svds/keil/Keil/lm4f232h5qc.svd
+1 devices with rank #383
+Rank #384: (score 0.00029175784099197665, normalized score 0.06801604668125455)
+	tmp/svds/keil/Keil/lm4f232h5qd.svd
+1 devices with rank #384
+Rank #385: (score 0.0002915451895043732, normalized score 0.06796647230320699)
+	tmp/svds/keil/NXP/LPC54606.xml
+1 devices with rank #385
+Rank #386: (score 0.0002913752913752914, normalized score 0.0679268648018648)
+	tmp/svds/keil/NXP/LPC54616.xml
+1 devices with rank #386
+Rank #387: (score 0.00028839221341023794, normalized score 0.06723143475126171)
+	tmp/svds/keil/NXP/LPC54016.xml
+1 devices with rank #387
+Rank #388: (score 0.0002881014116969173, normalized score 0.06716364160184383)
+	tmp/svds/keil/NXP/K32L3A60_cm0plus.xml
+1 devices with rank #388
+Rank #389: (score 0.0002865740077374982, normalized score 0.06680756555380427)
+	tmp/svds/keil/NXP/LPC54S016.xml
+1 devices with rank #389
+Rank #390: (score 0.00027932960893854746, normalized score 0.06511871508379886)
+	tmp/svds/keil/Keil/STM32WB06.svd
+	tmp/svds/keil/Keil/STM32WB07.svd
+2 devices with rank #390
+Rank #391: (score 0.0002791152048007815, normalized score 0.06506873211918218)
+	tmp/svds/keil/NXP/MCXN526_cm33_core0.xml
+	tmp/svds/keil/NXP/MCXN526_cm33_core1.xml
+	tmp/svds/keil/NXP/MCXN527_cm33_core0.xml
+	tmp/svds/keil/NXP/MCXN527_cm33_core1.xml
+4 devices with rank #391
+Rank #392: (score 0.0002789400278940028, normalized score 0.0650278940027894)
+	tmp/svds/keil/Keil/STM32WB05.svd
+1 devices with rank #392
+Rank #393: (score 0.00027693159789531985, normalized score 0.06455967875934643)
+	tmp/svds/keil/Keil/STM32WB09.svd
+1 devices with rank #393
+Rank #394: (score 0.0002740852405097985, normalized score 0.06389612169384677)
+	tmp/svds/keil/NXP/LPC54607.xml
+1 devices with rank #394
+Rank #395: (score 0.0002738975623116954, normalized score 0.06385236921391399)
+	tmp/svds/keil/NXP/MCXN536_cm33_core0.xml
+	tmp/svds/keil/NXP/MCXN536_cm33_core1.xml
+	tmp/svds/keil/NXP/MCXN537_cm33_core0.xml
+	tmp/svds/keil/NXP/MCXN537_cm33_core1.xml
+4 devices with rank #395
+Rank #396: (score 0.0002729257641921397, normalized score 0.06362581877729256)
+	tmp/svds/keil/NXP/K32L3A60_cm4.xml
+1 devices with rank #396
+Rank #397: (score 0.00026961445133459155, normalized score 0.06285386896737664)
+	tmp/svds/keil/Nuvoton/M5531.svd
+1 devices with rank #397
+Rank #398: (score 0.0002677734636497523, normalized score 0.0624246887133485)
+	tmp/svds/keil/Nuvoton/M55M1.svd
+1 devices with rank #398
+Rank #399: (score 0.00026615210592853815, normalized score 0.06204670969459045)
+	tmp/svds/keil/NXP/MCXN556S_cm33_core0.xml
+	tmp/svds/keil/NXP/MCXN556S_cm33_core1.xml
+2 devices with rank #399
+Rank #400: (score 0.0002619956583576615, normalized score 0.06107773785462984)
+	tmp/svds/keil/NXP/MIMXRT1171.xml
+	tmp/svds/keil/NXP/MIMXRT1175_cm7.xml
+2 devices with rank #400
+Rank #401: (score 0.0002614248901393021, normalized score 0.0609446775137248)
+	tmp/svds/keil/NXP/MIMXRT1165_cm7.xml
+1 devices with rank #401
+Rank #402: (score 0.00026099438862064463, normalized score 0.060844316847187774)
+	tmp/svds/keil/NXP/MCXN247.xml
+1 devices with rank #402
+Rank #403: (score 0.00026089225150013044, normalized score 0.0608205061309679)
+	tmp/svds/keil/NXP/LPC54608.xml
+1 devices with rank #403
+Rank #404: (score 0.0002607731925158094, normalized score 0.06079275050524806)
+	tmp/svds/keil/NXP/MCXN546_cm33_core0.xml
+	tmp/svds/keil/NXP/MCXN546_cm33_core1.xml
+	tmp/svds/keil/NXP/MCXN547_cm33_core0.xml
+	tmp/svds/keil/NXP/MCXN547_cm33_core1.xml
+4 devices with rank #404
+Rank #405: (score 0.0002607561929595828, normalized score 0.06078878748370273)
+	tmp/svds/keil/NXP/LPC54618.xml
+1 devices with rank #405
+Rank #406: (score 0.0002595380223202699, normalized score 0.060504801453412915)
+	tmp/svds/keil/NXP/LPC54628.xml
+1 devices with rank #406
+Rank #407: (score 0.0002594418294355287, normalized score 0.06048237648715762)
+	tmp/svds/keil/NXP/MIMXRT1172.xml
+	tmp/svds/keil/NXP/MIMXRT1173_cm7.xml
+2 devices with rank #407
+Rank #408: (score 0.0002588821223402944, normalized score 0.06035189477058113)
+	tmp/svds/keil/NXP/MIMXRT1166_cm7.xml
+1 devices with rank #408
+Rank #409: (score 0.000258364552383413, normalized score 0.060231236274383156)
+	tmp/svds/keil/NXP/LPC54018.xml
+	tmp/svds/keil/NXP/LPC54018M.xml
+2 devices with rank #409
+Rank #410: (score 0.0002569043031470777, normalized score 0.05989081567116249)
+	tmp/svds/keil/NXP/LPC54S018.xml
+	tmp/svds/keil/NXP/LPC54S018M.xml
+2 devices with rank #410
+Rank #411: (score 0.00025640712567612115, normalized score 0.05977491117324574)
+	tmp/svds/keil/NXP/MIMXRT1176_cm7.xml
+1 devices with rank #411
+Rank #412: (score 0.0002489110143123833, normalized score 0.05802738021157435)
+	tmp/svds/keil/NXP/MCXN946_cm33_core0.xml
+	tmp/svds/keil/NXP/MCXN946_cm33_core1.xml
+2 devices with rank #412
+Rank #413: (score 0.0002462447672986949, normalized score 0.05740581137650825)
+	tmp/svds/keil/NXP/MCXN947_cm33_core0.xml
+	tmp/svds/keil/NXP/MCXN947_cm33_core1.xml
+2 devices with rank #413
+Rank #414: (score 0.00023691659289000835, normalized score 0.05523118071748319)
+	tmp/svds/keil/NXP/MIMXRT1175_cm4.xml
+1 devices with rank #414
+Rank #415: (score 0.0002364007365749266, normalized score 0.05511092171402976)
+	tmp/svds/keil/NXP/MIMXRT1165_cm4.xml
+1 devices with rank #415
+Rank #416: (score 0.00023460845084335565, normalized score 0.05469309510285728)
+	tmp/svds/keil/NXP/MIMXRT1173_cm4.xml
+1 devices with rank #416
+Rank #417: (score 0.00023410258621751827, normalized score 0.05457516541195894)
+	tmp/svds/keil/NXP/MIMXRT1166_cm4.xml
+1 devices with rank #417
+Rank #418: (score 0.00023186566435614566, normalized score 0.05405368300302645)
+	tmp/svds/keil/NXP/MIMXRT1176_cm4.xml
+1 devices with rank #418
+Rank #419: (score 0.0002108370229812355, normalized score 0.04915138098250052)
+	tmp/svds/keil/Cmsemicon/BAT32G439.svd
+1 devices with rank #419
+Rank #420: (score 0.00020874647740319382, normalized score 0.04866402254461955)
+	tmp/svds/keil/Keil/STM32L4R7.svd
+	tmp/svds/keil/Keil/STM32L4S5.svd
+	tmp/svds/keil/Keil/STM32L4S7.svd
+3 devices with rank #420
+Rank #421: (score 0.00020861583394179617, normalized score 0.04863356628768123)
+	tmp/svds/keil/Keil/STM32L4R5.svd
+1 devices with rank #421
+Rank #422: (score 0.00020616431295742706, normalized score 0.04806205545820018)
+	tmp/svds/keil/Keil/STM32L4R9.svd
+	tmp/svds/keil/Keil/STM32L4S9.svd
+2 devices with rank #422
+Rank #423: (score 0.00018296587686396487, normalized score 0.0426539200439118)
+	tmp/svds/keil/NXP/MIMXRT735S_cm33_core0.xml
+1 devices with rank #423
+Rank #424: (score 0.0001817355747387551, normalized score 0.04236710586097228)
+	tmp/svds/keil/NXP/MIMXRT758S_cm33_core0.xml
+	tmp/svds/keil/NXP/MIMXRT798S_cm33_core0.xml
+2 devices with rank #424
+Rank #425: (score 0.00011224604332697273, normalized score 0.026167358850600515)
+	tmp/svds/keil/NXP/MIMX8MQ5.xml
+1 devices with rank #425
+Rank #426: (score 0.0001098780353807274, normalized score 0.025615316998132073)
+	tmp/svds/keil/NXP/MIMX8MD6.xml
+	tmp/svds/keil/NXP/MIMX8MD7.xml
+	tmp/svds/keil/NXP/MIMX8MQ6.xml
+	tmp/svds/keil/NXP/MIMX8MQ7.xml
+4 devices with rank #426
+Rank #427: (score 0.0, normalized score 0.0)
+	tmp/svds/keil/ABOV/A31G11x.svd
+	tmp/svds/keil/ABOV/A31G12x.svd
+	tmp/svds/keil/ABOV/A31G21x.svd
+	tmp/svds/keil/ABOV/A31G22x.svd
+	tmp/svds/keil/ABOV/A31G31x.svd
+	tmp/svds/keil/ABOV/A31L12x.svd
+	tmp/svds/keil/ABOV/A31R71x.svd
+	tmp/svds/keil/ABOV/A31T21x.svd
+	tmp/svds/keil/ABOV/A33G52x.svd
+	tmp/svds/keil/ABOV/A33G53x.svd
+	tmp/svds/keil/ABOV/A33M11x.svd
+	tmp/svds/keil/ABOV/A34M41x.svd
+	tmp/svds/keil/ABOV/AC30M1x64.svd
+	tmp/svds/keil/ABOV/AC33Mx064.svd
+	tmp/svds/keil/ABOV/AC33Mx128.svd
+	tmp/svds/keil/ABOV/a31t21x.svd
+	tmp/svds/keil/ABOV/a34m456.svd
+	tmp/svds/keil/Active-Semi/PAC52XX.svd
+	tmp/svds/keil/Active-Semi/PAC55XX.svd
+	tmp/svds/keil/AmbiqMicro/apollo1.svd
+	tmp/svds/keil/AmbiqMicro/apollo2.svd
+	tmp/svds/keil/AmbiqMicro/apollo3.svd
+	tmp/svds/keil/AmbiqMicro/apollo330P.svd
+	tmp/svds/keil/AmbiqMicro/apollo3p.svd
+	tmp/svds/keil/AmbiqMicro/apollo4b.svd
+	tmp/svds/keil/AmbiqMicro/apollo4l.svd
+	tmp/svds/keil/AmbiqMicro/apollo4p.svd
+	tmp/svds/keil/AmbiqMicro/apollo510.svd
+	tmp/svds/keil/AmbiqMicro/apollo510L.svd
+	tmp/svds/keil/Amiccom/A8107M.svd
+	tmp/svds/keil/Amiccom/A8137M.svd
+	tmp/svds/keil/AnalogDevices/ADuCM320.svd
+	tmp/svds/keil/AnalogDevices/ADuCM320i.svd
+	tmp/svds/keil/AnalogDevices/ADuCM322.svd
+	tmp/svds/keil/AnalogDevices/ADuCM360.svd
+	tmp/svds/keil/AnalogDevices/ADuCM361.svd
+	tmp/svds/keil/AnalogDevices/ADuCM410.svd
+	tmp/svds/keil/Brainchip/AKD1000.svd
+	tmp/svds/keil/Cmsemicon/CMS32C020.svd
+	tmp/svds/keil/Cmsemicon/CMS32C030.svd
+	tmp/svds/keil/Cmsemicon/CMS32F030.svd
+	tmp/svds/keil/Cmsemicon/CMS32F0301.svd
+	tmp/svds/keil/Cmsemicon/CMS32F033.svd
+	tmp/svds/keil/Cmsemicon/CMS32F0332.svd
+	tmp/svds/keil/Cmsemicon/CMS32F035.svd
+	tmp/svds/keil/Cmsemicon/CMS32F759xx_737xx.svd
+	tmp/svds/keil/Cmsemicon/CMS32M53xx.svd
+	tmp/svds/keil/Cmsemicon/CMS32M55xx.svd
+	tmp/svds/keil/Cmsemicon/CMS32M57xx.svd
+	tmp/svds/keil/Cmsemicon/CMS32M6510.svd
+	tmp/svds/keil/Cmsemicon/CMS32M67xx.svd
+	tmp/svds/keil/Cmsemicon/CMS32MEBIKE.svd
+	tmp/svds/keil/DialogSemiconductor/DA14531.svd
+	tmp/svds/keil/DialogSemiconductor/DA1453x.xml
+	tmp/svds/keil/DialogSemiconductor/DA14580.svd
+	tmp/svds/keil/DialogSemiconductor/DA14581.svd
+	tmp/svds/keil/DialogSemiconductor/DA14582.svd
+	tmp/svds/keil/DialogSemiconductor/DA14583.svd
+	tmp/svds/keil/DialogSemiconductor/DA14585.svd
+	tmp/svds/keil/DialogSemiconductor/DA14585.xml
+	tmp/svds/keil/DialogSemiconductor/DA14586.svd
+	tmp/svds/keil/DialogSemiconductor/DA14586.xml
+	tmp/svds/keil/DialogSemiconductor/DA14680.svd
+	tmp/svds/keil/DialogSemiconductor/DA14681.svd
+	tmp/svds/keil/DialogSemiconductor/DA14682.svd
+	tmp/svds/keil/DialogSemiconductor/DA14683.svd
+	tmp/svds/keil/DialogSemiconductor/da1470x.svd
+	tmp/svds/keil/FMD/FT32F072x.svd
+	tmp/svds/keil/FMD/FT32F0xB.svd
+	tmp/svds/keil/FMD/FT32F0xx.svd
+	tmp/svds/keil/FMD/FT32F103xx.svd
+	tmp/svds/keil/Geehy/BMP561.svd
+	tmp/svds/keil/GigaDevice/GD32C10x.svd
+	tmp/svds/keil/GigaDevice/GD32E10x.svd
+	tmp/svds/keil/GigaDevice/GD32E508.svd
+	tmp/svds/keil/GigaDevice/GD32E50x_CL.svd
+	tmp/svds/keil/GigaDevice/GD32E50x_HD.svd
+	tmp/svds/keil/GigaDevice/GD32F10x_CL.svd
+	tmp/svds/keil/GigaDevice/GD32F10x_HD.svd
+	tmp/svds/keil/GigaDevice/GD32F10x_MD.svd
+	tmp/svds/keil/GigaDevice/GD32F10x_XD.svd
+	tmp/svds/keil/GigaDevice/GD32F1x0.svd
+	tmp/svds/keil/GigaDevice/GD32F20x_CL.svd
+	tmp/svds/keil/GigaDevice/GD32F30x_CL.svd
+	tmp/svds/keil/GigaDevice/GD32F30x_HD.svd
+	tmp/svds/keil/GigaDevice/GD32F30x_XD.svd
+	tmp/svds/keil/GigaDevice/GD32F3x0.svd
+	tmp/svds/keil/GigaDevice/GD32F403.svd
+	tmp/svds/keil/GigaDevice/GD32F4xx.svd
+	tmp/svds/keil/GigaDevice/GD32W515Px.svd
+	tmp/svds/keil/GigaDevice/GD32W515Tx.svd
+	tmp/svds/keil/HDSC/HC32F334.svd
+	tmp/svds/keil/HDSC/HC32F334J8TI.svd
+	tmp/svds/keil/HDSC/HC32F334J8UI.svd
+	tmp/svds/keil/HDSC/HC32F334JATI.svd
+	tmp/svds/keil/HDSC/HC32F334JAUI.svd
+	tmp/svds/keil/HDSC/HC32F334K8TI.svd
+	tmp/svds/keil/HDSC/HC32F334KATI.svd
+	tmp/svds/keil/HDSC/HC32F448.svd
+	tmp/svds/keil/HDSC/HC32F448FAUI.svd
+	tmp/svds/keil/HDSC/HC32F448FCUI.svd
+	tmp/svds/keil/HDSC/HC32F448JATI.svd
+	tmp/svds/keil/HDSC/HC32F448JAUI.svd
+	tmp/svds/keil/HDSC/HC32F448JCTI.svd
+	tmp/svds/keil/HDSC/HC32F448JCUI.svd
+	tmp/svds/keil/HDSC/HC32F448KATI.svd
+	tmp/svds/keil/HDSC/HC32F448KCTI.svd
+	tmp/svds/keil/HDSC/HC32F448MATI.svd
+	tmp/svds/keil/HDSC/HC32F448MCTI.svd
+	tmp/svds/keil/HDSC/HC32F451.svd
+	tmp/svds/keil/HDSC/HC32F451JEUB.svd
+	tmp/svds/keil/HDSC/HC32F451KETB.svd
+	tmp/svds/keil/HDSC/HC32F451PETB.svd
+	tmp/svds/keil/HDSC/HC32F452.svd
+	tmp/svds/keil/HDSC/HC32F452JEUB.svd
+	tmp/svds/keil/HDSC/HC32F452KETB.svd
+	tmp/svds/keil/HDSC/HC32F452PETB.svd
+	tmp/svds/keil/HDSC/HC32F460.svd
+	tmp/svds/keil/HDSC/HC32F460JCTA.svd
+	tmp/svds/keil/HDSC/HC32F460JETA.svd
+	tmp/svds/keil/HDSC/HC32F460JEUA.svd
+	tmp/svds/keil/HDSC/HC32F460KCTA.svd
+	tmp/svds/keil/HDSC/HC32F460KETA.svd
+	tmp/svds/keil/HDSC/HC32F460KEUA.svd
+	tmp/svds/keil/HDSC/HC32F460PCTB.svd
+	tmp/svds/keil/HDSC/HC32F460PEHB.svd
+	tmp/svds/keil/HDSC/HC32F460PETB.svd
+	tmp/svds/keil/HDSC/HC32F4A0.svd
+	tmp/svds/keil/HDSC/HC32F4A0PGHB.svd
+	tmp/svds/keil/HDSC/HC32F4A0PGTB.svd
+	tmp/svds/keil/HDSC/HC32F4A0PIHB.svd
+	tmp/svds/keil/HDSC/HC32F4A0PITB.svd
+	tmp/svds/keil/HDSC/HC32F4A0RGTB.svd
+	tmp/svds/keil/HDSC/HC32F4A0RITB.svd
+	tmp/svds/keil/HDSC/HC32F4A0SGHB.svd
+	tmp/svds/keil/HDSC/HC32F4A0SGTB.svd
+	tmp/svds/keil/HDSC/HC32F4A0SIHB.svd
+	tmp/svds/keil/HDSC/HC32F4A0SITB.svd
+	tmp/svds/keil/HDSC/HC32F4A0TIHB.svd
+	tmp/svds/keil/Holtek/HT32F490x1.svd
+	tmp/svds/keil/Holtek/HT32F491x3.svd
+	tmp/svds/keil/Holtek/HT32F493x5.svd
+	tmp/svds/keil/Infineon/IMC300A.svd
+	tmp/svds/keil/Infineon/IMM100A.svd
+	tmp/svds/keil/Infineon/TLE984x.svd
+	tmp/svds/keil/Infineon/TLE985x.svd
+	tmp/svds/keil/Infineon/cat1c4m.svd
+	tmp/svds/keil/Infineon/cat1c8m.svd
+	tmp/svds/keil/Infineon/ccg6df_cfp.svd
+	tmp/svds/keil/Infineon/ccg7d.svd
+	tmp/svds/keil/Infineon/ccg7s.svd
+	tmp/svds/keil/Infineon/cyw20829.svd
+	tmp/svds/keil/Infineon/fx3g2.svd
+	tmp/svds/keil/Infineon/pag2s.svd
+	tmp/svds/keil/Infineon/pmg1b2.svd
+	tmp/svds/keil/Infineon/pmg1s0.svd
+	tmp/svds/keil/Infineon/pmg1s1.svd
+	tmp/svds/keil/Infineon/pmg1s2.svd
+	tmp/svds/keil/Infineon/pmg1s3.svd
+	tmp/svds/keil/Infineon/psc3.svd
+	tmp/svds/keil/Infineon/pse84.svd
+	tmp/svds/keil/Infineon/psoc4000s.svd
+	tmp/svds/keil/Infineon/psoc4000t.svd
+	tmp/svds/keil/Infineon/psoc4100s.svd
+	tmp/svds/keil/Infineon/psoc4100smax.svd
+	tmp/svds/keil/Infineon/psoc4100sp.svd
+	tmp/svds/keil/Infineon/psoc4100sp256kb.svd
+	tmp/svds/keil/Infineon/psoc4100tp.svd
+	tmp/svds/keil/Infineon/psoc4hv144k.svd
+	tmp/svds/keil/Infineon/psoc4hvms128k.svd
+	tmp/svds/keil/Infineon/psoc4hvms64k.svd
+	tmp/svds/keil/Infineon/psoc6_01.svd
+	tmp/svds/keil/Infineon/psoc6_02.svd
+	tmp/svds/keil/Infineon/psoc6_03.svd
+	tmp/svds/keil/Infineon/psoc6_04.svd
+	tmp/svds/keil/Infineon/tviibe1m.svd
+	tmp/svds/keil/Infineon/tviibe2m.svd
+	tmp/svds/keil/Infineon/tviibe4m.svd
+	tmp/svds/keil/Infineon/tviic2d4m.svd
+	tmp/svds/keil/Infineon/tviic2d6m.svd
+	tmp/svds/keil/Keil/BlueNRG_LP.svd
+	tmp/svds/keil/Keil/BlueNRG_LPS.svd
+	tmp/svds/keil/Keil/CMSDK_CM0.svd
+	tmp/svds/keil/Keil/CMSDK_CM0plus.svd
+	tmp/svds/keil/Keil/CMSDK_CM3.svd
+	tmp/svds/keil/Keil/CMSDK_CM4.svd
+	tmp/svds/keil/Keil/CMSDK_CM4_FP.svd
+	tmp/svds/keil/Keil/CMSDK_CM7.svd
+	tmp/svds/keil/Keil/CMSDK_CM7_DP.svd
+	tmp/svds/keil/Keil/CMSDK_CM7_SP.svd
+	tmp/svds/keil/Keil/DS_CM3.svd
+	tmp/svds/keil/Keil/EFR32BG1B132F128GJ43.svd
+	tmp/svds/keil/Keil/EFR32BG1B132F128GM32.svd
+	tmp/svds/keil/Keil/EFR32BG1B132F128GM48.svd
+	tmp/svds/keil/Keil/EFR32BG1B132F256GJ43.svd
+	tmp/svds/keil/Keil/EFR32BG1B132F256GM32.svd
+	tmp/svds/keil/Keil/EFR32BG1B132F256GM48.svd
+	tmp/svds/keil/Keil/EFR32BG1B132F256GM56.svd
+	tmp/svds/keil/Keil/EFR32BG1B132F256IM32.svd
+	tmp/svds/keil/Keil/EFR32BG1B232F128GJ43.svd
+	tmp/svds/keil/Keil/EFR32BG1B232F128GM32.svd
+	tmp/svds/keil/Keil/EFR32BG1B232F128GM48.svd
+	tmp/svds/keil/Keil/EFR32BG1B232F256GJ43.svd
+	tmp/svds/keil/Keil/EFR32BG1B232F256GM32.svd
+	tmp/svds/keil/Keil/EFR32BG1B232F256GM48.svd
+	tmp/svds/keil/Keil/EFR32BG1B232F256GM56.svd
+	tmp/svds/keil/Keil/EFR32BG1B232F256IM32.svd
+	tmp/svds/keil/Keil/EFR32BG1P232F256GJ43.svd
+	tmp/svds/keil/Keil/EFR32BG1P232F256GM32.svd
+	tmp/svds/keil/Keil/EFR32BG1P232F256GM48.svd
+	tmp/svds/keil/Keil/EFR32BG1P233F256GM48.svd
+	tmp/svds/keil/Keil/EFR32BG1P332F256GJ43.svd
+	tmp/svds/keil/Keil/EFR32BG1P332F256GM32.svd
+	tmp/svds/keil/Keil/EFR32BG1P332F256GM48.svd
+	tmp/svds/keil/Keil/EFR32BG1P333F256GM48.svd
+	tmp/svds/keil/Keil/EFR32BG1P333F256IM48.svd
+	tmp/svds/keil/Keil/EFR32BG1V132F128GJ43.svd
+	tmp/svds/keil/Keil/EFR32BG1V132F128GM32.svd
+	tmp/svds/keil/Keil/EFR32BG1V132F128GM48.svd
+	tmp/svds/keil/Keil/EFR32BG1V132F256GJ43.svd
+	tmp/svds/keil/Keil/EFR32BG1V132F256GM32.svd
+	tmp/svds/keil/Keil/EFR32BG1V132F256GM48.svd
+	tmp/svds/keil/Keil/EFR32BG1V132F256IM32.svd
+	tmp/svds/keil/Keil/IOTKit_ARMv8MBL.svd
+	tmp/svds/keil/Keil/IOTKit_ARMv8MML.svd
+	tmp/svds/keil/Keil/IOTKit_CM23.svd
+	tmp/svds/keil/Keil/IOTKit_CM33.svd
+	tmp/svds/keil/Keil/K32W032S1M2_cm0plus.svd
+	tmp/svds/keil/Keil/K32W032S1M2_cm4.svd
+	tmp/svds/keil/Keil/LPC408x_7x.svd
+	tmp/svds/keil/Keil/MB9B160L.svd
+	tmp/svds/keil/Keil/MB9B160R.svd
+	tmp/svds/keil/Keil/MB9B360L.svd
+	tmp/svds/keil/Keil/MB9B360R.svd
+	tmp/svds/keil/Keil/MB9B460L.svd
+	tmp/svds/keil/Keil/MB9B460R.svd
+	tmp/svds/keil/Keil/MB9B560L.svd
+	tmp/svds/keil/Keil/MB9B560R.svd
+	tmp/svds/keil/Keil/MCIMX6V2.svd
+	tmp/svds/keil/Keil/MCIMX6V7.svd
+	tmp/svds/keil/Keil/MCIMX6Y0.svd
+	tmp/svds/keil/Keil/MCIMX6Y1.svd
+	tmp/svds/keil/Keil/MCIMX6Y2.svd
+	tmp/svds/keil/Keil/MCIMX6Y7.svd
+	tmp/svds/keil/Keil/MCIMX7D2_A7.svd
+	tmp/svds/keil/Keil/MCIMX7D2_M4.svd
+	tmp/svds/keil/Keil/MCIMX7D3_A7.svd
+	tmp/svds/keil/Keil/MCIMX7D3_M4.svd
+	tmp/svds/keil/Keil/MCIMX7D5_A7.svd
+	tmp/svds/keil/Keil/MCIMX7D5_M4.svd
+	tmp/svds/keil/Keil/MCIMX7D7_A7.svd
+	tmp/svds/keil/Keil/MCIMX7D7_M4.svd
+	tmp/svds/keil/Keil/MCIMX7S3_A7.svd
+	tmp/svds/keil/Keil/MCIMX7S3_M4.svd
+	tmp/svds/keil/Keil/MCIMX7S5_A7.svd
+	tmp/svds/keil/Keil/MCIMX7S5_M4.svd
+	tmp/svds/keil/Keil/MCIMX7U3_A7.svd
+	tmp/svds/keil/Keil/MCIMX7U3_M4.svd
+	tmp/svds/keil/Keil/MCIMX7U5_A7.svd
+	tmp/svds/keil/Keil/MCIMX7U5_M4.svd
+	tmp/svds/keil/Keil/MKV10Z1287.svd
+	tmp/svds/keil/Keil/MKV10Z7.svd
+	tmp/svds/keil/Keil/S6E2C1.svd
+	tmp/svds/keil/Keil/S6E2C2.svd
+	tmp/svds/keil/Keil/S6E2C3.svd
+	tmp/svds/keil/Keil/S6E2C4.svd
+	tmp/svds/keil/Keil/S6E2C5.svd
+	tmp/svds/keil/Keil/S6E2CC.svd
+	tmp/svds/keil/Keil/S6E2D3.svd
+	tmp/svds/keil/Keil/S6E2D5.svd
+	tmp/svds/keil/Keil/S6E2DF.svd
+	tmp/svds/keil/Keil/S6E2DH.svd
+	tmp/svds/keil/Keil/STM32C011.svd
+	tmp/svds/keil/Keil/STM32C031.svd
+	tmp/svds/keil/Keil/STM32C051.svd
+	tmp/svds/keil/Keil/STM32C071.svd
+	tmp/svds/keil/Keil/STM32C091.svd
+	tmp/svds/keil/Keil/STM32C092.svd
+	tmp/svds/keil/Keil/STM32F030.svd
+	tmp/svds/keil/Keil/STM32F031x.svd
+	tmp/svds/keil/Keil/STM32F042x.svd
+	tmp/svds/keil/Keil/STM32F072x.svd
+	tmp/svds/keil/Keil/STM32F091x.svd
+	tmp/svds/keil/Keil/STM32F0x0.svd
+	tmp/svds/keil/Keil/STM32F0x1.svd
+	tmp/svds/keil/Keil/STM32F0x2.svd
+	tmp/svds/keil/Keil/STM32F0x8.svd
+	tmp/svds/keil/Keil/STM32F0xx.svd
+	tmp/svds/keil/Keil/STM32F100xx.svd
+	tmp/svds/keil/Keil/STM32F101xx.svd
+	tmp/svds/keil/Keil/STM32F102xx.svd
+	tmp/svds/keil/Keil/STM32F103xx.svd
+	tmp/svds/keil/Keil/STM32F105xx.svd
+	tmp/svds/keil/Keil/STM32F107xx.svd
+	tmp/svds/keil/Keil/STM32F205.svd
+	tmp/svds/keil/Keil/STM32F207.svd
+	tmp/svds/keil/Keil/STM32F20x.svd
+	tmp/svds/keil/Keil/STM32F215.svd
+	tmp/svds/keil/Keil/STM32F217.svd
+	tmp/svds/keil/Keil/STM32F301.svd
+	tmp/svds/keil/Keil/STM32F302.svd
+	tmp/svds/keil/Keil/STM32F303.svd
+	tmp/svds/keil/Keil/STM32F373.svd
+	tmp/svds/keil/Keil/STM32F3x4.svd
+	tmp/svds/keil/Keil/STM32F3x8.svd
+	tmp/svds/keil/Keil/STM32F401.svd
+	tmp/svds/keil/Keil/STM32F405.svd
+	tmp/svds/keil/Keil/STM32F407.svd
+	tmp/svds/keil/Keil/STM32F410.svd
+	tmp/svds/keil/Keil/STM32F411.svd
+	tmp/svds/keil/Keil/STM32F412.svd
+	tmp/svds/keil/Keil/STM32F413.svd
+	tmp/svds/keil/Keil/STM32F415.svd
+	tmp/svds/keil/Keil/STM32F417.svd
+	tmp/svds/keil/Keil/STM32F423.svd
+	tmp/svds/keil/Keil/STM32F427.svd
+	tmp/svds/keil/Keil/STM32F429.svd
+	tmp/svds/keil/Keil/STM32F437.svd
+	tmp/svds/keil/Keil/STM32F439.svd
+	tmp/svds/keil/Keil/STM32F446.svd
+	tmp/svds/keil/Keil/STM32F469.svd
+	tmp/svds/keil/Keil/STM32F479.svd
+	tmp/svds/keil/Keil/STM32F722.svd
+	tmp/svds/keil/Keil/STM32F723.svd
+	tmp/svds/keil/Keil/STM32F730.svd
+	tmp/svds/keil/Keil/STM32F732.svd
+	tmp/svds/keil/Keil/STM32F733.svd
+	tmp/svds/keil/Keil/STM32F745.svd
+	tmp/svds/keil/Keil/STM32F746.svd
+	tmp/svds/keil/Keil/STM32F750.svd
+	tmp/svds/keil/Keil/STM32F756.svd
+	tmp/svds/keil/Keil/STM32F765.svd
+	tmp/svds/keil/Keil/STM32F767.svd
+	tmp/svds/keil/Keil/STM32F768.svd
+	tmp/svds/keil/Keil/STM32F769.svd
+	tmp/svds/keil/Keil/STM32F777.svd
+	tmp/svds/keil/Keil/STM32F778.svd
+	tmp/svds/keil/Keil/STM32F779.svd
+	tmp/svds/keil/Keil/STM32G030.svd
+	tmp/svds/keil/Keil/STM32G031.svd
+	tmp/svds/keil/Keil/STM32G041.svd
+	tmp/svds/keil/Keil/STM32G050.svd
+	tmp/svds/keil/Keil/STM32G051.svd
+	tmp/svds/keil/Keil/STM32G061.svd
+	tmp/svds/keil/Keil/STM32G070.svd
+	tmp/svds/keil/Keil/STM32G071.svd
+	tmp/svds/keil/Keil/STM32G081.svd
+	tmp/svds/keil/Keil/STM32G0B0.svd
+	tmp/svds/keil/Keil/STM32G0B1.svd
+	tmp/svds/keil/Keil/STM32G0C1.svd
+	tmp/svds/keil/Keil/STM32G431.svd
+	tmp/svds/keil/Keil/STM32G441.svd
+	tmp/svds/keil/Keil/STM32G471.svd
+	tmp/svds/keil/Keil/STM32G473.svd
+	tmp/svds/keil/Keil/STM32G474.svd
+	tmp/svds/keil/Keil/STM32G483.svd
+	tmp/svds/keil/Keil/STM32G484.svd
+	tmp/svds/keil/Keil/STM32G491.svd
+	tmp/svds/keil/Keil/STM32G4A1.svd
+	tmp/svds/keil/Keil/STM32H503.svd
+	tmp/svds/keil/Keil/STM32H523.svd
+	tmp/svds/keil/Keil/STM32H533.svd
+	tmp/svds/keil/Keil/STM32H562.svd
+	tmp/svds/keil/Keil/STM32H563.svd
+	tmp/svds/keil/Keil/STM32H573.svd
+	tmp/svds/keil/Keil/STM32H723.svd
+	tmp/svds/keil/Keil/STM32H725.svd
+	tmp/svds/keil/Keil/STM32H730.svd
+	tmp/svds/keil/Keil/STM32H733.svd
+	tmp/svds/keil/Keil/STM32H735.svd
+	tmp/svds/keil/Keil/STM32H73x.svd
+	tmp/svds/keil/Keil/STM32H742.svd
+	tmp/svds/keil/Keil/STM32H743.svd
+	tmp/svds/keil/Keil/STM32H745_CM4.svd
+	tmp/svds/keil/Keil/STM32H745_CM7.svd
+	tmp/svds/keil/Keil/STM32H747_CM4.svd
+	tmp/svds/keil/Keil/STM32H747_CM7.svd
+	tmp/svds/keil/Keil/STM32H750.svd
+	tmp/svds/keil/Keil/STM32H753.svd
+	tmp/svds/keil/Keil/STM32H755_CM4.svd
+	tmp/svds/keil/Keil/STM32H755_CM7.svd
+	tmp/svds/keil/Keil/STM32H757_CM4.svd
+	tmp/svds/keil/Keil/STM32H757_CM7.svd
+	tmp/svds/keil/Keil/STM32H7A3.svd
+	tmp/svds/keil/Keil/STM32H7B0.svd
+	tmp/svds/keil/Keil/STM32H7B3.svd
+	tmp/svds/keil/Keil/STM32H7R.svd
+	tmp/svds/keil/Keil/STM32H7S.svd
+	tmp/svds/keil/Keil/STM32L100.svd
+	tmp/svds/keil/Keil/STM32L151.svd
+	tmp/svds/keil/Keil/STM32L152.svd
+	tmp/svds/keil/Keil/STM32L15xC.svd
+	tmp/svds/keil/Keil/STM32L15xxxA.svd
+	tmp/svds/keil/Keil/STM32L162.svd
+	tmp/svds/keil/Keil/STM32L1xx.svd
+	tmp/svds/keil/Keil/STM32L412.svd
+	tmp/svds/keil/Keil/STM32L476.svd
+	tmp/svds/keil/Keil/STM32L496.svd
+	tmp/svds/keil/Keil/STM32L4x1.svd
+	tmp/svds/keil/Keil/STM32L4x2.svd
+	tmp/svds/keil/Keil/STM32L4x3.svd
+	tmp/svds/keil/Keil/STM32L4x5.svd
+	tmp/svds/keil/Keil/STM32L4x6.svd
+	tmp/svds/keil/Keil/STM32L552.svd
+	tmp/svds/keil/Keil/STM32L562.svd
+	tmp/svds/keil/Keil/STM32N645.svd
+	tmp/svds/keil/Keil/STM32N647.svd
+	tmp/svds/keil/Keil/STM32N655.svd
+	tmp/svds/keil/Keil/STM32N657.svd
+	tmp/svds/keil/Keil/STM32U031.svd
+	tmp/svds/keil/Keil/STM32U073.svd
+	tmp/svds/keil/Keil/STM32U083.svd
+	tmp/svds/keil/Keil/STM32U3.svd
+	tmp/svds/keil/Keil/STM32U535.svd
+	tmp/svds/keil/Keil/STM32U545.svd
+	tmp/svds/keil/Keil/STM32U575.svd
+	tmp/svds/keil/Keil/STM32U585.svd
+	tmp/svds/keil/Keil/STM32U595.svd
+	tmp/svds/keil/Keil/STM32U599.svd
+	tmp/svds/keil/Keil/STM32U5A5.svd
+	tmp/svds/keil/Keil/STM32U5A9.svd
+	tmp/svds/keil/Keil/STM32U5F7.svd
+	tmp/svds/keil/Keil/STM32U5F9.svd
+	tmp/svds/keil/Keil/STM32U5Fx.svd
+	tmp/svds/keil/Keil/STM32U5G7.svd
+	tmp/svds/keil/Keil/STM32U5G9.svd
+	tmp/svds/keil/Keil/STM32U5Gx.svd
+	tmp/svds/keil/Keil/STM32U5xx.svd
+	tmp/svds/keil/Keil/STM32WB10_CM4.svd
+	tmp/svds/keil/Keil/STM32WB15_CM4.svd
+	tmp/svds/keil/Keil/STM32WB30_CM4.svd
+	tmp/svds/keil/Keil/STM32WB35_CM4.svd
+	tmp/svds/keil/Keil/STM32WB50_CM4.svd
+	tmp/svds/keil/Keil/STM32WB55_CM0P.svd
+	tmp/svds/keil/Keil/STM32WB55_CM4.svd
+	tmp/svds/keil/Keil/STM32WBA50.svd
+	tmp/svds/keil/Keil/STM32WBA52.svd
+	tmp/svds/keil/Keil/STM32WBA54.svd
+	tmp/svds/keil/Keil/STM32WBA55.svd
+	tmp/svds/keil/Keil/STM32WBA62.svd
+	tmp/svds/keil/Keil/STM32WBA63.svd
+	tmp/svds/keil/Keil/STM32WBA64.svd
+	tmp/svds/keil/Keil/STM32WBA65.svd
+	tmp/svds/keil/Keil/STM32WL30.svd
+	tmp/svds/keil/Keil/STM32WL31.svd
+	tmp/svds/keil/Keil/STM32WL33.svd
+	tmp/svds/keil/Keil/STM32WL3R.svd
+	tmp/svds/keil/Keil/STM32WL5x_CM0P.svd
+	tmp/svds/keil/Keil/STM32WL5x_CM4.svd
+	tmp/svds/keil/Keil/STM32WLE5_CM4.svd
+	tmp/svds/keil/Keil/TM4C1230C3PM.svd
+	tmp/svds/keil/Keil/TM4C1230D5PM.svd
+	tmp/svds/keil/Keil/TM4C1230E6PM.svd
+	tmp/svds/keil/Keil/TM4C1230H6PM.svd
+	tmp/svds/keil/Keil/TM4C1231C3PM.svd
+	tmp/svds/keil/Keil/TM4C1231D5PM.svd
+	tmp/svds/keil/Keil/TM4C1231D5PZ.svd
+	tmp/svds/keil/Keil/TM4C1231E6PM.svd
+	tmp/svds/keil/Keil/TM4C1231E6PZ.svd
+	tmp/svds/keil/Keil/TM4C1231H6PGE.svd
+	tmp/svds/keil/Keil/TM4C1231H6PM.svd
+	tmp/svds/keil/Keil/TM4C1231H6PZ.svd
+	tmp/svds/keil/Keil/TM4C1232C3PM.svd
+	tmp/svds/keil/Keil/TM4C1232D5PM.svd
+	tmp/svds/keil/Keil/TM4C1232E6PM.svd
+	tmp/svds/keil/Keil/TM4C1232H6PM.svd
+	tmp/svds/keil/Keil/TM4C1233C3PM.svd
+	tmp/svds/keil/Keil/TM4C1233D5PM.svd
+	tmp/svds/keil/Keil/TM4C1233D5PZ.svd
+	tmp/svds/keil/Keil/TM4C1233E6PM.svd
+	tmp/svds/keil/Keil/TM4C1233E6PZ.svd
+	tmp/svds/keil/Keil/TM4C1233H6PGE.svd
+	tmp/svds/keil/Keil/TM4C1233H6PM.svd
+	tmp/svds/keil/Keil/TM4C1233H6PZ.svd
+	tmp/svds/keil/Keil/TM4C1236D5PM.svd
+	tmp/svds/keil/Keil/TM4C1236E6PM.svd
+	tmp/svds/keil/Keil/TM4C1236H6PM.svd
+	tmp/svds/keil/Keil/TM4C1237D5PM.svd
+	tmp/svds/keil/Keil/TM4C1237D5PZ.svd
+	tmp/svds/keil/Keil/TM4C1237E6PM.svd
+	tmp/svds/keil/Keil/TM4C1237E6PZ.svd
+	tmp/svds/keil/Keil/TM4C1237H6PGE.svd
+	tmp/svds/keil/Keil/TM4C1237H6PM.svd
+	tmp/svds/keil/Keil/TM4C1237H6PZ.svd
+	tmp/svds/keil/Keil/TM4C123AE6PM.svd
+	tmp/svds/keil/Keil/TM4C123AH6PM.svd
+	tmp/svds/keil/Keil/TM4C123BE6PM.svd
+	tmp/svds/keil/Keil/TM4C123BE6PZ.svd
+	tmp/svds/keil/Keil/TM4C123BH6PGE.svd
+	tmp/svds/keil/Keil/TM4C123BH6PM.svd
+	tmp/svds/keil/Keil/TM4C123BH6PZ.svd
+	tmp/svds/keil/Keil/TM4C123BH6ZRB.svd
+	tmp/svds/keil/Keil/TM4C123FE6PM.svd
+	tmp/svds/keil/Keil/TM4C123FH6PM.svd
+	tmp/svds/keil/Keil/TM4C123GE6PM.svd
+	tmp/svds/keil/Keil/TM4C123GE6PZ.svd
+	tmp/svds/keil/Keil/TM4C123GH6PGE.svd
+	tmp/svds/keil/Keil/TM4C123GH6PM.svd
+	tmp/svds/keil/Keil/TM4C123GH6PZ.svd
+	tmp/svds/keil/Keil/TM4C123GH6ZRB.svd
+	tmp/svds/keil/Keil/TM4C123GH6ZXR.svd
+	tmp/svds/keil/Keil/TM4C1290NCPDT.svd
+	tmp/svds/keil/Keil/TM4C1290NCZAD.svd
+	tmp/svds/keil/Keil/TM4C1292NCPDT.svd
+	tmp/svds/keil/Keil/TM4C1292NCZAD.svd
+	tmp/svds/keil/Keil/TM4C1294KCPDT.svd
+	tmp/svds/keil/Keil/TM4C1294NCPDT.svd
+	tmp/svds/keil/Keil/TM4C1294NCZAD.svd
+	tmp/svds/keil/Keil/TM4C1297NCZAD.svd
+	tmp/svds/keil/Keil/TM4C1299KCZAD.svd
+	tmp/svds/keil/Keil/TM4C1299NCZAD.svd
+	tmp/svds/keil/Keil/TM4C129CNCPDT.svd
+	tmp/svds/keil/Keil/TM4C129CNCZAD.svd
+	tmp/svds/keil/Keil/TM4C129DNCPDT.svd
+	tmp/svds/keil/Keil/TM4C129DNCZAD.svd
+	tmp/svds/keil/Keil/TM4C129EKCPDT.svd
+	tmp/svds/keil/Keil/TM4C129ENCPDT.svd
+	tmp/svds/keil/Keil/TM4C129ENCZAD.svd
+	tmp/svds/keil/Keil/TM4C129LNCZAD.svd
+	tmp/svds/keil/Keil/TM4C129XKCZAD.svd
+	tmp/svds/keil/Keil/TM4C129XNCZAD.svd
+	tmp/svds/keil/Keil/iMX6SX_M4.svd
+	tmp/svds/keil/Keil/iMX6UL.svd
+	tmp/svds/keil/Keil/lm4f210e5qr.svd
+	tmp/svds/keil/Keil/lm4f210h5qr.svd
+	tmp/svds/keil/Keil/lm4f211e5qr.svd
+	tmp/svds/keil/Keil/lm4f211h5qr.svd
+	tmp/svds/keil/Keil/lm4f212e5qc.svd
+	tmp/svds/keil/Keil/lm4f212h5bb.svd
+	tmp/svds/keil/Keil/lm4f212h5qc.svd
+	tmp/svds/keil/Keil/lm4f212h5qd.svd
+	tmp/svds/keil/Keil/lm4f232h5bb.svd
+	tmp/svds/keil/Keil/s6e2g2xh.svd
+	tmp/svds/keil/Keil/s6e2g2xj.svd
+	tmp/svds/keil/Keil/s6e2g3xh.svd
+	tmp/svds/keil/Keil/s6e2g3xj.svd
+	tmp/svds/keil/Keil/s6e2ghxh.svd
+	tmp/svds/keil/Keil/s6e2ghxj.svd
+	tmp/svds/keil/Keil/s6e2gkxh.svd
+	tmp/svds/keil/Keil/s6e2gkxj.svd
+	tmp/svds/keil/Keil/s6e2gmxh.svd
+	tmp/svds/keil/Keil/s6e2gmxj.svd
+	tmp/svds/keil/Keil/s6e2h1xe.svd
+	tmp/svds/keil/Keil/s6e2h1xf.svd
+	tmp/svds/keil/Keil/s6e2h1xg.svd
+	tmp/svds/keil/Keil/s6e2h4xe.svd
+	tmp/svds/keil/Keil/s6e2h4xf.svd
+	tmp/svds/keil/Keil/s6e2h4xg.svd
+	tmp/svds/keil/Keil/s6e2hexe.svd
+	tmp/svds/keil/Keil/s6e2hexf.svd
+	tmp/svds/keil/Keil/s6e2hexg.svd
+	tmp/svds/keil/Keil/s6e2hgxe.svd
+	tmp/svds/keil/Keil/s6e2hgxf.svd
+	tmp/svds/keil/Keil/s6e2hgxg.svd
+	tmp/svds/keil/Maxim/max32520.svd
+	tmp/svds/keil/Maxim/max32620.svd
+	tmp/svds/keil/Maxim/max32625.svd
+	tmp/svds/keil/Maxim/max32630.svd
+	tmp/svds/keil/Maxim/max3263x.svd
+	tmp/svds/keil/Maxim/max32655.svd
+	tmp/svds/keil/Maxim/max32660.svd
+	tmp/svds/keil/Maxim/max32662.svd
+	tmp/svds/keil/Maxim/max32670.svd
+	tmp/svds/keil/Maxim/max32672.svd
+	tmp/svds/keil/Maxim/max32675.svd
+	tmp/svds/keil/Maxim/max32680.svd
+	tmp/svds/keil/Maxim/max78002.svd
+	tmp/svds/keil/Maxim/nrf51.svd
+	tmp/svds/keil/Maxim/nrf52.svd
+	tmp/svds/keil/Maxim/nrf52805.svd
+	tmp/svds/keil/Maxim/nrf52810.svd
+	tmp/svds/keil/Maxim/nrf52811.svd
+	tmp/svds/keil/Maxim/nrf52833.svd
+	tmp/svds/keil/Maxim/nrf52840.svd
+	tmp/svds/keil/Maxim/nrf9160.svd
+	tmp/svds/keil/Megawin/MG32__SVD.svd
+	tmp/svds/keil/Microchip/ATSAMD10C13A.svd
+	tmp/svds/keil/Microchip/ATSAMD10C14A.svd
+	tmp/svds/keil/Microchip/ATSAMD10D13AM.svd
+	tmp/svds/keil/Microchip/ATSAMD10D13AS.svd
+	tmp/svds/keil/Microchip/ATSAMD10D14AM.svd
+	tmp/svds/keil/Microchip/ATSAMD10D14AS.svd
+	tmp/svds/keil/Microchip/ATSAMD10D14AU.svd
+	tmp/svds/keil/Microchip/ATSAML21E15B.svd
+	tmp/svds/keil/Microchip/ATSAML21E16B.svd
+	tmp/svds/keil/Microchip/ATSAML21E17B.svd
+	tmp/svds/keil/Microchip/ATSAML21E18A.svd
+	tmp/svds/keil/Microchip/ATSAML21E18B.svd
+	tmp/svds/keil/Microchip/ATSAML21G16B.svd
+	tmp/svds/keil/Microchip/ATSAML21G17B.svd
+	tmp/svds/keil/Microchip/ATSAML21G18A.svd
+	tmp/svds/keil/Microchip/ATSAML21G18B.svd
+	tmp/svds/keil/Microchip/ATSAML21J16B.svd
+	tmp/svds/keil/Microchip/ATSAML21J17B.svd
+	tmp/svds/keil/Microchip/ATSAML21J17BU.svd
+	tmp/svds/keil/Microchip/ATSAML21J18A.svd
+	tmp/svds/keil/Microchip/ATSAML21J18B.svd
+	tmp/svds/keil/Microchip/ATSAML21J18BU.svd
+	tmp/svds/keil/Microchip/ATSAMR30E18A.svd
+	tmp/svds/keil/Microchip/ATSAMR30G18A.svd
+	tmp/svds/keil/Microsemi/M2Sxxx.svd
+	tmp/svds/keil/MindMotion/MM32F0010.svd
+	tmp/svds/keil/MindMotion/MM32F003.svd
+	tmp/svds/keil/MindMotion/MM32F0130.svd
+	tmp/svds/keil/MindMotion/MM32F0140.svd
+	tmp/svds/keil/MindMotion/MM32F0270.svd
+	tmp/svds/keil/MindMotion/MM32F031xxn.svd
+	tmp/svds/keil/MindMotion/MM32F031xxq.svd
+	tmp/svds/keil/MindMotion/MM32F032xx_s.svd
+	tmp/svds/keil/MindMotion/MM32F103x8xB.svd
+	tmp/svds/keil/MindMotion/MM32F103xCxE.svd
+	tmp/svds/keil/MindMotion/MM32F3270.svd
+	tmp/svds/keil/MindMotion/MM32L0xx_n.svd
+	tmp/svds/keil/MindMotion/MM32L0xx_q.svd
+	tmp/svds/keil/MindMotion/MM32L0xx_s.svd
+	tmp/svds/keil/MindMotion/MM32L3xx.svd
+	tmp/svds/keil/MindMotion/MM32P0xx.svd
+	tmp/svds/keil/MindMotion/MM32SPIN0280.svd
+	tmp/svds/keil/MindMotion/MM32SPIN05x_q.svd
+	tmp/svds/keil/MindMotion/MM32SPIN06x_s.svd
+	tmp/svds/keil/MindMotion/MM32SPIN2x.svd
+	tmp/svds/keil/MindMotion/MM32W0130.svd
+	tmp/svds/keil/MindMotion/MM32W05xBq.svd
+	tmp/svds/keil/MindMotion/MM32W06xBs.svd
+	tmp/svds/keil/MindMotion/MM32W07xBn.svd
+	tmp/svds/keil/MindMotion/MM32W3xx.svd
+	tmp/svds/keil/NSING/N32A455.svd
+	tmp/svds/keil/NSING/N32G003.svd
+	tmp/svds/keil/NSING/N32G031.svd
+	tmp/svds/keil/NSING/N32G032.svd
+	tmp/svds/keil/NSING/N32G05x.svd
+	tmp/svds/keil/NSING/N32G401.svd
+	tmp/svds/keil/NSING/N32G430.svd
+	tmp/svds/keil/NSING/N32G432.svd
+	tmp/svds/keil/NSING/N32G435.svd
+	tmp/svds/keil/NSING/N32G451.svd
+	tmp/svds/keil/NSING/N32G452.svd
+	tmp/svds/keil/NSING/N32G455.svd
+	tmp/svds/keil/NSING/N32G457.svd
+	tmp/svds/keil/NSING/N32G4FR.svd
+	tmp/svds/keil/NSING/N32H473.svd
+	tmp/svds/keil/NSING/N32H474.svd
+	tmp/svds/keil/NSING/N32H475.svd
+	tmp/svds/keil/NSING/N32H481.svd
+	tmp/svds/keil/NSING/N32H482.svd
+	tmp/svds/keil/NSING/N32H487.svd
+	tmp/svds/keil/NSING/N32L401.svd
+	tmp/svds/keil/NSING/N32L402.svd
+	tmp/svds/keil/NSING/N32L403.svd
+	tmp/svds/keil/NSING/N32L406.svd
+	tmp/svds/keil/NSING/N32L433.svd
+	tmp/svds/keil/NSING/N32L436.svd
+	tmp/svds/keil/NXP/LPC802.xml
+	tmp/svds/keil/NXP/LPC804.xml
+	tmp/svds/keil/NXP/LPC810.xml
+	tmp/svds/keil/NXP/LPC811.xml
+	tmp/svds/keil/NXP/LPC812.xml
+	tmp/svds/keil/NXP/LPC822.xml
+	tmp/svds/keil/NXP/LPC824.xml
+	tmp/svds/keil/NXP/LPC832.xml
+	tmp/svds/keil/NXP/LPC834.xml
+	tmp/svds/keil/NXP/LPC844.xml
+	tmp/svds/keil/NXP/LPC845.xml
+	tmp/svds/keil/NXP/LPC864.xml
+	tmp/svds/keil/NXP/LPC865.xml
+	tmp/svds/keil/NXP/LPC8N04.xml
+	tmp/svds/keil/NXP/MCXE245.xml
+	tmp/svds/keil/NXP/MCXE246.xml
+	tmp/svds/keil/NXP/MCXE247.xml
+	tmp/svds/keil/NXP/MCXE315.xml
+	tmp/svds/keil/NXP/MCXE316.xml
+	tmp/svds/keil/NXP/MCXE317.xml
+	tmp/svds/keil/NXP/MCXE31B.xml
+	tmp/svds/keil/NXP/MCXL253_cm0plus.xml
+	tmp/svds/keil/NXP/MCXL253_cm33.xml
+	tmp/svds/keil/NXP/MCXL254_cm0plus.xml
+	tmp/svds/keil/NXP/MCXL254_cm33.xml
+	tmp/svds/keil/NXP/MCXL255_cm0plus.xml
+	tmp/svds/keil/NXP/MCXL255_cm33.xml
+	tmp/svds/keil/NXP/MIMXRT1181.xml
+	tmp/svds/keil/NXP/MIMXRT1182.xml
+	tmp/svds/keil/NXP/MIMXRT1186_cm33.xml
+	tmp/svds/keil/NXP/MIMXRT1186_cm7.xml
+	tmp/svds/keil/NXP/MIMXRT1187_cm33.xml
+	tmp/svds/keil/NXP/MIMXRT1187_cm7.xml
+	tmp/svds/keil/NXP/MIMXRT1189_cm33.xml
+	tmp/svds/keil/NXP/MIMXRT1189_cm7.xml
+	tmp/svds/keil/NXP/MKE02Z4.xml
+	tmp/svds/keil/NXP/MKE04Z1284.xml
+	tmp/svds/keil/NXP/MKE04Z4.xml
+	tmp/svds/keil/NXP/MKE06Z4.xml
+	tmp/svds/keil/NXP/MKM14ZA5.xml
+	tmp/svds/keil/NXP/MKM33ZA5.xml
+	tmp/svds/keil/NXP/MKM34ZA5.xml
+	tmp/svds/keil/NXP/qn908XA.svd
+	tmp/svds/keil/NXP/qn908XB.svd
+	tmp/svds/keil/NXP/qn908XC.svd
+	tmp/svds/keil/Nuvoton/CM3031.svd
+	tmp/svds/keil/Nuvoton/I91500_v1.svd
+	tmp/svds/keil/Nuvoton/I94100_v1_3.svd
+	tmp/svds/keil/Nuvoton/I96100_v1.svd
+	tmp/svds/keil/Nuvoton/ISD91000_v4_2.svd
+	tmp/svds/keil/Nuvoton/ISD9100_v3.svd
+	tmp/svds/keil/Nuvoton/ISD91200B_v1.svd
+	tmp/svds/keil/Nuvoton/ISD91200_v1.svd
+	tmp/svds/keil/Nuvoton/KM1M0DF02.svd
+	tmp/svds/keil/Nuvoton/KM1M0DF03.svd
+	tmp/svds/keil/Nuvoton/KM1M0DF04.svd
+	tmp/svds/keil/Nuvoton/KM1M0DF13.svd
+	tmp/svds/keil/Nuvoton/KM1M0GF01.svd
+	tmp/svds/keil/Nuvoton/KM1M0GF01Y.svd
+	tmp/svds/keil/Nuvoton/KM1M0GF02.svd
+	tmp/svds/keil/Nuvoton/KM1M0GF02Y.svd
+	tmp/svds/keil/Nuvoton/KM1M0GF03.svd
+	tmp/svds/keil/Nuvoton/KM1M0GF03Y.svd
+	tmp/svds/keil/Nuvoton/KM1M0GF04.svd
+	tmp/svds/keil/Nuvoton/KM1M0GF04Y.svd
+	tmp/svds/keil/Nuvoton/KM1M0GF11.svd
+	tmp/svds/keil/Nuvoton/KM1M0GF11Y.svd
+	tmp/svds/keil/Nuvoton/KM1M0GF12.svd
+	tmp/svds/keil/Nuvoton/KM1M0GF12Y.svd
+	tmp/svds/keil/Nuvoton/KM1M0GF13.svd
+	tmp/svds/keil/Nuvoton/KM1M0GF13Y.svd
+	tmp/svds/keil/Nuvoton/KM1M0GF14.svd
+	tmp/svds/keil/Nuvoton/KM1M0GF14Y.svd
+	tmp/svds/keil/Nuvoton/KM1M4BF04.svd
+	tmp/svds/keil/Nuvoton/KM1M4BF54.svd
+	tmp/svds/keil/Nuvoton/KM1M4BF64.svd
+	tmp/svds/keil/Nuvoton/KM1M4BF65.svd
+	tmp/svds/keil/Nuvoton/KM1M4BF66.svd
+	tmp/svds/keil/Nuvoton/KM1M4BF67.svd
+	tmp/svds/keil/Nuvoton/KM1M7AF00x.svd
+	tmp/svds/keil/Nuvoton/KM1M7AF02x.svd
+	tmp/svds/keil/Nuvoton/KM1M7AF50x.svd
+	tmp/svds/keil/Nuvoton/KM1M7AF52x.svd
+	tmp/svds/keil/Nuvoton/KM1M7BF00x.svd
+	tmp/svds/keil/Nuvoton/KM1M7BF02x.svd
+	tmp/svds/keil/Nuvoton/KM1M7BF03x.svd
+	tmp/svds/keil/Nuvoton/KM1M7BF04x.svd
+	tmp/svds/keil/Nuvoton/KM1M7CF03.svd
+	tmp/svds/keil/Nuvoton/KM1M7CF04.svd
+	tmp/svds/keil/Nuvoton/KM1M7CF05.svd
+	tmp/svds/keil/Nuvoton/KM1M7CF06.svd
+	tmp/svds/keil/Nuvoton/KM1M7CF13.svd
+	tmp/svds/keil/Nuvoton/KM1M7CF14.svd
+	tmp/svds/keil/Nuvoton/KM1M7CF15.svd
+	tmp/svds/keil/Nuvoton/KM1M7CF16.svd
+	tmp/svds/keil/Nuvoton/M0518AE_v1.svd
+	tmp/svds/keil/Nuvoton/M0519AE_v1.svd
+	tmp/svds/keil/Nuvoton/M051AN_v1.svd
+	tmp/svds/keil/Nuvoton/M051BN_v1.svd
+	tmp/svds/keil/Nuvoton/M051DE_v1.svd
+	tmp/svds/keil/Nuvoton/M051DN_v1.svd
+	tmp/svds/keil/Nuvoton/M0564AE_v1.svd
+	tmp/svds/keil/Nuvoton/M058SAN_v1.svd
+	tmp/svds/keil/Nuvoton/M071M.svd
+	tmp/svds/keil/Nuvoton/M071Q_V.svd
+	tmp/svds/keil/Nuvoton/M071R_S.svd
+	tmp/svds/keil/Nuvoton/M0A86.svd
+	tmp/svds/keil/Nuvoton/M2L31.svd
+	tmp/svds/keil/Nuvoton/M3331.svd
+	tmp/svds/keil/Nuvoton/M433.svd
+	tmp/svds/keil/Nuvoton/M451_v1.svd
+	tmp/svds/keil/Nuvoton/M4521_v1.svd
+	tmp/svds/keil/Nuvoton/M460.svd
+	tmp/svds/keil/Nuvoton/M471.svd
+	tmp/svds/keil/Nuvoton/M471M_R1_S.svd
+	tmp/svds/keil/Nuvoton/M479_v1.svd
+	tmp/svds/keil/Nuvoton/M481_v1.svd
+	tmp/svds/keil/Nuvoton/MINI51AN_v1.svd
+	tmp/svds/keil/Nuvoton/MINI51DE_v1.svd
+	tmp/svds/keil/Nuvoton/MINI51XAE_v1.svd
+	tmp/svds/keil/Nuvoton/MINI57DE_v1.svd
+	tmp/svds/keil/Nuvoton/MINI58DE_v1.svd
+	tmp/svds/keil/Nuvoton/N32F030.svd
+	tmp/svds/keil/Nuvoton/N569J.svd
+	tmp/svds/keil/Nuvoton/N569S.svd
+	tmp/svds/keil/Nuvoton/N570F064_v4_2.svd
+	tmp/svds/keil/Nuvoton/N570H064.svd
+	tmp/svds/keil/Nuvoton/N570J_v1.svd
+	tmp/svds/keil/Nuvoton/N571P032_v3.svd
+	tmp/svds/keil/Nuvoton/N572F065_v3.svd
+	tmp/svds/keil/Nuvoton/N572F072_v3.svd
+	tmp/svds/keil/Nuvoton/N574F128_v4.svd
+	tmp/svds/keil/Nuvoton/N574F_v4.svd
+	tmp/svds/keil/Nuvoton/N575F145_v1.svd
+	tmp/svds/keil/Nuvoton/NANO100AN_v1.svd
+	tmp/svds/keil/Nuvoton/NANO100BN_v1.svd
+	tmp/svds/keil/Nuvoton/NANO103AE_v1.svd
+	tmp/svds/keil/Nuvoton/NANO112AN_v1.svd
+	tmp/svds/keil/Nuvoton/NDA102_v1.svd
+	tmp/svds/keil/Nuvoton/NM1120AE_v1.svd
+	tmp/svds/keil/Nuvoton/NM1200AE_v1.svd
+	tmp/svds/keil/Nuvoton/NM1230_v1.svd
+	tmp/svds/keil/Nuvoton/NM1240.svd
+	tmp/svds/keil/Nuvoton/NM1320AE_v1.svd
+	tmp/svds/keil/Nuvoton/NM1330AE_v1.svd
+	tmp/svds/keil/Nuvoton/NM1500_v1.svd
+	tmp/svds/keil/Nuvoton/NM1810AE_v1.svd
+	tmp/svds/keil/Nuvoton/NM1820AE_v1.svd
+	tmp/svds/keil/Nuvoton/NPCA121_v1.svd
+	tmp/svds/keil/Nuvoton/NSC74_v2.svd
+	tmp/svds/keil/Nuvoton/NUC029AE_v1.svd
+	tmp/svds/keil/Nuvoton/NUC029AN_v1.svd
+	tmp/svds/keil/Nuvoton/NUC029DE_v1.svd
+	tmp/svds/keil/Nuvoton/NUC029EE_v1.svd
+	tmp/svds/keil/Nuvoton/NUC029GE_v1.svd
+	tmp/svds/keil/Nuvoton/NUC100BN_v1.svd
+	tmp/svds/keil/Nuvoton/NUC100CN_v1.svd
+	tmp/svds/keil/Nuvoton/NUC100DN_v1.svd
+	tmp/svds/keil/Nuvoton/NUC121AE_v1.svd
+	tmp/svds/keil/Nuvoton/NUC122_v1.svd
+	tmp/svds/keil/Nuvoton/NUC123AE_v1.svd
+	tmp/svds/keil/Nuvoton/NUC123AN_v1.svd
+	tmp/svds/keil/Nuvoton/NUC1261AE_v1.svd
+	tmp/svds/keil/Nuvoton/NUC1262AE.svd
+	tmp/svds/keil/Nuvoton/NUC1263AE.svd
+	tmp/svds/keil/Nuvoton/NUC126AE_v1.svd
+	tmp/svds/keil/Nuvoton/NUC1311AE_v1.svd
+	tmp/svds/keil/Nuvoton/NUC131AE_v1.svd
+	tmp/svds/keil/Nuvoton/NUC200AE_v1.svd
+	tmp/svds/keil/Nuvoton/NUC200AN_v1.svd
+	tmp/svds/keil/Nuvoton/NUC2201AE_v1.svd
+	tmp/svds/keil/Nuvoton/NUC400_v1.svd
+	tmp/svds/keil/Nuvoton/NUC505_v1.svd
+	tmp/svds/keil/Nuvoton/TF5103_v1.svd
+	tmp/svds/keil/Puya/PY32E407xx.svd
+	tmp/svds/keil/Puya/PY32F001Cxx.svd
+	tmp/svds/keil/Puya/PY32F001xx.svd
+	tmp/svds/keil/Puya/PY32F002Axx.svd
+	tmp/svds/keil/Puya/PY32F002Bxx.svd
+	tmp/svds/keil/Puya/PY32F002Cxx.svd
+	tmp/svds/keil/Puya/PY32F002Xxx.svd
+	tmp/svds/keil/Puya/PY32F002Zxx.svd
+	tmp/svds/keil/Puya/PY32F003xx.svd
+	tmp/svds/keil/Puya/PY32F021xx.svd
+	tmp/svds/keil/Puya/PY32F030xx.svd
+	tmp/svds/keil/Puya/PY32F031xx.svd
+	tmp/svds/keil/Puya/PY32F032xx.svd
+	tmp/svds/keil/Puya/PY32F040Cxx.svd
+	tmp/svds/keil/Puya/PY32F040EPxx.svd
+	tmp/svds/keil/Puya/PY32F040Exx.svd
+	tmp/svds/keil/Puya/PY32F040xx.svd
+	tmp/svds/keil/Puya/PY32F071Cxx.svd
+	tmp/svds/keil/Puya/PY32F071Exx.svd
+	tmp/svds/keil/Puya/PY32F071xx.svd
+	tmp/svds/keil/Puya/PY32F072Cxx.svd
+	tmp/svds/keil/Puya/PY32F072Exx.svd
+	tmp/svds/keil/Puya/PY32F072xx.svd
+	tmp/svds/keil/Puya/PY32F403xx.svd
+	tmp/svds/keil/Puya/PY32F410xx.svd
+	tmp/svds/keil/Puya/PY32L020xx.svd
+	tmp/svds/keil/Puya/PY32L090xx.svd
+	tmp/svds/keil/Puya/PY32M010xx.svd
+	tmp/svds/keil/Puya/PY32M020xx.svd
+	tmp/svds/keil/Puya/PY32M030xx.svd
+	tmp/svds/keil/Puya/PY32M031xx.svd
+	tmp/svds/keil/Puya/PY32M070Cxx.svd
+	tmp/svds/keil/Puya/PY32M070xx.svd
+	tmp/svds/keil/Puya/PY32MD310xx.svd
+	tmp/svds/keil/Puya/PY32MD320xx.svd
+	tmp/svds/keil/Puya/PY32MD410xx.svd
+	tmp/svds/keil/Puya/PY32MD420xx.svd
+	tmp/svds/keil/Puya/PY32MD430xx.svd
+	tmp/svds/keil/Puya/PY32T020xx.svd
+	tmp/svds/keil/Puya/PY32T090xx.svd
+	tmp/svds/keil/Puya/PY32T092xx.svd
+	tmp/svds/keil/Renesas/R7FA0E107.svd
+	tmp/svds/keil/Renesas/R7FA0E209.svd
+	tmp/svds/keil/Renesas/R7FA0L107.svd
+	tmp/svds/keil/Renesas/R7FA2A1AB.svd
+	tmp/svds/keil/Renesas/R7FA2A2AD.svd
+	tmp/svds/keil/Renesas/R7FA2E1A9.svd
+	tmp/svds/keil/Renesas/R7FA2E2A7.svd
+	tmp/svds/keil/Renesas/R7FA2E307.svd
+	tmp/svds/keil/Renesas/R7FA2L1AB.svd
+	tmp/svds/keil/Renesas/R7FA2L209.svd
+	tmp/svds/keil/Renesas/R7FA2T107.svd
+	tmp/svds/keil/Renesas/R7FA4C1BD.svd
+	tmp/svds/keil/Renesas/R7FA4E10D.svd
+	tmp/svds/keil/Renesas/R7FA4E2B9.svd
+	tmp/svds/keil/Renesas/R7FA4L1BD.svd
+	tmp/svds/keil/Renesas/R7FA4M1AB.svd
+	tmp/svds/keil/Renesas/R7FA4M2AD.svd
+	tmp/svds/keil/Renesas/R7FA4M3AF.svd
+	tmp/svds/keil/Renesas/R7FA4T1BB.svd
+	tmp/svds/keil/Renesas/R7FA4W1AD.svd
+	tmp/svds/keil/Renesas/R7FA6E10F.svd
+	tmp/svds/keil/Renesas/R7FA6E2BB.svd
+	tmp/svds/keil/Renesas/R7FA6M1AD.svd
+	tmp/svds/keil/Renesas/R7FA6M2AF.svd
+	tmp/svds/keil/Renesas/R7FA6M3AH.svd
+	tmp/svds/keil/Renesas/R7FA6M4AF.svd
+	tmp/svds/keil/Renesas/R7FA6M5BH.svd
+	tmp/svds/keil/Renesas/R7FA6T1AD.svd
+	tmp/svds/keil/Renesas/R7FA6T2BD.svd
+	tmp/svds/keil/Renesas/R7FA6T3BB.svd
+	tmp/svds/keil/Renesas/R7FA8D1BH.svd
+	tmp/svds/keil/Renesas/R7FA8E1AF.svd
+	tmp/svds/keil/Renesas/R7FA8E2AF.svd
+	tmp/svds/keil/Renesas/R7KA8D2AD.svd
+	tmp/svds/keil/SILAN/SC32F53128.svd
+	tmp/svds/keil/SILAN/SC32F5364.svd
+	tmp/svds/keil/SILAN/SC32F53xxH.svd
+	tmp/svds/keil/SILAN/SC32F56128xxG.svd
+	tmp/svds/keil/SILAN/SC32F5632.svd
+	tmp/svds/keil/SILAN/SC32F5632xxG.svd
+	tmp/svds/keil/SILAN/SC32F5632xxH.svd
+	tmp/svds/keil/SILAN/SC32F5664.svd
+	tmp/svds/keil/SILAN/SC32F5664xxG.svd
+	tmp/svds/keil/SILAN/SC32F5664xxH.svd
+	tmp/svds/keil/SILAN/SC32F57xx.svd
+	tmp/svds/keil/SILAN/SC32F57xxH.svd
+	tmp/svds/keil/SILAN/SC32F58128.svd
+	tmp/svds/keil/SILAN/SC32F5832.svd
+	tmp/svds/keil/SILAN/SC32F5864.svd
+	tmp/svds/keil/SILAN/SPC7L64.svd
+	tmp/svds/keil/SILAN/SPC7L64A.svd
+	tmp/svds/keil/SONiX/SN32F100.svd
+	tmp/svds/keil/SONiX/SN32F240.svd
+	tmp/svds/keil/SONiX/SN32F240B.svd
+	tmp/svds/keil/SONiX/SN32F260.svd
+	tmp/svds/keil/SONiX/SN32F280.svd
+	tmp/svds/keil/SONiX/SN32F290.svd
+	tmp/svds/keil/SONiX/SN32F700.svd
+	tmp/svds/keil/SONiX/SN32F700B.svd
+	tmp/svds/keil/SONiX/SN32F760.svd
+	tmp/svds/keil/SONiX/SN32F760B.svd
+	tmp/svds/keil/SONiX/SN32F770.svd
+	tmp/svds/keil/SONiX/SN32F780.svd
+	tmp/svds/keil/SONiX/SN32F790.svd
+	tmp/svds/keil/SONiX/SN32F800.svd
+	tmp/svds/keil/SiliconLabs/BGM111A256V2.svd
+	tmp/svds/keil/SiliconLabs/BGM111E256V2.svd
+	tmp/svds/keil/SiliconLabs/BGM113A256V2.svd
+	tmp/svds/keil/SiliconLabs/BGM11S12F256GA.svd
+	tmp/svds/keil/SiliconLabs/BGM11S22F256GA.svd
+	tmp/svds/keil/SiliconLabs/BGM121A256V2.svd
+	tmp/svds/keil/SiliconLabs/BGM121N256V2.svd
+	tmp/svds/keil/SiliconLabs/BGM123A256V2.svd
+	tmp/svds/keil/SiliconLabs/BGM123N256V2.svd
+	tmp/svds/keil/SiliconLabs/BGM13P22F512GA.svd
+	tmp/svds/keil/SiliconLabs/BGM13P22F512GE.svd
+	tmp/svds/keil/SiliconLabs/BGM13P32F512GA.svd
+	tmp/svds/keil/SiliconLabs/BGM13P32F512GE.svd
+	tmp/svds/keil/SiliconLabs/BGM13S22F512GA.svd
+	tmp/svds/keil/SiliconLabs/BGM13S22F512GN.svd
+	tmp/svds/keil/SiliconLabs/BGM13S32F512GA.svd
+	tmp/svds/keil/SiliconLabs/BGM13S32F512GN.svd
+	tmp/svds/keil/SiliconLabs/BGM210LA22JIF.svd
+	tmp/svds/keil/SiliconLabs/BGM210LA22JNF.svd
+	tmp/svds/keil/SiliconLabs/BGM210P022JIA.svd
+	tmp/svds/keil/SiliconLabs/BGM210P032JIA.svd
+	tmp/svds/keil/SiliconLabs/BGM210PA22JIA.svd
+	tmp/svds/keil/SiliconLabs/BGM210PA32JIA.svd
+	tmp/svds/keil/SiliconLabs/BGM210PB22JIA.svd
+	tmp/svds/keil/SiliconLabs/BGM210PB32JIA.svd
+	tmp/svds/keil/SiliconLabs/BGM220PC22HNA.svd
+	tmp/svds/keil/SiliconLabs/BGM220PC22WGA.svd
+	tmp/svds/keil/SiliconLabs/BGM220SC12WGA.svd
+	tmp/svds/keil/SiliconLabs/BGM220SC22HNA.svd
+	tmp/svds/keil/SiliconLabs/BGM220SC22WGA.svd
+	tmp/svds/keil/SiliconLabs/BGM220SC23HNA.svd
+	tmp/svds/keil/SiliconLabs/BGM240PA22VNA.svd
+	tmp/svds/keil/SiliconLabs/BGM240PA32VNA.svd
+	tmp/svds/keil/SiliconLabs/BGM240PA32VNN.svd
+	tmp/svds/keil/SiliconLabs/BGM240PB22VNA.svd
+	tmp/svds/keil/SiliconLabs/BGM240PB32VNA.svd
+	tmp/svds/keil/SiliconLabs/BGM240PB32VNN.svd
+	tmp/svds/keil/SiliconLabs/BGM240SA22VNA.svd
+	tmp/svds/keil/SiliconLabs/BGM240SB22VNA.svd
+	tmp/svds/keil/SiliconLabs/BGM241SB22VNA.svd
+	tmp/svds/keil/SiliconLabs/BGM241SD22VNA.svd
+	tmp/svds/keil/SiliconLabs/BGM260PB22VNA.svd
+	tmp/svds/keil/SiliconLabs/BGM260PB32VNA.svd
+	tmp/svds/keil/SiliconLabs/EFM32G200F16.svd
+	tmp/svds/keil/SiliconLabs/EFM32G200F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32G200F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32G210F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32G222F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32G222F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32G222F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32G230F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32G230F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32G230F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32G232F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32G232F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32G232F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32G280F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32G280F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32G280F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32G290F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32G290F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32G290F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32G800F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32G840F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32G840F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32G840F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32G842F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32G842F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32G842F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32G880F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32G880F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32G880F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32G890F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32G890F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32G890F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B110F2048GM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B110F2048GQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B110F2048IM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B110F2048IQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B120F2048GM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B120F2048GQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B120F2048IM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B120F2048IQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B310F2048GL112.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B310F2048GQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B320F2048GL112.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B320F2048GQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B420F2048GL112.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B420F2048GL120.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B420F2048GM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B420F2048GQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B420F2048GQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B420F2048IL112.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B420F2048IL120.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B420F2048IM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B420F2048IQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B420F2048IQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B510F2048GL120.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B510F2048GM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B510F2048GQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B510F2048GQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B510F2048IL120.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B510F2048IM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B510F2048IQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B510F2048IQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B520F2048GL120.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B520F2048GM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B520F2048GQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B520F2048GQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B520F2048IL120.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B520F2048IM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B520F2048IQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B520F2048IQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B820F2048GL120.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B820F2048GL152.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B820F2048GL192.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B820F2048GM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B820F2048GQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B820F2048GQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B820F2048IL120.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B820F2048IL152.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B820F2048IM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B820F2048IQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B820F2048IQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B840F1024GL120.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B840F1024GL152.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B840F1024GL192.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B840F1024GM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B840F1024GQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B840F1024GQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B840F1024IL120.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B840F1024IL152.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B840F1024IM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B840F1024IQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG11B840F1024IQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B110F1024GM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B110F1024GQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B110F1024IM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B110F1024IQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B130F512GM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B130F512GQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B130F512IM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B130F512IQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B310F1024GL112.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B310F1024GQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B330F512GL112.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B330F512GQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B390F1024GL112.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B390F512GL112.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B410F1024GL112.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B410F1024GL120.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B410F1024GM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B410F1024GQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B410F1024GQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B410F1024IL112.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B410F1024IL120.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B410F1024IM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B410F1024IQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B410F1024IQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B430F512GL112.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B430F512GL120.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B430F512GM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B430F512GQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B430F512GQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B430F512IL112.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B430F512IL120.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B430F512IM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B430F512IQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B430F512IQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B510F1024GL112.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B510F1024GL120.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B510F1024GM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B510F1024GQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B510F1024GQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B510F1024IL112.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B510F1024IL120.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B510F1024IM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B510F1024IQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B510F1024IQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B530F512GL112.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B530F512GL120.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B530F512GM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B530F512GQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B530F512GQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B530F512IL112.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B530F512IL120.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B530F512IM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B530F512IQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B530F512IQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B810F1024GL112.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B810F1024GL120.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B810F1024GM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B810F1024GQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B810F1024GQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B810F1024IL112.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B810F1024IL120.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B810F1024IM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B810F1024IQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B810F1024IQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B830F512GL112.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B830F512GL120.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B830F512GM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B830F512GQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B830F512GQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B830F512IL112.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B830F512IL120.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B830F512IM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B830F512IQ100.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG12B830F512IQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG230F1024.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG230F512.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG232F1024.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG232F512.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG280F1024.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG280F512.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG290F1024.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG290F512.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG295F1024.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG295F512.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG330F1024.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG330F512.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG332F1024.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG332F512.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG380F1024.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG380F512.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG390F1024.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG390F512.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG395F1024.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG395F512.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG840F1024.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG840F512.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG842F1024.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG842F512.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG880F1024.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG880F512.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG890F1024.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG890F512.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG895F1024.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG895F512.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG900F1024.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG900F512.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG940F1024.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG940F512.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG942F1024.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG942F512.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG980F1024.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG980F512.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG990F1024.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG990F512.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG995F1024.svd
+	tmp/svds/keil/SiliconLabs/EFM32GG995F512.svd
+	tmp/svds/keil/SiliconLabs/EFM32HG108F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32HG108F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32HG110F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32HG110F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32HG210F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32HG210F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32HG222F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32HG222F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32HG308F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32HG308F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32HG309F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32HG309F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32HG310F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32HG310F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32HG321F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32HG321F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32HG322F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32HG322F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32HG350F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32HG350F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32JG12B500F1024GL125.svd
+	tmp/svds/keil/SiliconLabs/EFM32JG12B500F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFM32JG12B500F1024IL125.svd
+	tmp/svds/keil/SiliconLabs/EFM32JG12B500F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFM32JG1B100F128GM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32JG1B100F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32JG1B100F256IM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32JG1B200F128GM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32JG1B200F128GM48.svd
+	tmp/svds/keil/SiliconLabs/EFM32JG1B200F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32JG1B200F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFM32JG1B200F256IM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32JG1B200F256IM48.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG230F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG230F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG230F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG232F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG232F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG232F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG280F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG280F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG280F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG290F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG290F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG290F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG295F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG295F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG295F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG330F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG330F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG330F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG332F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG332F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG332F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG360F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG360F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG360F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG380F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG380F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG380F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG390F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG390F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG390F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG395F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG395F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG395F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG840F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG840F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG840F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG842F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG842F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG842F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG880F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG880F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG880F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG890F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG890F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG890F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG895F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG895F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG895F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG900F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG940F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG940F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG940F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG942F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG942F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG942F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG980F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG980F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG980F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG990F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG990F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG990F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG995F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG995F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32LG995F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG12B500F1024GL125.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG12B500F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG12B500F1024IL125.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG12B500F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG1B100F128GM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG1B100F128IM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG1B100F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG1B100F256IM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG1B200F128GM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG1B200F128GM48.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG1B200F128IM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG1B200F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG1B200F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG1B200F256IM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG1B200F256IM48.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG22C200F128IM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG22C200F128IM40.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG22C200F256IM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG22C200F256IM40.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG22C200F512IM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG22C200F512IM40.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG22C200F64IM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG22C200F64IM40.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG23B200F128IM40.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG23B200F256IM40.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG23B200F512IM40.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG23B200F64IM40.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG23B210F128IM48.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG23B210F256IM48.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG23B210F512IM48.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG23B210F64IM48.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG23B310F128IM48.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG23B310F256IM48.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG23B310F512IM48.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG23B310F64IM48.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG26B101F512IL136.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG26B101F512IM68.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG26B301F1024IL136.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG26B301F1024IM68.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG26B301F2048IL136.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG26B301F2048IM68.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG26B500F3200IL136.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG26B500F3200IM48.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG26B500F3200IM68.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG26B501F3200IL136.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG26B501F3200IM48.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG26B501F3200IM68.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG28B200F512IM68.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG28B210F1024IM68.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG28B300F512IM68.svd
+	tmp/svds/keil/SiliconLabs/EFM32PG28B310F1024IM68.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG108F16.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG108F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG108F4.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG108F8.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG110F16.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG110F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG110F4.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG110F8.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B120F128GM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B120F128GM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B120F128GQ48.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B120F128GQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B120F128IM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B120F128IM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B120F128IQ48.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B120F128IQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B140F64GM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B140F64GM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B140F64GQ48.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B140F64GQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B140F64IM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B140F64IM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B140F64IQ48.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B140F64IQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B320F128GM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B320F128GQ48.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B320F128GQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B320F128IM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B320F128IQ48.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B320F128IQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B340F64GM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B340F64GQ48.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B340F64GQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B340F64IM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B340F64IQ48.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B340F64IQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B520F128GM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B520F128GM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B520F128GM80.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B520F128GQ48.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B520F128GQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B520F128GQ80.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B520F128IM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B520F128IM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B520F128IM80.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B520F128IQ48.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B520F128IQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B520F128IQ80.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B540F64GM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B540F64GM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B540F64GM80.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B540F64GQ48.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B540F64GQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B540F64GQ80.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B540F64IM32.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B540F64IM64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B540F64IM80.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B540F64IQ48.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B540F64IQ64.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG11B540F64IQ80.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG210F16.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG210F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG210F8.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG222F16.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG222F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG222F8.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG225F16.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG225F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG225F8.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG230F16.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG230F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG230F8.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG232F16.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG232F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG232F8.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG822F16.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG822F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG822F8.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG825F16.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG825F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG825F8.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG840F16.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG840F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG840F8.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG842F16.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG842F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32TG842F8.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG230F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG230F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG230F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG232F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG232F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG232F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG280F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG280F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG280F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG290F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG290F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG290F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG295F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG295F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG295F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG330F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG330F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG330F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG332F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG332F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG332F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG360F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG360F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG360F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG380F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG380F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG380F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG390F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG390F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG390F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG395F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG395F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG395F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG840F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG840F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG840F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG842F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG842F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG842F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG880F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG880F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG880F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG890F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG890F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG890F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG895F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG895F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG895F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG900F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG940F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG940F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG940F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG942F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG942F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG942F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG980F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG980F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG980F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG990F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG990F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG990F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG995F128.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG995F256.svd
+	tmp/svds/keil/SiliconLabs/EFM32WG995F64.svd
+	tmp/svds/keil/SiliconLabs/EFM32ZG108F16.svd
+	tmp/svds/keil/SiliconLabs/EFM32ZG108F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32ZG108F4.svd
+	tmp/svds/keil/SiliconLabs/EFM32ZG108F8.svd
+	tmp/svds/keil/SiliconLabs/EFM32ZG110F16.svd
+	tmp/svds/keil/SiliconLabs/EFM32ZG110F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32ZG110F4.svd
+	tmp/svds/keil/SiliconLabs/EFM32ZG110F8.svd
+	tmp/svds/keil/SiliconLabs/EFM32ZG210F16.svd
+	tmp/svds/keil/SiliconLabs/EFM32ZG210F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32ZG210F4.svd
+	tmp/svds/keil/SiliconLabs/EFM32ZG210F8.svd
+	tmp/svds/keil/SiliconLabs/EFM32ZG222F16.svd
+	tmp/svds/keil/SiliconLabs/EFM32ZG222F32.svd
+	tmp/svds/keil/SiliconLabs/EFM32ZG222F4.svd
+	tmp/svds/keil/SiliconLabs/EFM32ZG222F8.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG12P132F1024GL125.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG12P132F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG12P232F1024GL125.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG12P232F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG12P232F1024GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG12P232F1024IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG12P232F512GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG12P232F512IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG12P332F1024GL125.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG12P332F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG12P332F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG12P432F1024GL125.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG12P432F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG12P433F1024GL125.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG12P433F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG12P433F1024GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG12P433F1024IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG13P532F512GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG13P532F512GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG13P632F512GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG13P632F512GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG13P632F512GM51.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG13P632F512IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG13P632F512IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG13P732F512GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG13P732F512GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG13P732F512GM51.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG13P733F512GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1B132F128GJ43.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1B132F128GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1B132F128GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1B132F256GD32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1B132F256GJ43.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1B132F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1B132F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1B132F256GM56.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1B132F256IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1B232F128GJ43.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1B232F128GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1B232F128GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1B232F256GJ43.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1B232F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1B232F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1B232F256GM56.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1B232F256IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1P232F256GJ43.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1P232F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1P232F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1P232F256IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1P232F256IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1P233F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1P332F256GJ43.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1P332F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1P332F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1P333F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1P333F256IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1V132F128GJ43.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1V132F128GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1V132F128GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1V132F256GJ43.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1V132F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1V132F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG1V132F256IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG21A010F1024IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG21A010F512IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG21A010F768IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG21A020F1024IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG21A020F512IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG21A020F768IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG21B010F1024IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG21B010F512IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG21B010F768IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG21B020F1024IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG21B020F512IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG21B020F768IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG22C112F352GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG22C112F352GM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG22C222F352GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG22C222F352GM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG22C222F352GN32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG22C224F512GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG22C224F512GM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG22C224F512GN32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG22C224F512IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG22C224F512IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG22E224F512IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG22E224F512IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG22L122F352GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24A010F1024GJ42.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24A010F1024IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24A010F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24A010F1536IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24A010F1536IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24A020F1024IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24A020F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24A020F1536IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24A610F1536IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24A620F1536IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24B010F1024GJ42.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24B010F1536IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24B010F1536IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24B020F1536IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24B110F1536IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24B210F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24B210F1536IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24B220F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24B310F1536IJ42.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24B410F1536IJ42.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24B610F1536IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24B620F1536IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24L010F768IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG24L210F768IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG26B311F1024IL136.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG26B311F1024IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG26B311F2048IL136.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG26B311F2048IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG26B311F2048IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG26B321F1024IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG26B321F2048IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG26B321F2048IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG26B410F3200IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG26B411F3200IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG26B420F3200IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG26B421F3200IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG26B510F3200IL136.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG26B510F3200IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG26B510F3200IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG26B511F3200IL136.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG26B511F3200IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG26B511F3200IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG27C140F768IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG27C140F768IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG27C230F768IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG27C230F768IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG27C320F768GJ39.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG27C320F768IJ39.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG29B140F1024IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG29B220F1024CJ45.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG29B221F1024CJ45.svd
+	tmp/svds/keil/SiliconLabs/EFR32BG29B230F1024CM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG12P231F1024GL125.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG12P231F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG12P231F1024GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG12P231F512GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG12P232F1024GL125.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG12P232F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG12P431F1024GL125.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG12P431F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG12P431F1024GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG12P431F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG12P431F512GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG12P432F1024GL125.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG12P432F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG12P433F1024GL125.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG12P433F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG12P433F1024GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG13P231F512GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG13P231F512GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG13P231F512IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG13P231F512IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG13P232F512GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG13P232F512GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG13P233F512GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG14P231F128GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG14P231F128GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG14P231F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG14P231F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG14P231F256IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG14P231F256IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG14P232F128GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG14P232F128GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG14P232F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG14P232F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG14P233F128GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG14P233F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG14V132F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG14V132F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1P131F128GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1P131F128GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1P131F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1P131F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1P131F256IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1P131F256IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1P131F64GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1P131F64GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1P132F128GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1P132F128GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1P132F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1P132F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1P132F64GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1P132F64GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1P133F128GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1P133F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1P133F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1P133F64GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1V032F128GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1V032F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1V131F128GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1V131F128GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1V131F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1V131F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1V131F32GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1V131F32GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1V131F64GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1V131F64GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1V132F128GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1V132F128GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1V132F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1V132F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1V132F32GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1V132F32GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1V132F64GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1V132F64GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1V232F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG1V232F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG22C121F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG22C121F256GM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG22C121F512GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG22C121F512GM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23A010F128GM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23A010F256GM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23A010F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23A010F512GM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23A010F512GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23A011F512GM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23A020F128GM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23A020F256GM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23A020F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23A020F512GM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23A020F512GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23A021F512GM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23B010F128GM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23B010F512GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23B010F512IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23B010F512IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23B020F128GM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23B020F512IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23B020F512IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23B021F512IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23B021F512IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23L010F128GM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG23L020F128GM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG25A021F256IM56.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG25A111F1152IM56.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG25A121F1152IM56.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG25A211F1152IM56.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG25A211F1920IM56.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG25A221F1152IM56.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG25A221F1920IM56.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG25B111F1152IM56.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG25B121F1152IM56.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG25B211F1920IM56.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG25B212F1920IM56.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG25B221F1920IM56.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG25B222F1920IM56.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG28A010F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG28A010F1024GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG28A110F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG28A110F1024GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG28A112F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG28A112F1024GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG28A120F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG28A120F1024GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG28A122F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG28A122F1024GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG28B310F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG28B310F1024IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG28B312F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG28B312F1024IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG28B320F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG28B320F1024IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG28B322F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32FG28B322F1024IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P132F1024GL125.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P132F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P132F512GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P231F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P231F1024GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P232F1024GL125.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P232F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P232F1024GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P232F512GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P332F1024GL125.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P332F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P332F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P431F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P431F1024GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P432F1024GL125.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P432F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P432F1024GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P432F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P433F1024GL125.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P433F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P433F1024GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P433F1024IL125.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG12P433F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG13P632F512GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG13P632F512GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG13P632F512GM51.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG13P731F512GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG13P732F512GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG13P732F512GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG13P732F512GM51.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG13P732F512IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG13P732F512IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG13P733F512GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG13P733F512IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG13P832F512IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG14P632F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG14P632F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG14P731F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG14P732F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG14P732F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG14P732F256IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG14P732F256IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG14P733F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG14P733F256IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1B131F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1B131F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1B132F256GJ43.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1B132F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1B132F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1B231F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1B231F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1B232F256GJ43.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1B232F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1B232F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1B232F256IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1B632F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1B632F256IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1B732F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1B732F256IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1P131F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1P132F256GJ43.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1P132F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1P132F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1P132F256IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1P132F256IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1P133F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1P231F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1P232F256GJ43.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1P232F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1P232F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1P232F256IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1P232F256IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1P233F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1P233F256IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1P632F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1P632F256IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1P732F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1P732F256IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1V131F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1V131F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1V132F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG1V132F256GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG21A010F1024IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG21A010F512IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG21A010F768IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG21A020F1024IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG21A020F512IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG21A020F768IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG21B010F1024IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG21B010F512IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG21B010F768IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG21B020F1024IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG21B020F512IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG21B020F768IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG22A224F512IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG22C224F512GN32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG22C224F512IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG22C224F512IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG22E224F512IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG22E224F512IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A010F1024IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A010F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A010F1536GM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A010F1536GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A010F1536IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A010F1536IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A010F768IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A010F768IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A020F1024IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A020F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A020F1536GM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A020F1536GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A020F1536IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A020F1536IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A020F768IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A021F1024IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A110F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A110F1536GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A111F1536GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A120F1536GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A121F1536GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A410F1536IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A410F1536IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A420F1536IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A420F1536IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A610F1536IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24A620F1536IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24B010F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24B010F1536IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24B010F1536IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24B020F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24B020F1536IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24B020F1536IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24B110F1536GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24B110F1536IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24B120F1536IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24B210F1536IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24B210F1536IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24B220F1536IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24B310F1536IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG24B610F1536IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B211F2048IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B211F3200IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B221F2048IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B221F3200IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B311F3200IL136.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B410F3200IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B410F3200IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B411F3200IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B411F3200IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B420F3200IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B420F3200IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B421F3200IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B421F3200IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B510F3200IL136.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B510F3200IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B510F3200IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B511F3200IL136.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B511F3200IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B511F3200IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B520F3200IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B520F3200IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B521F3200IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B521F3200IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B610F3200IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG26B611F2048IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG27C140F768IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG27C140F768IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG27C230F768IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG27C230F768IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG29B140F1024IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MG29B230F1024CM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32MR21A020F512IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32SG23B020F512IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32SG23B020F512IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32SG28B320F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32SG28B320F1024IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32SG28B322F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32SG28B322F1024IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG13L231F512GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG13L231F512IM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG13P231F512GM64.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG13P531F512GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG13P531F512GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG13S231F512GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG14P231F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG14P731F256GM32.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG23A010F512GM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG23A010F512GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG23A020F512GM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG23A020F512GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG23B010F512IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG23B010F512IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG23B011F512IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG23B020F512IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG23B020F512IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG23B021F512IM40.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG28A110F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG28A110F1024GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG28A112F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG28A112F1024GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG28A120F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG28A120F1024GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG28A122F1024GM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG28A122F1024GM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG28B310F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG28B310F1024IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG28B312F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG28B312F1024IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG28B320F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG28B320F1024IM68.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG28B322F1024IM48.svd
+	tmp/svds/keil/SiliconLabs/EFR32ZG28B322F1024IM68.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG220F32R55.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG220F32R60.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG220F32R61.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG220F32R63.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG220F32R67.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG220F32R68.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG220F32R69.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG220F64R55.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG220F64R60.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG220F64R61.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG220F64R63.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG220F64R67.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG220F64R68.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG220F64R69.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG320F32R55.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG320F32R60.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG320F32R61.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG320F32R63.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG320F32R67.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG320F32R68.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG320F32R69.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG320F64R55.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG320F64R60.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG320F64R61.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG320F64R63.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG320F64R67.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG320F64R68.svd
+	tmp/svds/keil/SiliconLabs/EZR32HG320F64R69.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG230F128R55.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG230F128R60.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG230F128R61.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG230F128R63.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG230F128R67.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG230F128R68.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG230F128R69.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG230F256R55.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG230F256R60.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG230F256R61.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG230F256R63.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG230F256R67.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG230F256R68.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG230F256R69.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG230F64R55.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG230F64R60.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG230F64R61.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG230F64R63.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG230F64R67.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG230F64R68.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG230F64R69.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG330F128R55.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG330F128R60.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG330F128R61.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG330F128R63.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG330F128R67.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG330F128R68.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG330F128R69.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG330F256R55.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG330F256R60.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG330F256R61.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG330F256R63.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG330F256R67.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG330F256R68.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG330F256R69.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG330F64R55.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG330F64R60.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG330F64R61.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG330F64R63.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG330F64R67.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG330F64R68.svd
+	tmp/svds/keil/SiliconLabs/EZR32LG330F64R69.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG230F128R55.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG230F128R60.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG230F128R61.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG230F128R63.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG230F128R67.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG230F128R68.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG230F128R69.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG230F256R55.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG230F256R60.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG230F256R61.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG230F256R63.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG230F256R67.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG230F256R68.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG230F256R69.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG230F64R55.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG230F64R60.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG230F64R61.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG230F64R63.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG230F64R67.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG230F64R68.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG230F64R69.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG330F128R55.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG330F128R60.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG330F128R61.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG330F128R63.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG330F128R67.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG330F128R68.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG330F128R69.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG330F256R55.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG330F256R60.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG330F256R61.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG330F256R63.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG330F256R67.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG330F256R68.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG330F256R69.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG330F64R55.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG330F64R60.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG330F64R61.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG330F64R63.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG330F64R67.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG330F64R68.svd
+	tmp/svds/keil/SiliconLabs/EZR32WG330F64R69.svd
+	tmp/svds/keil/SiliconLabs/FGM230SA27HGN.svd
+	tmp/svds/keil/SiliconLabs/FGM230SB27HGN.svd
+	tmp/svds/keil/SiliconLabs/MGM111A256V2.svd
+	tmp/svds/keil/SiliconLabs/MGM111E256V2.svd
+	tmp/svds/keil/SiliconLabs/MGM12P02F1024GA.svd
+	tmp/svds/keil/SiliconLabs/MGM12P02F1024GE.svd
+	tmp/svds/keil/SiliconLabs/MGM12P22F1024GA.svd
+	tmp/svds/keil/SiliconLabs/MGM12P22F1024GE.svd
+	tmp/svds/keil/SiliconLabs/MGM12P32F1024GA.svd
+	tmp/svds/keil/SiliconLabs/MGM12P32F1024GE.svd
+	tmp/svds/keil/SiliconLabs/MGM13P02F512GA.svd
+	tmp/svds/keil/SiliconLabs/MGM13P02F512GE.svd
+	tmp/svds/keil/SiliconLabs/MGM13P12F512GA.svd
+	tmp/svds/keil/SiliconLabs/MGM13P12F512GE.svd
+	tmp/svds/keil/SiliconLabs/MGM13S02F512GA.svd
+	tmp/svds/keil/SiliconLabs/MGM13S02F512GN.svd
+	tmp/svds/keil/SiliconLabs/MGM13S12F512GA.svd
+	tmp/svds/keil/SiliconLabs/MGM13S12F512GN.svd
+	tmp/svds/keil/SiliconLabs/MGM210L022JIF.svd
+	tmp/svds/keil/SiliconLabs/MGM210L022JNF.svd
+	tmp/svds/keil/SiliconLabs/MGM210LA22JIF.svd
+	tmp/svds/keil/SiliconLabs/MGM210LA22JNF.svd
+	tmp/svds/keil/SiliconLabs/MGM210P022JIA.svd
+	tmp/svds/keil/SiliconLabs/MGM210P032JIA.svd
+	tmp/svds/keil/SiliconLabs/MGM210PA22JIA.svd
+	tmp/svds/keil/SiliconLabs/MGM210PA32JIA.svd
+	tmp/svds/keil/SiliconLabs/MGM210PB22JIA.svd
+	tmp/svds/keil/SiliconLabs/MGM210PB32JIA.svd
+	tmp/svds/keil/SiliconLabs/MGM211LA02JNF.svd
+	tmp/svds/keil/SiliconLabs/MGM220PC22HNA.svd
+	tmp/svds/keil/SiliconLabs/MGM240L022RNF.svd
+	tmp/svds/keil/SiliconLabs/MGM240L022VIF.svd
+	tmp/svds/keil/SiliconLabs/MGM240L022VNF.svd
+	tmp/svds/keil/SiliconLabs/MGM240LA22UIF.svd
+	tmp/svds/keil/SiliconLabs/MGM240LA22VIF.svd
+	tmp/svds/keil/SiliconLabs/MGM240LD22VIF.svd
+	tmp/svds/keil/SiliconLabs/MGM240PA22VNA.svd
+	tmp/svds/keil/SiliconLabs/MGM240PA32VNA.svd
+	tmp/svds/keil/SiliconLabs/MGM240PA32VNN.svd
+	tmp/svds/keil/SiliconLabs/MGM240PB22VNA.svd
+	tmp/svds/keil/SiliconLabs/MGM240PB32VNA.svd
+	tmp/svds/keil/SiliconLabs/MGM240PB32VNN.svd
+	tmp/svds/keil/SiliconLabs/MGM240SA22VNA.svd
+	tmp/svds/keil/SiliconLabs/MGM240SB22VNA.svd
+	tmp/svds/keil/SiliconLabs/MGM240SD22VNA.svd
+	tmp/svds/keil/SiliconLabs/MGM260PB22VNA.svd
+	tmp/svds/keil/SiliconLabs/MGM260PB32VNA.svd
+	tmp/svds/keil/SiliconLabs/MGM260PB32VNN.svd
+	tmp/svds/keil/SiliconLabs/MGM260PD22VNA.svd
+	tmp/svds/keil/SiliconLabs/MGM260PD32VNA.svd
+	tmp/svds/keil/SiliconLabs/MGM260PD32VNN.svd
+	tmp/svds/keil/SiliconLabs/MGM270SC22SNA.svd
+	tmp/svds/keil/SiliconLabs/MGM270SC32SNA.svd
+	tmp/svds/keil/SiliconLabs/RM21Z000F1024IM32.svd
+	tmp/svds/keil/SiliconLabs/SIBG301M104LGH.svd
+	tmp/svds/keil/SiliconLabs/SIBG301M104LGL.svd
+	tmp/svds/keil/SiliconLabs/SIBG301M104LIH.svd
+	tmp/svds/keil/SiliconLabs/SIBG301M104LIL.svd
+	tmp/svds/keil/SiliconLabs/SIBG301M114KGH.svd
+	tmp/svds/keil/SiliconLabs/SIBG301M114KIH.svd
+	tmp/svds/keil/SiliconLabs/SIMG301M103LIH.svd
+	tmp/svds/keil/SiliconLabs/SIMG301M104LGH.svd
+	tmp/svds/keil/SiliconLabs/SIMG301M104LGL.svd
+	tmp/svds/keil/SiliconLabs/SIMG301M104LIH.svd
+	tmp/svds/keil/SiliconLabs/SIMG301M104LIL.svd
+	tmp/svds/keil/SiliconLabs/SIMG301M104XIL.svd
+	tmp/svds/keil/SiliconLabs/SIMG301M113WIH.svd
+	tmp/svds/keil/SiliconLabs/SIMG301M114KGH.svd
+	tmp/svds/keil/SiliconLabs/SIMG301M114KIH.svd
+	tmp/svds/keil/SiliconLabs/SIMG301M114LGH.svd
+	tmp/svds/keil/SiliconLabs/SIMG301M114LIH.svd
+	tmp/svds/keil/SiliconLabs/WGM160P022KGA2.svd
+	tmp/svds/keil/SiliconLabs/WGM160P022KGA3.svd
+	tmp/svds/keil/SiliconLabs/WGM160P022KGN2.svd
+	tmp/svds/keil/SiliconLabs/WGM160P022KGN3.svd
+	tmp/svds/keil/SiliconLabs/WGM160PX22KGA2.svd
+	tmp/svds/keil/SiliconLabs/WGM160PX22KGA3.svd
+	tmp/svds/keil/SiliconLabs/WGM160PX22KGN2.svd
+	tmp/svds/keil/SiliconLabs/WGM160PX22KGN3.svd
+	tmp/svds/keil/SiliconLabs/ZGM130S037HGN.svd
+	tmp/svds/keil/SiliconLabs/ZGM130S037HGN1.svd
+	tmp/svds/keil/SiliconLabs/ZGM230SA27HGN.svd
+	tmp/svds/keil/SiliconLabs/ZGM230SA27HNN.svd
+	tmp/svds/keil/SiliconLabs/ZGM230SB27HGN.svd
+	tmp/svds/keil/SiliconLabs/ZGM230SB27HNN.svd
+	tmp/svds/keil/Sinowealth/SH30F9025.svd
+	tmp/svds/keil/Sinowealth/SH30F9072.svd
+	tmp/svds/keil/Sinowealth/SH30F9073.svd
+	tmp/svds/keil/Sinowealth/SH30F9074.svd
+	tmp/svds/keil/Sinowealth/SH30F9082.svd
+	tmp/svds/keil/Sinowealth/SH30F9872.svd
+	tmp/svds/keil/Sinowealth/msh32f01.svd
+	tmp/svds/keil/Sinowealth/sh30f9010.svd
+	tmp/svds/keil/Sinowealth/sh30f9011.svd
+	tmp/svds/keil/Sinowealth/sh30f9013.svd
+	tmp/svds/keil/Sinowealth/sh30f9020.svd
+	tmp/svds/keil/Sinowealth/sh30f9021.svd
+	tmp/svds/keil/Sinowealth/sh30f9071.svd
+	tmp/svds/keil/Sinowealth/sh30f9810.svd
+	tmp/svds/keil/Sinowealth/sh30f9820.svd
+	tmp/svds/keil/Sinowealth/sh30f9821.svd
+	tmp/svds/keil/Sinowealth/sh30f9871.svd
+	tmp/svds/keil/Sinowealth/sh32f205.svd
+	tmp/svds/keil/Sinowealth/sh32f2053.svd
+	tmp/svds/keil/Sinowealth/sh32f2601.svd
+	tmp/svds/keil/Sinowealth/sh32f284.svd
+	tmp/svds/keil/Sinowealth/sh32f9b00.svd
+	tmp/svds/keil/Sinowealth/sh33f2053.svd
+	tmp/svds/keil/Sinowealth/sh33f2054.svd
+	tmp/svds/keil/Sinowealth/sh33f2056.svd
+	tmp/svds/keil/Sinowealth/sh33f2801.svd
+	tmp/svds/keil/Sinowealth/sh33f2802.svd
+	tmp/svds/keil/Sinowealth/sh33f2811.svd
+	tmp/svds/keil/TexasInstruments/MSP432E401Y.svd
+	tmp/svds/keil/TexasInstruments/MSP432E411Y.svd
+	tmp/svds/keil/TexasInstruments/MSPM0C1105_C1106.svd
+	tmp/svds/keil/TexasInstruments/MSPM0C110X.svd
+	tmp/svds/keil/TexasInstruments/MSPM0G110X.svd
+	tmp/svds/keil/TexasInstruments/MSPM0G120X.svd
+	tmp/svds/keil/TexasInstruments/MSPM0G121X.svd
+	tmp/svds/keil/TexasInstruments/MSPM0G150X.svd
+	tmp/svds/keil/TexasInstruments/MSPM0G151X.svd
+	tmp/svds/keil/TexasInstruments/MSPM0G310X.svd
+	tmp/svds/keil/TexasInstruments/MSPM0G320X.svd
+	tmp/svds/keil/TexasInstruments/MSPM0G321X.svd
+	tmp/svds/keil/TexasInstruments/MSPM0G350X.svd
+	tmp/svds/keil/TexasInstruments/MSPM0G351X.svd
+	tmp/svds/keil/TexasInstruments/MSPM0G511X.svd
+	tmp/svds/keil/TexasInstruments/MSPM0G518X.svd
+	tmp/svds/keil/TexasInstruments/MSPM0H321X.svd
+	tmp/svds/keil/TexasInstruments/MSPM0L110X.svd
+	tmp/svds/keil/TexasInstruments/MSPM0L111X.svd
+	tmp/svds/keil/TexasInstruments/MSPM0L122X.svd
+	tmp/svds/keil/TexasInstruments/MSPM0L130X.svd
+	tmp/svds/keil/TexasInstruments/MSPM0L134X.svd
+	tmp/svds/keil/TexasInstruments/MSPM0L222X.svd
+	tmp/svds/keil/TexasInstruments/MSPS003FX.svd
+	tmp/svds/keil/Toshiba/M344.svd
+	tmp/svds/keil/Toshiba/M3HLA.svd
+	tmp/svds/keil/Toshiba/M3HLB.svd
+	tmp/svds/keil/Toshiba/M3HMA.svd
+	tmp/svds/keil/Toshiba/M3HMB.svd
+	tmp/svds/keil/Toshiba/M3HNA.svd
+	tmp/svds/keil/Toshiba/M3HNB.svd
+	tmp/svds/keil/Toshiba/M3HPA.svd
+	tmp/svds/keil/Toshiba/M3HPB.svd
+	tmp/svds/keil/Toshiba/M3HQA.svd
+	tmp/svds/keil/Toshiba/M3HQB.svd
+	tmp/svds/keil/Toshiba/M3U0.svd
+	tmp/svds/keil/Toshiba/M3U6.svd
+	tmp/svds/keil/Toshiba/M3V4.svd
+	tmp/svds/keil/Toshiba/M3V6.svd
+	tmp/svds/keil/Toshiba/M471F10.svd
+	tmp/svds/keil/Toshiba/M4G6.svd
+	tmp/svds/keil/Toshiba/M4G7.svd
+	tmp/svds/keil/Toshiba/M4G8.svd
+	tmp/svds/keil/Toshiba/M4G9.svd
+	tmp/svds/keil/Toshiba/M4GN.svd
+	tmp/svds/keil/Toshiba/M4GQ.svd
+	tmp/svds/keil/Toshiba/M4GR.svd
+	tmp/svds/keil/Toshiba/M4K0A.svd
+	tmp/svds/keil/Toshiba/M4K1A.svd
+	tmp/svds/keil/Toshiba/M4K1B.svd
+	tmp/svds/keil/Toshiba/M4K2A.svd
+	tmp/svds/keil/Toshiba/M4K2B.svd
+	tmp/svds/keil/Toshiba/M4K4A.svd
+	tmp/svds/keil/Toshiba/M4K4B.svd
+	tmp/svds/keil/Toshiba/M4KL.svd
+	tmp/svds/keil/Toshiba/M4KLA.svd
+	tmp/svds/keil/Toshiba/M4KM.svd
+	tmp/svds/keil/Toshiba/M4KMA.svd
+	tmp/svds/keil/Toshiba/M4KN.svd
+	tmp/svds/keil/Toshiba/M4KNA.svd
+	tmp/svds/keil/Toshiba/M4KP.svd
+	tmp/svds/keil/Toshiba/M4KQ.svd
+	tmp/svds/keil/Toshiba/M4L1.svd
+	tmp/svds/keil/Toshiba/M4L2.svd
+	tmp/svds/keil/Toshiba/M4MLA.svd
+	tmp/svds/keil/Toshiba/M4MMA.svd
+	tmp/svds/keil/Toshiba/M4MNA.svd
+	tmp/svds/keil/Toshiba/M4NN.svd
+	tmp/svds/keil/Toshiba/M4NQ.svd
+	tmp/svds/keil/Toshiba/M4NR.svd
+	tmp/svds/keil/Toshiba/TC35678.svd
+	tmp/svds/keil/Toshiba/TC3567C.svd
+	tmp/svds/keil/Toshiba/TC35680.svd
+	tmp/svds/keil/YTMicro/YTM32B1HA0.svd
+	tmp/svds/keil/YTMicro/YTM32B1LE0.svd
+	tmp/svds/keil/YTMicro/YTM32B1LE1.svd
+	tmp/svds/keil/YTMicro/YTM32B1MC0.svd
+	tmp/svds/keil/YTMicro/YTM32B1MD1.svd
+	tmp/svds/keil/YTMicro/YTM32B1MD2.svd
+	tmp/svds/keil/YTMicro/YTM32B1ME0.svd
+	tmp/svds/keil/YTMicro/YTM32B1ME1.svd
+	tmp/svds/keil/YTMicro/YTM32Z1LS0.svd
+	tmp/svds/keil/YTMicro/YTM32Z1LS1.svd
+	tmp/svds/keil/YTMicro/YTM32Z1MD0.svd
+	tmp/svds/keil/YTMicro/YTM32Z1ME0.svd
+2294 devices with rank #428

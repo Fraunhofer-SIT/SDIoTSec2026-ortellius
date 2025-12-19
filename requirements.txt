@@ -1,0 +1,6 @@
+psutil==7.1.3
+packaging==25.0
+pydantic==2.12.5
+svdsuite==0.2.2
+pyghidra==3.0.0
+requests_doh==1.0.0
