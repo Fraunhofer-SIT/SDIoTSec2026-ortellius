@@ -1,6 +1,20 @@
 # Artifact repository
 
-This repository contains evaluation artifacts for the short paper **Identifying Microcontroller Architecture Through Static Analysis of Firmware Binaries** submitted to SDIoTSec 2026.
+This repository contains evaluation artifacts for the short paper **Identifying Microcontroller Architecture Through Static Analysis of Firmware Binaries** submitted to SDIoTSec 2026.´
+
+## Check out the original paper!
+
+You can find the paper here:
+
+https://www.ndss-symposium.org/wp-content/uploads/sdiotsec26-7.pdf
+
+## Further development
+
+The code in this replication package will not change to ensure reproducibility in the future. Further development of the tools take place in the following repositories:
+
+* https://github.com/logsincostan/svdmap
+* https://github.com/logsincostan/ortellius
+
 
 ## Organization of this repository
 * `evaluation.md` contains a detailed explanation of the performed evaluation. In particular, it contains information on how the firmware binaries have been obtained and the calculations behind the statistics presented in the paper.
