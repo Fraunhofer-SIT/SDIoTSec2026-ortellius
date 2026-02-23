@@ -10,7 +10,7 @@ https://www.ndss-symposium.org/wp-content/uploads/sdiotsec26-7.pdf
 
 ## Further development
 
-The code in this replication package will not change to ensure reproducibility in the future. Further development of the tools take place in the following repositories:
+The code in this replication package will not change to ensure reproducibility in the future. Further development of the tools will take place in the following repositories:
 
 * https://github.com/logsincostan/svdmap
 * https://github.com/logsincostan/ortellius
